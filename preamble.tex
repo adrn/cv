@@ -1,10 +1,6 @@
 \usepackage{hyperref}
 \usepackage{geometry}
-\usepackage[T1]{fontenc}
-\usepackage{natbib}
-
-% name here
-\def\name{\textbf{Adrian M. Price-Whelan}}
+\usepackage{fontawesome}
 
 % Date formatting.
 \usepackage[yyyymmdd]{datetime}
@@ -12,17 +8,7 @@
 
 % ADS query link
 \def\adsurl{http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_logic=OR&obj_logic=OR&author=price-whelan\%2C+Adrian&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1}
-
-% PDF metadata
-\hypersetup{
-  colorlinks = true,
-  urlcolor = [rgb]{0.1,0.25,0.5},
-  pdfauthor = {\name},
-  pdfkeywords = {astrophysics, astronomy, physics},
-  pdftitle = {\name: Curriculum Vitae},
-  pdfsubject = {Curriculum Vitae},
-  pdfpagemode = UseNone
-}
+\def\arxivurl{https://arxiv.org/search/?query=adrian+price-whelan&searchtype=all&source=header}
 
 % page size
 \geometry{
@@ -37,7 +23,7 @@
 \newcommand{\deemph}[1]{\textcolor{grey}{\footnotesize{#1}}}
 
 % heading / footing
-\usepackage{fancyheadings}
+\usepackage{fancyhdr}
 \pagestyle{fancy}
 \renewcommand{\headrulewidth}{0pt}
 \lhead{\deemph{Adrian M. Price-Whelan}}
@@ -62,11 +48,11 @@
 }
 
 % Change section font size and spacing
-\usepackage{titlesec}
-\titleformat{\section}{\normalfont\fontsize{14pt}{0}\bfseries}{\thesection}{}{}
-\titleformat{\subsection}{\normalfont\fontsize{12pt}{0}\bfseries}{\thesubsection}{}{}
-\titlespacing{\section}{0em}{-0.em}{0.25em}
-\titlespacing{\subsection}{0.5em}{0.em}{0.25em}
+% \usepackage{titlesec}
+% \titleformat{\section}{\normalfont\fontsize{14pt}{0}\bfseries}{\thesection}{}{}
+% \titleformat{\subsection}{\normalfont\fontsize{12pt}{0}\bfseries}{\thesubsection}{}{}
+% \titlespacing{\section}{0em}{-0.em}{0.25em}
+% \titlespacing{\subsection}{0.5em}{0.em}{0.25em}
 
 % literature links (thanks @dfm)
 \newcommand{\doi}[2]{\emph{\href{http://dx.doi.org/#1}{{#2}}}}
@@ -83,3 +69,14 @@
 \newcommand{\mnras}{MNRAS}
 \newcommand{\mnrasl}{MNRAS Letters}
 \newcommand{\nature}{Nature}
+
+% PDF metadata
+\hypersetup{
+  colorlinks = true,
+  pdfkeywords = {astrophysics, astronomy, physics},
+  pdftitle = {Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone,
+  linkcolor = links,
+  urlcolor = links
+}

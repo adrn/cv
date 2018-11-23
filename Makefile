@@ -1,4 +1,4 @@
-LATEX       = pdflatex
+LATEX       = xelatex
 RM          = rm -rf
 
 TMP_SUFFS   = aux bbl blg log dvi ps eps out synctex.gz
