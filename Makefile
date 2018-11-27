@@ -13,3 +13,4 @@ all: ${ALL_FILES}
 
 clean:
 	${RM_TMP} ${ALL_FILES}
+	rm *~
