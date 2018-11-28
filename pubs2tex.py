@@ -138,6 +138,9 @@ def get_paper_items(papers):
         if paper["page"] is not None:
             entry += ", {0}".format(paper["page"])
 
+        if paper['pubdate'] is not None:
+            entry += ", {0}".format(paper['pubdate'].split('-')[0])
+
         if paper["arxiv"] is not None:
             entry += " (\\arxiv{{{0}}})".format(paper["arxiv"])
 
