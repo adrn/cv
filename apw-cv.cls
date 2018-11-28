@@ -8,7 +8,7 @@
 \ProcessOptions\relax
 \LoadClass{article}
 
-\usepackage[left=1in, right=1in, top=0.5in, bottom=1in]{geometry} % Page margins
+\usepackage[left=1in, right=1in, body={6.5in, 9.0in}]{geometry} % Page margins
 \usepackage{hyperref} % Required for links
 \usepackage{enumitem}
 
@@ -24,6 +24,7 @@
 \definecolor{subsections}{HTML}{666666} % subsection heading color
 \definecolor{rules}{HTML}{cccccc} % for horizontal rules
 \definecolor{links}{HTML}{3086b4} % link color
+\definecolor{deemph}{HTML}{666666} % light grey
 
 %-----------------------------------------------------------------------------
 %	Font
@@ -73,6 +74,18 @@
 \titleformat{\subsection}{ % Customize the subsections and places worked/studied titles
 \color{subsections}\fontspec[Path = fonts/lato/]{Lato-Reg}\fontsize{14pt}{16pt}}{}{0em}{}[{\vspace{0.4em}}]
 
+% Make lists without bullets and compact spacing
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{2em}
+    \setlength{\itemsep}{0.em}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0.25em}
+    % \setlength{\itemindent}{0em}
+  }
+}{
+  \end{list}
+}
 
 % %----------------------------------------------------------------------------------------
 % %	SECTION TITLE STYLING AND SPACING

@@ -13,16 +13,16 @@ def get_all_papers(author):
 
     all_dicts = []
     for paper in papers:
-        try:
-            page = int(paper.page[0])
-        except (ValueError, TypeError):
-            page = None
-
         # Get arxiv ID
         aid = [":".join(t.split(":")[1:]) for t in paper.identifier
                if t.startswith("arXiv:")]
 
-        print(paper.title[0])
+        try:
+            page = int(paper.page[0])
+        except (ValueError, TypeError):
+            page = None
+            if paper.page is not None and paper.page[0].startswith("arXiv:"):
+                aid.append(":".join(paper.page[0].split(":")[1:]))
 
         all_dicts.append(dict(
             doctype=paper.doctype,
