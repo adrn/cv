@@ -1,5 +1,67 @@
 [
     {
+        "arxiv": "1812.08192",
+        "authors": [
+            "Erkal, D.",
+            "Belokurov, V.",
+            "Laporte, C. F. P.",
+            "Koposov, S. E.",
+            "Li, T. S.",
+            "Grillmair, C. J.",
+            "Kallivayalil, N.",
+            "Price-Whelan, A. M.",
+            "Evans, N. W.",
+            "Hawkins, K.",
+            "Hendel, D.",
+            "Mateu, C.",
+            "Navarro, J. F.",
+            "del Pino, A.",
+            "Slater, C. T.",
+            "Sohn, S. T."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2018-12-00",
+        "title": "The total mass of the Large Magellanic Cloud from its perturbation on the Orphan stream",
+        "url": "http://adsabs.harvard.edu/abs/2018arXiv181208192E",
+        "volume": null,
+        "year": "2018"
+    },
+    {
+        "arxiv": "1812.08172",
+        "authors": [
+            "Koposov, S. E.",
+            "Belokurov, V.",
+            "Li, T. S.",
+            "Mateu, C.",
+            "Erkal, D.",
+            "Grillmair, C. J.",
+            "Hendel, D.",
+            "Price-Whelan, A. M.",
+            "Laporte, C. F. P.",
+            "Hawkins, K.",
+            "Sohn, S. T.",
+            "del Pino, A.",
+            "Evans, N. W.",
+            "Slater, C. T.",
+            "Kallivayalil, N.",
+            "Navarro, J. F."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2018-12-00",
+        "title": "Piercing the Milky Way: an all-sky view of the Orphan Stream",
+        "url": "http://adsabs.harvard.edu/abs/2018arXiv181208172K",
+        "volume": null,
+        "year": "2018"
+    },
+    {
         "arxiv": "1811.05991",
         "authors": [
             "Price-Whelan, Adrian M.",
@@ -10,11 +72,11 @@
             "Koposov, Sergey E.",
             "Belokurov, Vasily"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "eprint",
         "doi": null,
         "page": null,
-        "pub": "ArXiv e-prints",
+        "pub": "arXiv e-prints",
         "pubdate": "2018-11-00",
         "title": "Discovery of a disrupting open cluster far into the Milky Way halo: a recent star formation event in the leading arm of the Magellanic stream?",
         "url": "http://adsabs.harvard.edu/abs/2018arXiv181105991P",
@@ -29,11 +91,11 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 1,
+        "citations": 4,
         "doctype": "eprint",
         "doi": null,
         "page": null,
-        "pub": "ArXiv e-prints",
+        "pub": "arXiv e-prints",
         "pubdate": "2018-11-00",
         "title": "The Spur and the Gap in GD-1: Dynamical evidence for a dark substructure in the Milky Way halo",
         "url": "http://adsabs.harvard.edu/abs/2018arXiv181103631B",
@@ -41,7 +103,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1804.06841",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Goodman, Jeremy"
@@ -72,7 +134,7 @@
         "doctype": "eprint",
         "doi": null,
         "page": null,
-        "pub": "ArXiv e-prints",
+        "pub": "arXiv e-prints",
         "pubdate": "2018-10-00",
         "title": "Hypervelocity Stars from a Supermassive Black Hole-Intermediate Mass Black Hole binary",
         "url": "http://adsabs.harvard.edu/abs/2018arXiv181012354R",
@@ -80,7 +142,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1807.04784",
         "authors": [
             "De Rosa, G.",
             "Fausnaugh, M. M.",
@@ -197,7 +259,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1805.05970",
         "authors": [
             "Kado-Fong, E.",
             "Greene, J. E.",
@@ -213,7 +275,7 @@
             "Strauss, M. A.",
             "Tanaka, M."
         ],
-        "citations": 1,
+        "citations": 4,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae0f0",
         "page": 103,
@@ -225,7 +287,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1706.05055",
         "authors": [
             "Anderson, Lauren",
             "Hogg, David W.",
@@ -245,7 +307,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1801.02634",
         "authors": [
             "Astropy Collaboration",
             "Price-Whelan, A. M.",
@@ -388,7 +450,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 187,
+        "citations": 224,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -400,7 +462,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1711.04663",
         "authors": [
             "Hendel, David",
             "Scowcroft, Victoria",
@@ -435,7 +497,7 @@
             "Soszy\u0144ski, Igor",
             "Udalski, Andrzej"
         ],
-        "citations": 7,
+        "citations": 10,
         "doctype": "article",
         "doi": "10.1093/mnras/sty1455",
         "page": 570,
@@ -471,12 +533,12 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1805.00425",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 6,
+        "citations": 10,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -488,7 +550,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1804.04662",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Hogg, David W.",
@@ -504,7 +566,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 5,
+        "citations": 6,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -572,7 +634,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1805.03706",
         "authors": [
             "Hayes, Christian R.",
             "Majewski, Steven R.",
@@ -605,7 +667,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1803.00563",
         "authors": [
             "Bergemann, Maria",
             "Sesar, Branimir",
@@ -620,7 +682,7 @@
             "Sch\u00f6nrich, Ralph",
             "Gould, Andrew"
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.1038/nature25490",
         "page": 334,
@@ -632,7 +694,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1712.09631",
         "authors": [
             "Morris, Brett M.",
             "Tollerud, Erik",
@@ -647,7 +709,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -683,7 +745,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1709.05344",
         "authors": [
             "Oh, Semyeong",
             "Price-Whelan, Adrian M.",
@@ -692,7 +754,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 14,
+        "citations": 15,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -704,7 +766,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1801.01171",
         "authors": [
             "Sheffield, Allyson A.",
             "Price-Whelan, Adrian M.",
@@ -725,7 +787,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1704.06681",
         "authors": [
             "Greco, Johnny P.",
             "Greene, Jenny E.",
@@ -753,7 +815,7 @@
         "year": "2018"
     },
     {
-        "arxiv": null,
+        "arxiv": "1706.07436",
         "authors": [
             "Goulding, Andy D.",
             "Greene, Jenny E.",
@@ -765,7 +827,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 16,
+        "citations": 17,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -863,7 +925,7 @@
         "doctype": "eprint",
         "doi": null,
         "page": null,
-        "pub": "ArXiv e-prints",
+        "pub": "arXiv e-prints",
         "pubdate": "2017-09-00",
         "title": "Spectroscopic confirmation of very-wide stellar binaries and large-separation comoving pairs from Gaia DR1",
         "url": "http://adsabs.harvard.edu/abs/2017arXiv170903532P",
@@ -871,7 +933,7 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1607.03155",
         "authors": [
             "Alam, Shadab",
             "Ata, Metin",
@@ -947,7 +1009,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 390,
+        "citations": 404,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -996,7 +1058,7 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1703.04627",
         "authors": [
             "Pearson, Sarah",
             "Price-Whelan, Adrian M.",
@@ -1014,7 +1076,7 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1709.00491",
         "authors": [
             "Johnston, Kathryn V.",
             "Price-Whelan, Adrian M.",
@@ -1039,7 +1101,7 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1703.05384",
         "authors": [
             "Li, Ting S.",
             "Sheffield, Allyson A.",
@@ -1082,7 +1144,7 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1612.02440",
         "authors": [
             "Oh, Semyeong",
             "Price-Whelan, Adrian M.",
@@ -1090,7 +1152,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 29,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -1120,7 +1182,7 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1611.07035",
         "authors": [
             "Sesar, Branimir",
             "Fouesneau, Morgan",
@@ -1141,14 +1203,14 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1610.07602",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Hogg, David W.",
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 14,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -1179,7 +1241,7 @@
         "year": "2017"
     },
     {
-        "arxiv": null,
+        "arxiv": "1604.01020",
         "authors": [
             "Charisi, M.",
             "Bartos, I.",
@@ -1359,11 +1421,11 @@
             "Zhu, Guangtun",
             "Zonca, Andrea"
         ],
-        "citations": 5,
+        "citations": 7,
         "doctype": "eprint",
         "doi": null,
         "page": null,
-        "pub": "ArXiv e-prints",
+        "pub": "arXiv e-prints",
         "pubdate": "2016-10-00",
         "title": "The Astropy Problem",
         "url": "http://adsabs.harvard.edu/abs/2016arXiv161003159M",
@@ -1394,7 +1456,7 @@
         "year": "2016"
     },
     {
-        "arxiv": null,
+        "arxiv": "1601.06790",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Sesar, Branimir",
@@ -1581,7 +1643,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 23,
+        "citations": 24,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": 45906,
@@ -1630,7 +1692,7 @@
         "year": "2016"
     },
     {
-        "arxiv": null,
+        "arxiv": "1512.00469",
         "authors": [
             "Sesar, Branimir",
             "Price-Whelan, Adrian M.",
@@ -1680,7 +1742,7 @@
         "year": "2016"
     },
     {
-        "arxiv": null,
+        "arxiv": "1507.08662",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Johnston, Kathryn V.",
@@ -1689,7 +1751,7 @@
             "K\u00fcpper, Andreas H. W.",
             "Hogg, David W."
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.1093/mnras/stv2383",
         "page": 1079,
@@ -1733,7 +1795,7 @@
         "year": "2015"
     },
     {
-        "arxiv": null,
+        "arxiv": "1502.03113",
         "authors": [
             "Charisi, M.",
             "Bartos, I.",
@@ -1776,7 +1838,7 @@
         "year": "2015"
     },
     {
-        "arxiv": null,
+        "arxiv": "1503.08780",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Johnston, Kathryn V.",
@@ -1796,7 +1858,7 @@
         "year": "2015"
     },
     {
-        "arxiv": null,
+        "arxiv": "1501.00581",
         "authors": [
             "Sesar, Branimir",
             "Bovy, Jo",
@@ -1834,7 +1896,7 @@
         "year": "2015"
     },
     {
-        "arxiv": null,
+        "arxiv": "1501.00963",
         "authors": [
             "Alam, Shadab",
             "Albareti, Franco D.",
@@ -2141,7 +2203,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 960,
+        "citations": 984,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -2176,7 +2238,7 @@
             "Johnston, Kathryn V.",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 39,
+        "citations": 40,
         "doctype": "article",
         "doi": "10.1088/0004-637X/799/1/28",
         "page": 28,
@@ -2335,7 +2397,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 787,
+        "citations": 799,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -2611,7 +2673,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 684,
+        "citations": 690,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -2777,7 +2839,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 1592,
+        "citations": 1660,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -2868,7 +2930,7 @@
             "Sanders, Jeremy",
             "Zuntz, Joe"
         ],
-        "citations": 28,
+        "citations": 27,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -3048,7 +3110,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 934,
+        "citations": 952,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -3321,7 +3383,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 898,
+        "citations": 904,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -3623,7 +3685,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1151,
+        "citations": 1162,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -3818,7 +3880,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 42,
+        "citations": 43,
         "doctype": "erratum",
         "doi": "10.1088/0067-0049/195/2/26",
         "page": 26,
@@ -3838,7 +3900,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 158,
+        "citations": 162,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -4033,7 +4095,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 947,
+        "citations": 955,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
@@ -4050,7 +4112,7 @@
             "Price-Whelan, Adrian M.",
             "Hogg, David W."
         ],
-        "citations": 3,
+        "citations": 4,
         "doctype": "article",
         "doi": "10.1086/651009",
         "page": 207,
@@ -4069,7 +4131,7 @@
             "Price-Whelan, Alexa",
             "Newman, Dianne K."
         ],
-        "citations": 31,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.1126/science.1160619",
         "page": 1203,

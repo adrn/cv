@@ -3,7 +3,7 @@ import json
 import re
 from utf8totex import utf8totex
 
-JOURNAL_MAP = {
+_JOURNAL_MAP = {
     "ArXiv e-prints": "ArXiv",
     "The Astronomical Journal": "\\aj",
     "The Astrophysical Journal": "\\apj",
@@ -29,6 +29,12 @@ JOURNAL_SKIP = [
     "Rediscovering Our Galaxy",
     "The Astronomer's Telegram",
 ]
+JOURNAL_SKIP = [x.lower() for x in JOURNAL_SKIP]
+
+# Lower case journals:
+JOURNAL_MAP = {}
+for k, v in _JOURNAL_MAP.items():
+    JOURNAL_MAP[k.lower()] = v
 
 
 def format_name(name):
@@ -75,13 +81,16 @@ def filter_papers(pubs):
     filtered = []
 
     for p in pubs:
+        if p["pub"] is None:
+            continue
+
         # Skip if the publication is in the skip list:
-        if any([re.match(re.compile(pattr), p['pub'])
+        if any([re.match(re.compile(pattr), p['pub'].lower())
                 for pattr in JOURNAL_SKIP]):
             continue
 
-        if p["pub"] not in [None, "ArXiv e-prints"]:
-            pub = JOURNAL_MAP.get(p["pub"].strip("0123456789# "),
+        if p["pub"].lower() != "arxiv e-prints":
+            pub = JOURNAL_MAP.get(p["pub"].strip("0123456789# ").lower(),
                                   None)
 
             if pub is None:
@@ -89,7 +98,7 @@ def filter_papers(pubs):
                       " skipping...".format(p['pub'], p['title']))
                 continue
 
-        # HACK: hard-coded
+        # HACK: hard-coded skip
         if 'astropy problem' in p['title'].lower():
             continue
 
@@ -107,7 +116,7 @@ def get_paper_items(papers):
         entry = authors
 
         # Skip if the publication is in the skip list:
-        if any([re.match(re.compile(pattr), paper['pub'])
+        if any([re.match(re.compile(pattr), paper['pub'].lower())
                 for pattr in JOURNAL_SKIP]):
             continue
 
@@ -118,8 +127,9 @@ def get_paper_items(papers):
             title = "\\textit{{{0}}}".format(utf8totex(paper["title"]))
         entry += ", " + title
 
-        if paper["pub"] not in [None, "ArXiv e-prints"]:
-            pub = JOURNAL_MAP.get(paper["pub"].strip("0123456789# "), None)
+        if paper["pub"] not in [None, "ArXiv e-prints", "arXiv e-prints"]: # HACK
+            pub = JOURNAL_MAP.get(paper["pub"].strip("0123456789# ").lower(),
+                                  None)
 
             if pub is None:
                 print("Journal '{0}' not recognized for paper '{1}' - "
