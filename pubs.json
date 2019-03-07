@@ -2,6 +2,29 @@
     {
         "arxiv": null,
         "authors": [
+            "Schiessl, Konstanze T.",
+            "Hu, Fanghao",
+            "Jo, Jeanyoung",
+            "Nazia, Sakila Z.",
+            "Wang, Bryan",
+            "Price-Whelan, Alexa",
+            "Min, Wei",
+            "Dietrich, Lars E. P."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.1038/s41467-019-08733-w",
+        "page": 762,
+        "pub": "Nature Communications",
+        "pubdate": "2019-02-00",
+        "title": "Phenazine production promotes antibiotic tolerance and metabolic heterogeneity in Pseudomonas aeruginosa biofilms",
+        "url": "http://adsabs.harvard.edu/abs/2019NatCo..10..762S",
+        "volume": "10",
+        "year": "2019"
+    },
+    {
+        "arxiv": "1812.08172",
+        "authors": [
             "Koposov, S. E.",
             "Belokurov, V.",
             "Li, T. S.",
@@ -19,7 +42,7 @@
             "Kallivayalil, N.",
             "Navarro, J. F."
         ],
-        "citations": 0,
+        "citations": 3,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 457,
@@ -54,6 +77,34 @@
         "pubdate": "2019-02-00",
         "title": "Tidal interactions between binary stars drives lithium production in low-mass red giants",
         "url": "http://adsabs.harvard.edu/abs/2019arXiv190204102C",
+        "volume": null,
+        "year": "2019"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Price-Whelan, A. M.",
+            "Hogg, D. W.",
+            "Rix, H. -W.",
+            "de, Lee N.",
+            "Majewski, S. R.",
+            "Nidever, D. L.",
+            "Troup, N.",
+            "Fernandez-Trincado, J. G.",
+            "Garcia-Hernandez, D. A.",
+            "Longa-Pena, P.",
+            "Nitschelm, C.",
+            "Sobeck, J.",
+            "Zamora, O."
+        ],
+        "citations": 0,
+        "doctype": "catalog",
+        "doi": null,
+        "page": null,
+        "pub": "VizieR Online Data Catalog",
+        "pubdate": "2019-01-00",
+        "title": "VizieR Online Data Catalog: APOGEE DR14:Binary companions of evolved stars (Price-Whelan+, 2018)",
+        "url": "http://adsabs.harvard.edu/abs/2019yCat..51560018P",
         "volume": null,
         "year": "2019"
     },
@@ -167,37 +218,6 @@
         "year": "2018"
     },
     {
-        "arxiv": "1812.08172",
-        "authors": [
-            "Koposov, S. E.",
-            "Belokurov, V.",
-            "Li, T. S.",
-            "Mateu, C.",
-            "Erkal, D.",
-            "Grillmair, C. J.",
-            "Hendel, D.",
-            "Price-Whelan, A. M.",
-            "Laporte, C. F. P.",
-            "Hawkins, K.",
-            "Sohn, S. T.",
-            "del Pino, A.",
-            "Evans, N. W.",
-            "Slater, C. T.",
-            "Kallivayalil, N.",
-            "Navarro, J. F."
-        ],
-        "citations": 3,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2018-12-00",
-        "title": "Piercing the Milky Way: an all-sky view of the Orphan Stream",
-        "url": "http://adsabs.harvard.edu/abs/2018arXiv181208172K",
-        "volume": null,
-        "year": "2018"
-    },
-    {
         "arxiv": null,
         "authors": [
             "Sheffield, A. A.",
@@ -229,7 +249,7 @@
             "Koposov, Sergey E.",
             "Belokurov, Vasily"
         ],
-        "citations": 3,
+        "citations": 2,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -404,7 +424,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -452,7 +472,7 @@
             "Price-Whelan, Adrian M.",
             "Bovy, Jo"
         ],
-        "citations": 13,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aad7bf",
         "page": 145,
@@ -607,7 +627,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 274,
+        "citations": 296,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -695,7 +715,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 14,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -723,7 +743,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 9,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -839,7 +859,7 @@
             "Sch\u00f6nrich, Ralph",
             "Gould, Andrew"
         ],
-        "citations": 12,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.1038/nature25490",
         "page": 334,
@@ -984,7 +1004,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 20,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -1039,7 +1059,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -1078,7 +1098,7 @@
             "Oh, Semyeong",
             "Spergel, David N."
         ],
-        "citations": 9,
+        "citations": 10,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1166,7 +1186,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 433,
+        "citations": 449,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -1273,7 +1293,7 @@
             "Sharma, Sanjib",
             "Sesar, Branimir"
         ],
-        "citations": 13,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa7a0d",
         "page": 74,
@@ -1309,7 +1329,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 32,
+        "citations": 35,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -1368,7 +1388,7 @@
             "Gould, Andy",
             "Rix, Hans-Walter"
         ],
-        "citations": 29,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa643b",
         "page": 107,
@@ -1429,7 +1449,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 52,
+        "citations": 53,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -2446,7 +2466,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1009,
+        "citations": 1028,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -2702,7 +2722,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 813,
+        "citations": 823,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -2978,7 +2998,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 697,
+        "citations": 696,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -3144,7 +3164,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 1757,
+        "citations": 1811,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -3415,7 +3435,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 970,
+        "citations": 977,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -3688,7 +3708,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 916,
+        "citations": 919,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -3711,7 +3731,7 @@
             "Price-Whelan, Alexa",
             "Dietrich, Lars E. P."
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.1073/pnas.1213901109",
         "page": 19420,
@@ -3990,7 +4010,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1189,
+        "citations": 1205,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -4205,7 +4225,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 171,
+        "citations": 174,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -4400,7 +4420,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 964,
+        "citations": 966,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
@@ -4436,7 +4456,7 @@
             "Price-Whelan, Alexa",
             "Newman, Dianne K."
         ],
-        "citations": 32,
+        "citations": 34,
         "doctype": "article",
         "doi": "10.1126/science.1160619",
         "page": 1203,
