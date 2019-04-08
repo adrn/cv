@@ -1,5 +1,36 @@
 [
     {
+        "arxiv": "1812.08172",
+        "authors": [
+            "Koposov, S. E.",
+            "Belokurov, V.",
+            "Li, T. S.",
+            "Mateu, C.",
+            "Erkal, D.",
+            "Grillmair, C. J.",
+            "Hendel, D.",
+            "Price-Whelan, A. M.",
+            "Laporte, C. F. P.",
+            "Hawkins, K.",
+            "Sohn, S. T.",
+            "del Pino, A.",
+            "Evans, N. W.",
+            "Slater, C. T.",
+            "Kallivayalil, N.",
+            "Navarro, J. F."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.1093/mnras/stz457",
+        "page": 4726,
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "pubdate": "2019-06-00",
+        "title": "Piercing the Milky Way: an all-sky view of the Orphan Stream",
+        "url": "http://adsabs.harvard.edu/abs/2019MNRAS.485.4726K",
+        "volume": "485",
+        "year": "2019"
+    },
+    {
         "arxiv": "1903.05094",
         "authors": [
             "Breivik, Katelyn",
@@ -99,7 +130,7 @@
             "Ting, Yuan-Sen",
             "Venn, Kim"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -131,37 +162,6 @@
         "title": "Phenazine production promotes antibiotic tolerance and metabolic heterogeneity in Pseudomonas aeruginosa biofilms",
         "url": "http://adsabs.harvard.edu/abs/2019NatCo..10..762S",
         "volume": "10",
-        "year": "2019"
-    },
-    {
-        "arxiv": "1812.08172",
-        "authors": [
-            "Koposov, S. E.",
-            "Belokurov, V.",
-            "Li, T. S.",
-            "Mateu, C.",
-            "Erkal, D.",
-            "Grillmair, C. J.",
-            "Hendel, D.",
-            "Price-Whelan, A. M.",
-            "Laporte, C. F. P.",
-            "Hawkins, K.",
-            "Sohn, S. T.",
-            "del Pino, A.",
-            "Evans, N. W.",
-            "Slater, C. T.",
-            "Kallivayalil, N.",
-            "Navarro, J. F."
-        ],
-        "citations": 4,
-        "doctype": "article",
-        "doi": "10.1093/mnras/stz457",
-        "page": 457,
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "pubdate": "2019-02-00",
-        "title": "Piercing the Milky Way: an all-sky view of the Orphan Stream",
-        "url": "http://adsabs.harvard.edu/abs/2019MNRAS.tmp..457K",
-        "volume": null,
         "year": "2019"
     },
     {
@@ -317,7 +317,7 @@
             "Slater, C. T.",
             "Sohn, S. T."
         ],
-        "citations": 5,
+        "citations": 6,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -379,7 +379,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 9,
+        "citations": 10,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -569,7 +569,7 @@
         "page": 103,
         "pub": "The Astrophysical Journal",
         "pubdate": "2018-10-00",
-        "title": "Tidal Features at 0.05\u00a0&lt;\u00a0z\u00a0&lt;\u00a00.45 in the Hyper Suprime-Cam Subaru Strategic Program: Properties and Formation Channels",
+        "title": "Tidal Features at 0.05 &lt; z &lt; 0.45 in the Hyper Suprime-Cam Subaru Strategic Program: Properties and Formation Channels",
         "url": "http://adsabs.harvard.edu/abs/2018ApJ...866..103K",
         "volume": "866",
         "year": "2018"
@@ -738,7 +738,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 319,
+        "citations": 336,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -854,7 +854,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 22,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -970,7 +970,7 @@
             "Sch\u00f6nrich, Ralph",
             "Gould, Andrew"
         ],
-        "citations": 17,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.1038/nature25490",
         "page": 334,
@@ -1115,7 +1115,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 25,
+        "citations": 26,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -1297,7 +1297,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 459,
+        "citations": 470,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -1518,7 +1518,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 18,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -1560,7 +1560,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 54,
+        "citations": 55,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -2577,7 +2577,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1037,
+        "citations": 1042,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -2612,11 +2612,11 @@
         "citations": 0,
         "doctype": "software",
         "doi": "10.5281/zenodo.18787",
-        "page": 1878,
+        "page": 18787,
         "pub": "Zenodo Software Release",
         "pubdate": "2015-06-00",
         "title": "SuperFreq",
-        "url": "http://adsabs.harvard.edu/abs/2015zndo.soft.18787",
+        "url": "http://adsabs.harvard.edu/abs/2015zndo.soft18787P",
         "volume": null,
         "year": "2015"
     },
@@ -2833,7 +2833,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 823,
+        "citations": 827,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -3109,7 +3109,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 700,
+        "citations": 702,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -3275,7 +3275,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 1844,
+        "citations": 1878,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -3295,7 +3295,7 @@
             "Price-Whelan, A. M.",
             "Bogdanov, S."
         ],
-        "citations": 30,
+        "citations": 31,
         "doctype": "article",
         "doi": null,
         "page": 1,
@@ -3546,7 +3546,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 987,
+        "citations": 992,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -3819,7 +3819,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 922,
+        "citations": 925,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -4121,7 +4121,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1213,
+        "citations": 1221,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -4531,7 +4531,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 968,
+        "citations": 969,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
