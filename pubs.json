@@ -19,7 +19,7 @@
             "Kallivayalil, N.",
             "Navarro, J. F."
         ],
-        "citations": 5,
+        "citations": 7,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -459,7 +459,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -596,7 +596,7 @@
             "Slater, C. T.",
             "Sohn, S. T."
         ],
-        "citations": 7,
+        "citations": 10,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -658,7 +658,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -814,7 +814,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 3,
+        "citations": 2,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -842,7 +842,7 @@
             "Strauss, M. A.",
             "Tanaka, M."
         ],
-        "citations": 4,
+        "citations": 6,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae0f0",
         "page": 103,
@@ -1017,7 +1017,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 346,
+        "citations": 381,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -1105,7 +1105,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 19,
+        "citations": 20,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -1133,7 +1133,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 28,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -1249,7 +1249,7 @@
             "Sch\u00f6nrich, Ralph",
             "Gould, Andrew"
         ],
-        "citations": 19,
+        "citations": 20,
         "doctype": "article",
         "doi": "10.1038/nature25490",
         "page": 334,
@@ -1370,7 +1370,7 @@
             "Tanaka, Masayuki",
             "Usuda, Tomonori"
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.1093/pasj/psx051",
         "page": null,
@@ -1394,7 +1394,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 26,
+        "citations": 28,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -1449,7 +1449,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 13,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -1576,7 +1576,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 475,
+        "citations": 497,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -1719,7 +1719,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 41,
+        "citations": 43,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -1839,7 +1839,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 55,
+        "citations": 57,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -2499,7 +2499,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 44,
+        "citations": 45,
         "doctype": "article",
         "doi": "10.1093/mnras/stv1324",
         "page": 676,
@@ -2856,7 +2856,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1044,
+        "citations": 1050,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -2963,7 +2963,7 @@
             "Johnston, Kathryn V.",
             "Hendel, David"
         ],
-        "citations": 29,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.1088/0004-637X/794/1/4",
         "page": 4,
@@ -3112,7 +3112,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 832,
+        "citations": 840,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -3388,7 +3388,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 706,
+        "citations": 712,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -3554,7 +3554,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 1898,
+        "citations": 1945,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -3825,7 +3825,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 995,
+        "citations": 1004,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -4098,7 +4098,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 926,
+        "citations": 930,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -4400,7 +4400,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1227,
+        "citations": 1239,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -4810,7 +4810,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 969,
+        "citations": 972,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
