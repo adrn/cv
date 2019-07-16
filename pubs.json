@@ -32,6 +32,71 @@
         "year": "2019"
     },
     {
+        "arxiv": null,
+        "authors": [
+            "Price-Whelan, Adrian M.",
+            "Foreman-Mackey, Daniel"
+        ],
+        "citations": 0,
+        "doctype": "software",
+        "doi": null,
+        "page": null,
+        "pub": "Astrophysics Source Code Library",
+        "pubdate": "2019-07-00",
+        "title": "schwimmbad: Parallel processing pools interface",
+        "url": "http://adsabs.harvard.edu/abs/2019ascl.soft07001P",
+        "volume": null,
+        "year": "2019"
+    },
+    {
+        "arxiv": "1907.05422",
+        "authors": [
+            "Ness, Melissa",
+            "Bird, Jonathan",
+            "Johnson, Jennifer",
+            "Zasowski, Gail",
+            "Kollmeier, Juna",
+            "Rix, Hans-Walter",
+            "Silva Aguirre, Victor",
+            "Anguiano, Borja",
+            "Basu, Sarbani",
+            "Brown, Anthony",
+            "Buder, Sven",
+            "Chiappini, Cristina",
+            "Cunha, Katia",
+            "Dongia, Elena",
+            "Frinchaboy, Peter",
+            "Hekker, Saskia",
+            "Hunt, Jason",
+            "Johnston, Kathryn",
+            "Lane, Richard",
+            "Lucatello, Sara",
+            "Meszaros, Szabolcs",
+            "Meza, Andres",
+            "Minchev, Ivan",
+            "Nataf, David",
+            "Pinsonneault, Marc",
+            "Price-Whelan, Adrian M.",
+            "Sanderson, Robyn",
+            "Sobeck, Jennifer",
+            "Stassun, Keivan",
+            "Steinmetz, Matthias",
+            "Ting, Yuan-Sen",
+            "Venn, Kim",
+            "Xue, Xiangxiang"
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2019-07-00",
+        "title": "In Pursuit of Galactic Archaeology: Astro2020 Science White Paper",
+        "url": "http://adsabs.harvard.edu/abs/2019arXiv190705422N",
+        "volume": null,
+        "year": "2019"
+    },
+    {
         "arxiv": "1907.00987",
         "authors": [
             "Buckley, Matthew R.",
@@ -1336,7 +1401,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 494,
+        "citations": 499,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -1595,7 +1660,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -1895,7 +1960,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 556,
+        "citations": 560,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -2103,7 +2168,7 @@
         "page": 107,
         "pub": "The Astrophysical Journal",
         "pubdate": "2017-04-00",
-        "title": "A Probabilistic Approach to Fitting Period-luminosity Relations and Validating Gaia Parallaxes",
+        "title": "A Probabilistic Approach to Fitting Period\u2500luminosity Relations and Validating Gaia Parallaxes",
         "url": "http://adsabs.harvard.edu/abs/2017ApJ...838..107S",
         "volume": "838",
         "year": "2017"
@@ -2158,7 +2223,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 62,
+        "citations": 63,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -2615,7 +2680,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 27,
+        "citations": 28,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": 45906,
@@ -3175,7 +3240,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1084,
+        "citations": 1086,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -3707,7 +3772,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 715,
+        "citations": 717,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -3873,7 +3938,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2095,
+        "citations": 2103,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -3964,7 +4029,7 @@
             "Sanders, Jeremy",
             "Zuntz, Joe"
         ],
-        "citations": 31,
+        "citations": 32,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -4144,7 +4209,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1031,
+        "citations": 1032,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -4417,7 +4482,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 939,
+        "citations": 940,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -4719,7 +4784,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1267,
+        "citations": 1269,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
