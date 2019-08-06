@@ -107,6 +107,24 @@ def filter_papers(pubs):
     return filtered
 
 
+def get_ref_unref(papers):
+    refereeds = []
+    preprints = []
+
+    for paper in papers:
+        # Skip if the publication is in the skip list:
+        if any([re.match(re.compile(pattr), paper['pub'].lower())
+                for pattr in JOURNAL_SKIP]):
+            continue
+
+        if paper["pub"] not in [None, "ArXiv e-prints", "arXiv e-prints"]:
+            refereeds.append(paper)
+        else:
+            preprints.append(paper)
+
+    return refereeds, preprints
+
+
 def get_paper_items(papers):
     refereeds = []
     preprints = []
