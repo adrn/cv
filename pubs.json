@@ -1,5 +1,33 @@
 [
     {
+        "arxiv": "1902.04102",
+        "authors": [
+            "Casey, Andrew R.",
+            "Ho, Anna Y. Q.",
+            "Ness, Melissa",
+            "Hogg, David W.",
+            "Rix, Hans-Walter",
+            "Angelou, George C.",
+            "Hekker, Saskia",
+            "Tout, Christopher A.",
+            "Lattanzio, John C.",
+            "Karakas, Amanda I.",
+            "Woods, Tyrone E.",
+            "Price-Whelan, Adrian M.",
+            "Schlaufman, Kevin C."
+        ],
+        "citations": 3,
+        "doctype": "article",
+        "doi": "10.3847/1538-4357/ab27bf",
+        "page": 125,
+        "pub": "The Astrophysical Journal",
+        "pubdate": "2019-08-00",
+        "title": "Tidal Interactions between Binary Stars Can Drive Lithium Production in Low-mass Red Giants",
+        "url": "http://adsabs.harvard.edu/abs/2019ApJ...880..125C",
+        "volume": "880",
+        "year": "2019"
+    },
+    {
         "arxiv": "1812.08192",
         "authors": [
             "Erkal, D.",
@@ -39,7 +67,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 17,
+        "citations": 18,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -960,33 +988,6 @@
         "year": "2019"
     },
     {
-        "arxiv": "1902.04102",
-        "authors": [
-            "Casey, Andrew R.",
-            "Ho, Anna Y. Q.",
-            "Ness, Melissa",
-            "Rix, Hans-Walter",
-            "Angelou, George C.",
-            "Hekker, Saskia",
-            "Tout, Christopher A.",
-            "Lattanzio, John C.",
-            "Karakas, Amanda I.",
-            "Woods, Tyrone E.",
-            "Price-Whelan, Adrian M.",
-            "Schlaufman, Kevin C."
-        ],
-        "citations": 2,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-02-00",
-        "title": "Tidal interactions between binary stars drives lithium production in low-mass red giants",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv190204102C",
-        "volume": null,
-        "year": "2019"
-    },
-    {
         "arxiv": null,
         "authors": [
             "Price-Whelan, A. M.",
@@ -1258,7 +1259,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -1461,7 +1462,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 527,
+        "citations": 530,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -1577,7 +1578,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 50,
+        "citations": 51,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -1838,7 +1839,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 34,
+        "citations": 35,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -1893,7 +1894,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 22,
+        "citations": 23,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -2020,7 +2021,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 588,
+        "citations": 589,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -2283,7 +2284,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 64,
+        "citations": 65,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -3234,7 +3235,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1099,
+        "citations": 1101,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -3428,7 +3429,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 869,
+        "citations": 870,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -3704,7 +3705,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 720,
+        "citations": 718,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -3870,7 +3871,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2153,
+        "citations": 2157,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -4141,7 +4142,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1044,
+        "citations": 1045,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -4931,7 +4932,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 180,
+        "citations": 181,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -5126,7 +5127,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 994,
+        "citations": 993,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
