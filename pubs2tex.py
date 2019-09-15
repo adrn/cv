@@ -128,6 +128,7 @@ def get_ref_unref(papers):
 def get_paper_items(papers):
     refereeds = []
     preprints = []
+    first_authors = []
 
     for paper in papers:
         authors = parse_authors(paper)
@@ -182,14 +183,17 @@ def get_paper_items(papers):
         else:
             refereeds.append(entry)
 
+        if "price-whelan" in paper["authors"][0].lower():
+            first_authors.append(entry)
+
     # Now go through and add the \item and numbers:
-    for corpus in [preprints, refereeds]:
+    for corpus in [preprints, refereeds, first_authors]:
         for i, item in enumerate(corpus):
             num = len(corpus) - i
             corpus[i] = ("\\item[{\\color{deemph}\\scriptsize" +
                          str(num) + "}]" + item)
 
-    return refereeds, preprints
+    return refereeds, preprints, first_authors
 
 
 if __name__ == '__main__':
@@ -202,7 +206,7 @@ if __name__ == '__main__':
         pubs = json.loads(f.read())
 
     papers = filter_papers(pubs)
-    refs, unrefs = get_paper_items(papers)
+    refs, unrefs, first = get_paper_items(papers)
 
     # Compute citation stats
     nref = len(refs)
@@ -227,3 +231,6 @@ if __name__ == '__main__':
 
     with open("pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unrefs))
+
+    with open("pubs_firstauthor.tex", "w") as f:
+        f.write("\n\n".join(first))
