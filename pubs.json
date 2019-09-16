@@ -241,6 +241,28 @@
         "year": "2019"
     },
     {
+        "arxiv": null,
+        "authors": [
+            "Bonaca, Ana",
+            "Conroy, Charlie",
+            "Hogg, David W.",
+            "Kallivayalil, Nitya",
+            "Price-Whelan, Adrian",
+            "Sohn, Sangmo Tony",
+            "van der Marel, Roeland P."
+        ],
+        "citations": 0,
+        "doctype": "proposal",
+        "doi": null,
+        "page": 15930,
+        "pub": "HST Proposal",
+        "pubdate": "2019-06-00",
+        "title": "Cold Dark Matter and the GD-1 Stellar Stream",
+        "url": "http://adsabs.harvard.edu/abs/2019hst..prop15930B",
+        "volume": null,
+        "year": "2019"
+    },
+    {
         "arxiv": "1906.04203",
         "authors": [
             "Chakrabarti, Sukanya",
