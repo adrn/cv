@@ -1,5 +1,25 @@
 [
     {
+        "arxiv": "1909.08924",
+        "authors": [
+            "Koppelman, Helmer H.",
+            "Helmi, Amina",
+            "Massari, Davide",
+            "Price-Whelan, Adrian M.",
+            "Starkenburg, Tjitske K."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2019-09-00",
+        "title": "Multiple retrograde substructures in the Galactic halo: A shattered view of Galactic history",
+        "url": "http://adsabs.harvard.edu/abs/2019arXiv190908924K",
+        "volume": null,
+        "year": "2019"
+    },
+    {
         "arxiv": "1906.02748",
         "authors": [
             "Bonaca, Ana",
@@ -86,7 +106,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 22,
+        "citations": 23,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -1484,7 +1504,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 583,
+        "citations": 598,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -1600,7 +1620,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 67,
+        "citations": 69,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -1743,7 +1763,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 15,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -1916,7 +1936,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 24,
+        "citations": 25,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -2043,7 +2063,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 629,
+        "citations": 636,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -2553,27 +2573,27 @@
             "Pitkin, Matt",
             "Zabalza, Victor",
             "Ryan, Geoffrey",
-            "Rice, Emily",
+            "Emily",
             "Smith, Michael",
             "Ashton, Gregory",
             "Cruz, Kelle",
             "Kerzendorf, Wolfgang",
-            "Caswell, Thomas A.",
+            "Caswell, Thomas A",
             "Hoyer, Stephan",
             "Barbary, Kyle",
             "Czekala, Ian",
             "Rein, Hanno",
             "Gentry, Eric",
-            "Brewer, Brendon J.",
-            "Hogg, David W."
+            "Brewer, Brendon J",
+            "Hogg, David W"
         ],
-        "citations": 10,
-        "doctype": "article",
+        "citations": 11,
+        "doctype": "software",
         "doi": "10.5281/zenodo.53155",
-        "page": 53155,
-        "pub": "Zenodo Software Release",
-        "pubdate": "2016-05-00",
-        "title": "corner.py: corner.py v2.0.0",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2016-05-26",
+        "title": "Corner.Py: Corner.Py V2.0.0",
         "url": "http://adsabs.harvard.edu/abs/2016zndo.....53155F",
         "volume": null,
         "year": "2016"
@@ -2685,25 +2705,25 @@
             "Pitkin, Matt",
             "Zabalza, Victor",
             "Ryan, Geoffrey",
-            "Rice, Emily",
+            "Emily",
             "Smith, Michael",
             "Ashton, Gregory",
             "Cruz, Kelle",
             "Kerzendorf, Wolfgang",
-            "Caswell, Thomas A.",
+            "Caswell, Thomas A",
             "Hoyer, Stephan",
             "Barbary, Kyle",
             "Czekala, Ian",
-            "Hogg, David W.",
-            "Brewer, Brendon J."
+            "Hogg, David W",
+            "Brewer, Brendon J"
         ],
-        "citations": 32,
-        "doctype": "article",
+        "citations": 38,
+        "doctype": "software",
         "doi": "10.5281/zenodo.45906",
-        "page": 45906,
-        "pub": "Zenodo Software Release",
-        "pubdate": "2016-02-00",
-        "title": "corner.py: corner.py v1.0.2",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2016-02-11",
+        "title": "Corner.Py: Corner.Py V1.0.2",
         "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906F",
         "volume": null,
         "year": "2016"
@@ -3257,7 +3277,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1133,
+        "citations": 1140,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -3271,15 +3291,15 @@
     {
         "arxiv": null,
         "authors": [
-            "Price-Whelan, Adrian M."
+            "Price-Whelan, Adrian M"
         ],
         "citations": 1,
-        "doctype": "article",
+        "doctype": "software",
         "doi": "10.5281/zenodo.18787",
-        "page": 18787,
-        "pub": "Zenodo Software Release",
-        "pubdate": "2015-06-00",
-        "title": "SuperFreq",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2015-06-10",
+        "title": "Superfreq",
         "url": "http://adsabs.harvard.edu/abs/2015zndo.....18787P",
         "volume": null,
         "year": "2015"
@@ -3365,20 +3385,43 @@
             "Foreman-Mackey, Dan",
             "Price-Whelan, Adrian",
             "Ryan, Geoffrey",
-            "Rice, Emily",
+            "Emily",
             "Smith, Michael",
             "Barbary, Kyle",
-            "Hogg, David W.",
-            "Brewer, Brendon J."
+            "Hogg, David W",
+            "Brewer, Brendon J"
         ],
-        "citations": 39,
-        "doctype": "article",
+        "citations": 46,
+        "doctype": "software",
         "doi": "10.5281/zenodo.11020",
-        "page": 11020,
-        "pub": "Zenodo Software Release",
-        "pubdate": "2014-07-00",
-        "title": "triangle.py: triangle.py v0.1.1",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2014-07-24",
+        "title": "Triangle.Py V0.1.1",
         "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020F",
+        "volume": null,
+        "year": "2014"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Foreman-Mackey, Dan",
+            "Price-Whelan, Adrian",
+            "Ryan, Geoffrey",
+            "Emily",
+            "Smith, Michael",
+            "Barbary, Kyle",
+            "Hogg, David W",
+            "Brewer, Brendon J"
+        ],
+        "citations": 3,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.10598",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2014-06-19",
+        "title": "A Citable Release",
+        "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
         "volume": null,
         "year": "2014"
     },
@@ -3451,7 +3494,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 884,
+        "citations": 885,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -3460,29 +3503,6 @@
         "title": "The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: baryon acoustic oscillations in the Data Releases 10 and 11 Galaxy samples",
         "url": "http://adsabs.harvard.edu/abs/2014MNRAS.441...24A",
         "volume": "441",
-        "year": "2014"
-    },
-    {
-        "arxiv": null,
-        "authors": [
-            "Foreman-Mackey, Dan",
-            "Price-Whelan, Adrian",
-            "Ryan, Geoffrey",
-            "Rice, Emily",
-            "Smith, Michael",
-            "Barbary, Kyle",
-            "Hogg, David W.",
-            "Brewer, Brendon J."
-        ],
-        "citations": 3,
-        "doctype": "article",
-        "doi": "10.5281/zenodo.10598",
-        "page": 10598,
-        "pub": "Zenodo Software Release",
-        "pubdate": "2014-06-00",
-        "title": "triangle.py: triangle.py v0.1",
-        "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
-        "volume": null,
         "year": "2014"
     },
     {
@@ -3727,7 +3747,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 722,
+        "citations": 724,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -3893,7 +3913,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2270,
+        "citations": 2293,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -4164,7 +4184,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1064,
+        "citations": 1068,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -4437,7 +4457,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 955,
+        "citations": 959,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -4739,7 +4759,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1283,
+        "citations": 1288,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -5149,7 +5169,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1001,
+        "citations": 1004,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
