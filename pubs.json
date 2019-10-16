@@ -1,5 +1,30 @@
 [
     {
+        "arxiv": "1910.05360",
+        "authors": [
+            "Nidever, David L.",
+            "Price-Whelan, Adrian M.",
+            "Choi, Yumi",
+            "Beaton, Rachael L.",
+            "Hansen, Terese T.",
+            "Boubert, Douglas",
+            "Aguado, David",
+            "Ezzeddine, Rana",
+            "Oh, Semyeong",
+            "Evans, N. Wyn"
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2019-10-00",
+        "title": "Spectroscopy of the Young Stellar Association Price-Whelan 1: Origin in the Magellanic Leading Arm and Constraints on the Milky Way Hot Halo",
+        "url": "http://adsabs.harvard.edu/abs/2019arXiv191005360N",
+        "volume": null,
+        "year": "2019"
+    },
+    {
         "arxiv": "1910.00595",
         "authors": [
             "Price-Whelan, Adrian M.",
@@ -302,7 +327,7 @@
         "doctype": "inproceedings",
         "doi": "10.5281/zenodo.3472559",
         "page": 56,
-        "pub": "A Synoptic View of the Magellanic Clouds: VMC",
+        "pub": "A Synoptic View of the Magellanic Clouds: VMC, Gaia and Beyond",
         "pubdate": "2019-09-00",
         "title": "A disrupting open cluster far into the Milky Way halo: star formation in the Magellanic stream?",
         "url": "http://adsabs.harvard.edu/abs/2019svmc.confE..56P",
@@ -1597,7 +1622,7 @@
             "Koposov, Sergey E.",
             "Belokurov, Vasily"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1979,7 +2004,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 616,
+        "citations": 618,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2095,7 +2120,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 73,
+        "citations": 74,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -2273,7 +2298,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 15,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -2573,7 +2598,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 652,
+        "citations": 655,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -2836,7 +2861,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 66,
+        "citations": 67,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -3227,7 +3252,7 @@
             "Hogg, David W",
             "Brewer, Brendon J"
         ],
-        "citations": 31,
+        "citations": 30,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -3787,7 +3812,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1142,
+        "citations": 1147,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4004,7 +4029,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 889,
+        "citations": 892,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -4257,7 +4282,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 727,
+        "citations": 731,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -4423,7 +4448,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2326,
+        "citations": 2335,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -4694,7 +4719,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1076,
+        "citations": 1079,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -4967,7 +4992,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 957,
+        "citations": 958,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -5269,7 +5294,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1291,
+        "citations": 1295,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -5484,7 +5509,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 191,
+        "citations": 192,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -5679,7 +5704,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1007,
+        "citations": 1008,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
