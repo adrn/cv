@@ -1,5 +1,49 @@
 [
     {
+        "arxiv": "1910.08376",
+        "authors": [
+            "Norman, Dara",
+            "Cruz, Kelle",
+            "Desai, Vandana",
+            "Lundgren, Britt",
+            "Bellm, Eric",
+            "Economou, Frossie",
+            "Smith, Arfon",
+            "Bauer, Amanda",
+            "Nord, Brian",
+            "Schafer, Chad",
+            "Narayan, Gautham",
+            "Li, Ting",
+            "Tollerud, Erik",
+            "Sipocz, Brigitta",
+            "Stevance, Heloise",
+            "Pickering, Timothy",
+            "Sinha, Manodeep",
+            "Harrington, Joseph",
+            "Kartaltepe, Jeyhan",
+            "Vohl, Dany",
+            "Price-Whelan, Adrian",
+            "Cherinka, Brian",
+            "Chan, Chi-kwan",
+            "Weiner, Benjamin",
+            "Modjaz, Maryam",
+            "Bianco, Federica",
+            "Kerzendorf, Wolfgang",
+            "Laginja, Iva",
+            "Dong, Chuanfei"
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2019-10-00",
+        "title": "The Growing Importance of a Tech Savvy Astronomy and Astrophysics Workforce",
+        "url": "http://adsabs.harvard.edu/abs/2019arXiv191008376N",
+        "volume": null,
+        "year": "2019"
+    },
+    {
         "arxiv": "1910.05360",
         "authors": [
             "Nidever, David L.",
@@ -2004,7 +2048,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 616,
+        "citations": 619,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2120,7 +2164,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 77,
+        "citations": 78,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -2298,7 +2342,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 15,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -2416,7 +2460,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 38,
+        "citations": 39,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -2598,7 +2642,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 658,
+        "citations": 667,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3252,7 +3296,7 @@
             "Hogg, David W",
             "Brewer, Brendon J"
         ],
-        "citations": 30,
+        "citations": 31,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -3812,7 +3856,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1148,
+        "citations": 1151,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4029,7 +4073,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 894,
+        "citations": 899,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -4282,7 +4326,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 729,
+        "citations": 734,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -4448,7 +4492,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2338,
+        "citations": 2348,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -4719,7 +4763,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1080,
+        "citations": 1082,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -4992,7 +5036,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 957,
+        "citations": 959,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -5294,7 +5338,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1295,
+        "citations": 1297,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -5489,7 +5533,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 47,
+        "citations": 48,
         "doctype": "erratum",
         "doi": "10.1088/0067-0049/195/2/26",
         "page": 26,
@@ -5509,7 +5553,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 193,
+        "citations": 195,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -5704,7 +5748,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1010,
+        "citations": 1012,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
