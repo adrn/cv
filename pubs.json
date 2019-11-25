@@ -23,6 +23,27 @@
     {
         "arxiv": null,
         "authors": [
+            "Chakrabarti, Sukanya",
+            "Chang, Philip",
+            "Price-Whelan, Adrian M.",
+            "Read, Justin",
+            "Blitz, Leo",
+            "Hernquist, Lars"
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-4357/ab4659",
+        "page": 67,
+        "pub": "The Astrophysical Journal",
+        "pubdate": "2019-11-00",
+        "title": "Antlia 2\u2019s Role in Driving the Ripples in the Outer Gas Disk of the Galaxy",
+        "url": "http://adsabs.harvard.edu/abs/2019ApJ...886...67C",
+        "volume": "886",
+        "year": "2019"
+    },
+    {
+        "arxiv": null,
+        "authors": [
             "Koppelman, Helmer H.",
             "Helmi, Amina",
             "Massari, Davide",
@@ -741,7 +762,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 30,
+        "citations": 31,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -1824,7 +1845,7 @@
             "Koposov, Sergey E.",
             "Belokurov, Vasily"
         ],
-        "citations": 6,
+        "citations": 7,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1978,7 +1999,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -2226,7 +2247,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 692,
+        "citations": 705,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2342,7 +2363,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 87,
+        "citations": 88,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -2520,7 +2541,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 16,
+        "citations": 17,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -2820,7 +2841,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 682,
+        "citations": 683,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3022,7 +3043,7 @@
             "Gould, Andy",
             "Rix, Hans-Walter"
         ],
-        "citations": 33,
+        "citations": 34,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa643b",
         "page": 107,
@@ -4034,7 +4055,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1166,
+        "citations": 1167,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4251,7 +4272,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 907,
+        "citations": 908,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -4504,7 +4525,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 739,
+        "citations": 741,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -4670,7 +4691,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2469,
+        "citations": 2485,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5214,7 +5235,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 964,
+        "citations": 965,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -5516,7 +5537,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1310,
+        "citations": 1311,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -5731,7 +5752,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 201,
+        "citations": 203,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
