@@ -1283,7 +1283,7 @@
             "Oh, Semyeong",
             "Lim, P. L."
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.2638307",
         "page": null,
@@ -1862,7 +1862,7 @@
             "Price-Whelan, Adrian M.",
             "Goodman, Jeremy"
         ],
-        "citations": 7,
+        "citations": 6,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae264",
         "page": 5,
@@ -1882,7 +1882,7 @@
             "John",
             "Price-Whelan, Adrian"
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "software",
         "doi": "10.5281/zenodo.1469822",
         "page": null,
@@ -2092,7 +2092,7 @@
             "Scopatz, Anthony",
             "Mohammed, AQNOUCH"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.1436565",
         "page": null,
@@ -2247,7 +2247,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 705,
+        "citations": 706,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2487,7 +2487,7 @@
         "authors": [
             "Price-Whelan, Adrian"
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "software",
         "doi": "10.5281/zenodo.1228136",
         "page": null,
@@ -2586,7 +2586,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -2841,7 +2841,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 683,
+        "citations": 682,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -2984,7 +2984,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 53,
+        "citations": 52,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -3365,7 +3365,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -3495,7 +3495,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 32,
+        "citations": 41,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4691,7 +4691,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2485,
+        "citations": 2491,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
