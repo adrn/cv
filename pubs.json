@@ -1,6 +1,6 @@
 [
     {
-        "arxiv": null,
+        "arxiv": "1910.05360",
         "authors": [
             "Nidever, David L.",
             "Price-Whelan, Adrian M.",
@@ -441,7 +441,7 @@
         "year": "2019"
     },
     {
-        "arxiv": null,
+        "arxiv": "1906.04203",
         "authors": [
             "Chakrabarti, Sukanya",
             "Chang, Philip",
@@ -462,7 +462,7 @@
         "year": "2019"
     },
     {
-        "arxiv": null,
+        "arxiv": "1909.08924",
         "authors": [
             "Koppelman, Helmer H.",
             "Helmi, Amina",
@@ -639,31 +639,6 @@
         "pubdate": "2019-10-00",
         "title": "The Growing Importance of a Tech Savvy Astronomy and Astrophysics Workforce",
         "url": "http://adsabs.harvard.edu/abs/2019arXiv191008376N",
-        "volume": null,
-        "year": "2019"
-    },
-    {
-        "arxiv": "1910.05360",
-        "authors": [
-            "Nidever, David L.",
-            "Price-Whelan, Adrian M.",
-            "Choi, Yumi",
-            "Beaton, Rachael L.",
-            "Hansen, Terese T.",
-            "Boubert, Douglas",
-            "Aguado, David",
-            "Ezzeddine, Rana",
-            "Oh, Semyeong",
-            "Evans, N. Wyn"
-        ],
-        "citations": 1,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-10-00",
-        "title": "Spectroscopy of the Young Stellar Association Price-Whelan 1: Origin in the Magellanic Leading Arm and Constraints on the Milky Way Hot Halo",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv191005360N",
         "volume": null,
         "year": "2019"
     },
@@ -1055,26 +1030,6 @@
         "year": "2019"
     },
     {
-        "arxiv": "1909.08924",
-        "authors": [
-            "Koppelman, Helmer H.",
-            "Helmi, Amina",
-            "Massari, Davide",
-            "Price-Whelan, Adrian M.",
-            "Starkenburg, Tjitske K."
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-09-00",
-        "title": "Multiple retrograde substructures in the Galactic halo: A shattered view of Galactic history",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv190908924K",
-        "volume": null,
-        "year": "2019"
-    },
-    {
         "arxiv": "1906.02748",
         "authors": [
             "Bonaca, Ana",
@@ -1142,7 +1097,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 34,
+        "citations": 35,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1334,27 +1289,6 @@
         "pubdate": "2019-06-00",
         "title": "Cold Dark Matter and the GD-1 Stellar Stream",
         "url": "http://adsabs.harvard.edu/abs/2019hst..prop15930B",
-        "volume": null,
-        "year": "2019"
-    },
-    {
-        "arxiv": "1906.04203",
-        "authors": [
-            "Chakrabarti, Sukanya",
-            "Chang, Philip",
-            "Price-Whelan, Adrian",
-            "Read, Justin",
-            "Blitz, Leo",
-            "Hernquist, Lars"
-        ],
-        "citations": 1,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-06-00",
-        "title": "Antlia2's role in driving the ripples in the outer gas disk of the Galaxy",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv190604203C",
         "volume": null,
         "year": "2019"
     },
@@ -2624,7 +2558,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 777,
+        "citations": 782,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3091,7 +3025,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 31,
+        "citations": 32,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -3218,7 +3152,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 732,
+        "citations": 739,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3361,7 +3295,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 56,
+        "citations": 58,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -4432,7 +4366,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1197,
+        "citations": 1200,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4546,7 +4480,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 46,
+        "citations": 39,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -4649,7 +4583,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 923,
+        "citations": 924,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5068,7 +5002,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2584,
+        "citations": 2596,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5339,7 +5273,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1119,
+        "citations": 1122,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -5612,7 +5546,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 974,
+        "citations": 975,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -5914,7 +5848,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1329,
+        "citations": 1330,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6129,7 +6063,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 208,
+        "citations": 209,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -6324,7 +6258,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1016,
+        "citations": 1017,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
