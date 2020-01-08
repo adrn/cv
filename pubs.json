@@ -1,5 +1,98 @@
 [
     {
+        "arxiv": null,
+        "authors": [
+            "Nidever, D. L.",
+            "Price-Whelan, A.",
+            "Choi, Y."
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts",
+        "pubdate": "2020-01-00",
+        "title": "A recent star formation event far into the Milky Way halo: spectroscopic follow-up and implications for the Milky Way hot halo",
+        "url": "http://adsabs.harvard.edu/abs/2020AAS...23541503N",
+        "volume": "52",
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Price-Whelan, A.",
+            "Nidever, D.",
+            "Choi, Y.",
+            "Schlafly, E.",
+            "Morton, T.",
+            "Koposov, S.",
+            "Belokurov, V."
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts",
+        "pubdate": "2020-01-00",
+        "title": "A recent star formation event far into the Milky Way halo: discovery and characterization",
+        "url": "http://adsabs.harvard.edu/abs/2020AAS...23541501P",
+        "volume": "52",
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "de Lee, N.",
+            "Faller, T.",
+            "Herweck, K.",
+            "Emark, W.",
+            "Houston, K.",
+            "Carlberg, J.",
+            "Troup, N.",
+            "Price-Whelan, A.",
+            "Lewis, H.",
+            "Majewski, S.",
+            "Stassun, K.",
+            "Stringfellow, G.",
+            "Apogee Rv Variability Working Group"
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts",
+        "pubdate": "2020-01-00",
+        "title": "Constructing Orbits: Multiple Methods for Recovering Periods",
+        "url": "http://adsabs.harvard.edu/abs/2020AAS...23517036D",
+        "volume": "52",
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Hayes, C. R.",
+            "Majewski, S.",
+            "Hasselquist, S.",
+            "Shetrone, M.",
+            "Cunha, K.",
+            "Smith, V.",
+            "Law, D.",
+            "Beaton, R.",
+            "Anguiano, B.",
+            "Price-Whelan, A."
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts",
+        "pubdate": "2020-01-00",
+        "title": "Dwarf Galaxy Accretion in the Milky Way: Viewing Dwarf Galaxy Accretion through the Eyes of Large Surveys",
+        "url": "http://adsabs.harvard.edu/abs/2020AAS...23515504H",
+        "volume": "52",
+        "year": "2020"
+    },
+    {
         "arxiv": "1910.05360",
         "authors": [
             "Nidever, David L.",
@@ -13,7 +106,7 @@
             "Oh, Semyeong",
             "Evans, N. Wyn"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab52fc",
         "page": 115,
@@ -408,7 +501,7 @@
             "Koposov, Sergey E.",
             "Belokurov, Vasily"
         ],
-        "citations": 8,
+        "citations": 7,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab4bdd",
         "page": 19,
@@ -450,7 +543,7 @@
             "Blitz, Leo",
             "Hernquist, Lars"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab4659",
         "page": 67,
@@ -599,46 +692,27 @@
         "year": "2019"
     },
     {
-        "arxiv": "1910.08376",
+        "arxiv": "1910.05360",
         "authors": [
-            "Norman, Dara",
-            "Cruz, Kelle",
-            "Desai, Vandana",
-            "Lundgren, Britt",
-            "Bellm, Eric",
-            "Economou, Frossie",
-            "Smith, Arfon",
-            "Bauer, Amanda",
-            "Nord, Brian",
-            "Schafer, Chad",
-            "Narayan, Gautham",
-            "Li, Ting",
-            "Tollerud, Erik",
-            "Sipocz, Brigitta",
-            "Stevance, Heloise",
-            "Pickering, Timothy",
-            "Sinha, Manodeep",
-            "Harrington, Joseph",
-            "Kartaltepe, Jeyhan",
-            "Vohl, Dany",
-            "Price-Whelan, Adrian",
-            "Cherinka, Brian",
-            "Chan, Chi-kwan",
-            "Weiner, Benjamin",
-            "Modjaz, Maryam",
-            "Bianco, Federica",
-            "Kerzendorf, Wolfgang",
-            "Laginja, Iva",
-            "Dong, Chuanfei"
+            "Nidever, David L.",
+            "Price-Whelan, Adrian M.",
+            "Choi, Yumi",
+            "Beaton, Rachael L.",
+            "Hansen, Terese T.",
+            "Boubert, Douglas",
+            "Aguado, David",
+            "Ezzeddine, Rana",
+            "Oh, Semyeong",
+            "Evans, N. Wyn"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "eprint",
         "doi": null,
         "page": null,
         "pub": "arXiv e-prints",
         "pubdate": "2019-10-00",
-        "title": "The Growing Importance of a Tech Savvy Astronomy and Astrophysics Workforce",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv191008376N",
+        "title": "Spectroscopy of the Young Stellar Association Price-Whelan 1: Origin in the Magellanic Leading Arm and Constraints on the Milky Way Hot Halo",
+        "url": "http://adsabs.harvard.edu/abs/2019arXiv191005360N",
         "volume": null,
         "year": "2019"
     },
@@ -741,7 +815,7 @@
         "year": "2019"
     },
     {
-        "arxiv": null,
+        "arxiv": "1910.08376",
         "authors": [
             "Norman, Dara",
             "Cruz, Kelle",
@@ -932,7 +1006,7 @@
         "year": "2019"
     },
     {
-        "arxiv": null,
+        "arxiv": "1910.14088",
         "authors": [
             "Bauer, Amanda",
             "Lundgren, Britt",
@@ -967,7 +1041,7 @@
         "year": "2019"
     },
     {
-        "arxiv": null,
+        "arxiv": "1907.06981",
         "authors": [
             "Smith, Arfon",
             "Norman, Dara",
@@ -1030,6 +1104,26 @@
         "year": "2019"
     },
     {
+        "arxiv": "1909.08924",
+        "authors": [
+            "Koppelman, Helmer H.",
+            "Helmi, Amina",
+            "Massari, Davide",
+            "Price-Whelan, Adrian M.",
+            "Starkenburg, Tjitske K."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2019-09-00",
+        "title": "Multiple retrograde substructures in the Galactic halo: A shattered view of Galactic history",
+        "url": "http://adsabs.harvard.edu/abs/2019arXiv190908924K",
+        "volume": null,
+        "year": "2019"
+    },
+    {
         "arxiv": "1906.02748",
         "authors": [
             "Bonaca, Ana",
@@ -1065,7 +1159,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 9,
+        "citations": 7,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -1097,7 +1191,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 35,
+        "citations": 32,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1116,7 +1210,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 31,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -1125,66 +1219,6 @@
         "title": "The Spur and the Gap in GD-1: Dynamical Evidence for a Dark Substructure in the Milky Way Halo",
         "url": "http://adsabs.harvard.edu/abs/2019ApJ...880...38B",
         "volume": "880",
-        "year": "2019"
-    },
-    {
-        "arxiv": "1907.06981",
-        "authors": [
-            "Smith, Arfon M.",
-            "Norman, Dara",
-            "Cruz, Kelle",
-            "Desai, Vandana",
-            "Bellm, Eric",
-            "Lundgren, Britt",
-            "Economou, Frossie",
-            "Nord, Brian D.",
-            "Schafer, Chad",
-            "Narayan, Gautham",
-            "Harrington, Joseph",
-            "Tollerud, Erik",
-            "Sip\u0151cz, Brigitta",
-            "Pickering, Timothy",
-            "Peeples, Molly S.",
-            "Berriman, Bruce",
-            "Teuben, Peter",
-            "Rodriguez, David",
-            "Gradvohl, Andre",
-            "Shamir, Lior",
-            "Allen, Alice",
-            "Brownstein, Joel R.",
-            "Ginsburg, Adam",
-            "Sinha, Manodeep",
-            "Hummels, Cameron",
-            "Smith, Britton",
-            "Stevance, Heloise",
-            "Price-Whelan, Adrian",
-            "Cherinka, Brian",
-            "Chan, Chi-kwan",
-            "Kartaltepe, Jeyhan",
-            "Turk, Matthew",
-            "Weiner, Benjamin",
-            "Modjaz, Maryam",
-            "Nemiroff, Robert J.",
-            "Kerzendorf, Wolfgang",
-            "Laginja, Iva",
-            "Dong, Chuanfei",
-            "Mer\u00edn, Bruno",
-            "Sobeck, Jennifer",
-            "Buzasi, Derek",
-            "Faherty, Jacqueline K",
-            "Momcheva, Ivelina",
-            "Connolly, Andrew",
-            "Golkhou, V. Zach"
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-07-00",
-        "title": "Astro2020 APC White Paper: Elevating the Role of Software as a Product of the Research Enterprise",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv190706981S",
-        "volume": null,
         "year": "2019"
     },
     {
@@ -1293,6 +1327,27 @@
         "year": "2019"
     },
     {
+        "arxiv": "1906.04203",
+        "authors": [
+            "Chakrabarti, Sukanya",
+            "Chang, Philip",
+            "Price-Whelan, Adrian",
+            "Read, Justin",
+            "Blitz, Leo",
+            "Hernquist, Lars"
+        ],
+        "citations": 1,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2019-06-00",
+        "title": "Antlia2's role in driving the ripples in the outer gas disk of the Galaxy",
+        "url": "http://adsabs.harvard.edu/abs/2019arXiv190604203C",
+        "volume": null,
+        "year": "2019"
+    },
+    {
         "arxiv": null,
         "authors": [
             "Bonaca, Ana",
@@ -1357,7 +1412,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 20,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -1895,7 +1950,7 @@
             "Willot, Chris",
             "Withington, Kanoa"
         ],
-        "citations": 10,
+        "citations": 9,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -2310,7 +2365,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 13,
+        "citations": 10,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -2338,7 +2393,7 @@
             "Strauss, M. A.",
             "Tanaka, M."
         ],
-        "citations": 15,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae0f0",
         "page": 103,
@@ -2558,7 +2613,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 782,
+        "citations": 729,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2674,7 +2729,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 96,
+        "citations": 95,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -2782,7 +2837,7 @@
             "Roman-Lopes, Alexandre",
             "Zamora, Olga"
         ],
-        "citations": 7,
+        "citations": 6,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aac38c",
         "page": null,
@@ -2918,7 +2973,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 15,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaa4b6",
         "page": 47,
@@ -2970,7 +3025,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 47,
+        "citations": 45,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -3025,7 +3080,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 32,
+        "citations": 31,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -3152,7 +3207,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 739,
+        "citations": 726,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3259,7 +3314,7 @@
             "Sharma, Sanjib",
             "Sesar, Branimir"
         ],
-        "citations": 18,
+        "citations": 17,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa7a0d",
         "page": 74,
@@ -3295,7 +3350,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 58,
+        "citations": 55,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -3354,7 +3409,7 @@
             "Gould, Andy",
             "Rix, Hans-Walter"
         ],
-        "citations": 34,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa643b",
         "page": 107,
@@ -3373,7 +3428,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 28,
+        "citations": 26,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -3415,7 +3470,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 73,
+        "citations": 71,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -4009,7 +4064,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 54,
+        "citations": 53,
         "doctype": "article",
         "doi": "10.1093/mnras/stv1324",
         "page": 676,
@@ -4366,7 +4421,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1200,
+        "citations": 1193,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4583,7 +4638,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 924,
+        "citations": 917,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -4836,7 +4891,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 745,
+        "citations": 738,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5002,7 +5057,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2596,
+        "citations": 2531,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5022,7 +5077,7 @@
             "Price-Whelan, A. M.",
             "Bogdanov, S."
         ],
-        "citations": 33,
+        "citations": 32,
         "doctype": "circular",
         "doi": null,
         "page": 1,
@@ -5069,7 +5124,7 @@
             "Woillez, Julien",
             "Zabalza, Victor"
         ],
-        "citations": 4,
+        "citations": 3,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -5273,7 +5328,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1122,
+        "citations": 1114,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -5546,7 +5601,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 975,
+        "citations": 970,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -5848,7 +5903,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1330,
+        "citations": 1322,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6063,7 +6118,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 209,
+        "citations": 205,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -6258,7 +6313,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1017,
+        "citations": 1016,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
