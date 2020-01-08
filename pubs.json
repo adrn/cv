@@ -692,31 +692,6 @@
         "year": "2019"
     },
     {
-        "arxiv": "1910.05360",
-        "authors": [
-            "Nidever, David L.",
-            "Price-Whelan, Adrian M.",
-            "Choi, Yumi",
-            "Beaton, Rachael L.",
-            "Hansen, Terese T.",
-            "Boubert, Douglas",
-            "Aguado, David",
-            "Ezzeddine, Rana",
-            "Oh, Semyeong",
-            "Evans, N. Wyn"
-        ],
-        "citations": 1,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-10-00",
-        "title": "Spectroscopy of the Young Stellar Association Price-Whelan 1: Origin in the Magellanic Leading Arm and Constraints on the Milky Way Hot Halo",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv191005360N",
-        "volume": null,
-        "year": "2019"
-    },
-    {
         "arxiv": "1910.00592",
         "authors": [
             "Bonaca, Ana",
@@ -1101,26 +1076,6 @@
         "title": "Elevating the Role of Software as a Product of the Research Enterprise",
         "url": "http://adsabs.harvard.edu/abs/2019BAAS...51g..52S",
         "volume": "51",
-        "year": "2019"
-    },
-    {
-        "arxiv": "1909.08924",
-        "authors": [
-            "Koppelman, Helmer H.",
-            "Helmi, Amina",
-            "Massari, Davide",
-            "Price-Whelan, Adrian M.",
-            "Starkenburg, Tjitske K."
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-09-00",
-        "title": "Multiple retrograde substructures in the Galactic halo: A shattered view of Galactic history",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv190908924K",
-        "volume": null,
         "year": "2019"
     },
     {

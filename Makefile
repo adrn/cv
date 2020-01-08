@@ -1,7 +1,7 @@
 LATEX       = xelatex
 RM          = rm -rf
 
-TMP_SUFFS   = aux bbl blg log dvi ps eps out synctex.gz
+TMP_SUFFS   = aux bbl blg log dvi ps eps out synctex.gz fdb_latexmk fls
 RM_TMP      = ${RM} $(foreach suff, ${TMP_SUFFS}, *.${suff})
 
 ALL_FILES = cv.pdf
