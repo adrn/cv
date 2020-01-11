@@ -1146,7 +1146,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 32,
+        "citations": 34,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1165,7 +1165,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 30,
+        "citations": 31,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -1282,27 +1282,6 @@
         "year": "2019"
     },
     {
-        "arxiv": "1906.04203",
-        "authors": [
-            "Chakrabarti, Sukanya",
-            "Chang, Philip",
-            "Price-Whelan, Adrian",
-            "Read, Justin",
-            "Blitz, Leo",
-            "Hernquist, Lars"
-        ],
-        "citations": 1,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2019-06-00",
-        "title": "Antlia2's role in driving the ripples in the outer gas disk of the Galaxy",
-        "url": "http://adsabs.harvard.edu/abs/2019arXiv190604203C",
-        "volume": null,
-        "year": "2019"
-    },
-    {
         "arxiv": null,
         "authors": [
             "Bonaca, Ana",
@@ -1335,7 +1314,7 @@
             "Price-Whelan, Adrian",
             "Rossi, Elena Maria"
         ],
-        "citations": 4,
+        "citations": 6,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab1c5d",
         "page": 17,
@@ -1367,7 +1346,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 19,
+        "citations": 20,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -2348,7 +2327,7 @@
             "Strauss, M. A.",
             "Tanaka, M."
         ],
-        "citations": 14,
+        "citations": 15,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae0f0",
         "page": 103,
@@ -2568,7 +2547,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 729,
+        "citations": 746,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2907,7 +2886,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 23,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -2980,7 +2959,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 45,
+        "citations": 48,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -3162,7 +3141,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 726,
+        "citations": 729,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3179,7 +3158,7 @@
             "Price-Whelan, Adrian M.",
             "Foreman-Mackey, Daniel"
         ],
-        "citations": 7,
+        "citations": 8,
         "doctype": "article",
         "doi": "10.21105/joss.00357",
         "page": 357,
@@ -3383,7 +3362,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 26,
+        "citations": 27,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -3425,7 +3404,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 71,
+        "citations": 72,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -3816,7 +3795,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 32,
+        "citations": 31,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4019,7 +3998,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 53,
+        "citations": 54,
         "doctype": "article",
         "doi": "10.1093/mnras/stv1324",
         "page": 676,
@@ -4376,7 +4355,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1193,
+        "citations": 1196,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5012,7 +4991,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2531,
+        "citations": 2549,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5032,7 +5011,7 @@
             "Price-Whelan, A. M.",
             "Bogdanov, S."
         ],
-        "citations": 32,
+        "citations": 33,
         "doctype": "circular",
         "doi": null,
         "page": 1,
@@ -5103,7 +5082,7 @@
             "Sanders, Jeremy",
             "Zuntz, Joe"
         ],
-        "citations": 35,
+        "citations": 36,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -5283,7 +5262,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1114,
+        "citations": 1115,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6073,7 +6052,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 205,
+        "citations": 207,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
