@@ -1,5 +1,29 @@
 [
     {
+        "arxiv": "2001.07215",
+        "authors": [
+            "Bonaca, Ana",
+            "Conroy, Charlie",
+            "Hogg, David W.",
+            "Cargile, Phillip A.",
+            "Caldwell, Nelson",
+            "Naidu, Rohan P.",
+            "Price-Whelan, Adrian M.",
+            "Speagle, Joshua S.",
+            "Johnson, Benjamin D."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2020-01-00",
+        "title": "High-resolution spectroscopy of the GD-1 stellar stream localizes the perturber near the orbital plane of Sagittarius",
+        "url": "http://adsabs.harvard.edu/abs/2020arXiv200107215B",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": null,
         "authors": [
             "Nidever, D. L.",
@@ -479,7 +503,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1086,7 +1110,7 @@
             "Price-Whelan, Adrian M.",
             "Hogg, David W."
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab36ba",
         "page": null,
@@ -1146,7 +1170,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 34,
+        "citations": 35,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1165,7 +1189,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 32,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -1346,7 +1370,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 20,
+        "citations": 21,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -2547,7 +2571,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 764,
+        "citations": 775,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2635,7 +2659,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 41,
+        "citations": 42,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -2663,7 +2687,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 97,
+        "citations": 96,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -2841,7 +2865,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 18,
+        "citations": 17,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -3014,7 +3038,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 31,
+        "citations": 32,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -3053,7 +3077,7 @@
             "Oh, Semyeong",
             "Spergel, David N."
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -3141,7 +3165,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 741,
+        "citations": 737,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3665,7 +3689,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 14,
+        "citations": 13,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -4355,7 +4379,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1200,
+        "citations": 1202,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4572,7 +4596,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 923,
+        "citations": 921,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -4825,7 +4849,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 741,
+        "citations": 739,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -4991,7 +5015,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2577,
+        "citations": 2586,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5058,7 +5082,7 @@
             "Woillez, Julien",
             "Zabalza, Victor"
         ],
-        "citations": 3,
+        "citations": 4,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -6247,7 +6271,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1016,
+        "citations": 1017,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
