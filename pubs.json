@@ -34,7 +34,7 @@
             "Price-Whelan, Adrian M.",
             "Shimwell, Timothy W."
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab5b99",
         "page": null,
@@ -868,7 +868,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 9,
+        "citations": 10,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2826,7 +2826,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 908,
+        "citations": 914,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -2942,7 +2942,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 196,
+        "citations": 205,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -3238,7 +3238,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 53,
+        "citations": 54,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -3420,7 +3420,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 808,
+        "citations": 820,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3437,7 +3437,7 @@
             "Price-Whelan, Adrian M.",
             "Foreman-Mackey, Daniel"
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.21105/joss.00357",
         "page": 357,
@@ -3475,7 +3475,7 @@
             "Price-Whelan, Adrian M.",
             "Johnston, Kathryn V."
         ],
-        "citations": 39,
+        "citations": 40,
         "doctype": "article",
         "doi": "10.1038/s41550-017-0220-3",
         "page": 633,
@@ -3683,7 +3683,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 81,
+        "citations": 82,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -3944,7 +3944,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 14,
+        "citations": 13,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -4634,7 +4634,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1253,
+        "citations": 1256,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4851,7 +4851,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 940,
+        "citations": 944,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5270,7 +5270,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2815,
+        "citations": 2834,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5361,7 +5361,7 @@
             "Sanders, Jeremy",
             "Zuntz, Joe"
         ],
-        "citations": 37,
+        "citations": 40,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -5814,7 +5814,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 987,
+        "citations": 988,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6116,7 +6116,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1359,
+        "citations": 1362,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6331,7 +6331,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 209,
+        "citations": 210,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
