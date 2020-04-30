@@ -1,5 +1,25 @@
 [
     {
+        "arxiv": "2004.14350",
+        "authors": [
+            "Caldwell, N.",
+            "Bonaca, A.",
+            "Price-Whelan, A.",
+            "Sesar, B.",
+            "Walker, M."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2020-04-00",
+        "title": "A Larger Extent for the Ophiuchus Stream",
+        "url": "http://adsabs.harvard.edu/abs/2020arXiv200414350C",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": "2001.07215",
         "authors": [
             "Bonaca, Ana",
@@ -234,7 +254,7 @@
             "Stringfellow, Guy S.",
             "Troup, Nicholas W."
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -784,7 +804,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1425,7 +1445,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 49,
+        "citations": 50,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1444,7 +1464,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 42,
+        "citations": 43,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -2826,7 +2846,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 930,
+        "citations": 931,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3420,7 +3440,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 828,
+        "citations": 831,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4074,7 +4094,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 46,
+        "citations": 34,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4634,7 +4654,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1261,
+        "citations": 1262,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4851,7 +4871,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 945,
+        "citations": 946,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5270,7 +5290,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2868,
+        "citations": 2874,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5541,7 +5561,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1149,
+        "citations": 1150,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -5814,7 +5834,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 988,
+        "citations": 989,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
