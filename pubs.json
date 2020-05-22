@@ -1,5 +1,32 @@
 [
     {
+        "arxiv": "2005.09387",
+        "authors": [
+            "Angus, Ruth",
+            "Beane, Angus",
+            "Price-Whelan, Adrian M.",
+            "Newton, Elisabeth",
+            "Curtis, Jason L.",
+            "Berger, Travis",
+            "van Saders, Jennifer",
+            "Kiman, Rocio",
+            "Foreman-Mackey, Daniel",
+            "Lu, Yuxi",
+            "Anderson, Lauren",
+            "Faherty, Jacqueline K."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2020-05-00",
+        "title": "Exploring the evolution of stellar rotation using Galactic kinematics",
+        "url": "http://adsabs.harvard.edu/abs/2020arXiv200509387A",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": null,
         "authors": [
             "N\u00e1jera, \u00d3scar",
@@ -97,7 +124,7 @@
             "Speagle, Joshua S.",
             "Johnson, Benjamin D."
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab800c",
         "page": null,
@@ -870,7 +897,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 29,
+        "citations": 32,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -954,7 +981,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -1511,7 +1538,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 53,
+        "citations": 54,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -2912,7 +2939,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 962,
+        "citations": 960,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3028,7 +3055,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 223,
+        "citations": 234,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -3300,7 +3327,7 @@
             "Tanaka, Masayuki",
             "Usuda, Tomonori"
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.1093/pasj/psx051",
         "page": null,
@@ -3324,7 +3351,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 55,
+        "citations": 56,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -3506,7 +3533,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 851,
+        "citations": 854,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3769,7 +3796,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 83,
+        "citations": 84,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -3980,7 +4007,7 @@
             "Johnston, Kathryn V.",
             "Rix, Hans-Walter"
         ],
-        "citations": 24,
+        "citations": 25,
         "doctype": "article",
         "doi": "10.3847/0004-637X/824/2/104",
         "page": 104,
@@ -4160,7 +4187,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 46,
+        "citations": 33,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4720,7 +4747,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1271,
+        "citations": 1274,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4937,7 +4964,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 953,
+        "citations": 952,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5356,7 +5383,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2931,
+        "citations": 2937,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5627,7 +5654,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1158,
+        "citations": 1159,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -5900,7 +5927,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 997,
+        "citations": 1000,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6202,7 +6229,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1367,
+        "citations": 1368,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6417,7 +6444,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 221,
+        "citations": 225,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -6612,7 +6639,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1030,
+        "citations": 1031,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
