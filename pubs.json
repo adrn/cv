@@ -1,5 +1,44 @@
 [
     {
+        "arxiv": "2002.00014",
+        "authors": [
+            "Price-Whelan, Adrian M.",
+            "Hogg, David W.",
+            "Rix, Hans-Walter",
+            "Beaton, Rachael L.",
+            "Lewis, Hannah M.",
+            "Nidever, David L.",
+            "Almeida, Andr\u00e9s",
+            "Badenes, Carles",
+            "Barba, Rodolfo",
+            "Beers, Timothy C.",
+            "Carlberg, Joleen K.",
+            "De Lee, Nathan",
+            "Fern\u00e1ndez-Trincado, Jos\u00e9 G.",
+            "Frinchaboy, Peter M.",
+            "Garc\u00eda-Hern\u00e1ndez, D. A.",
+            "Green, Paul J.",
+            "Hasselquist, Sten",
+            "Longa-Pe\u00f1a, Pen\u00e9lope",
+            "Majewski, Steven R.",
+            "Nitschelm, Christian",
+            "Sobeck, Jennifer",
+            "Stassun, Keivan G.",
+            "Stringfellow, Guy S.",
+            "Troup, Nicholas W."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-4357/ab8acc",
+        "page": 2,
+        "pub": "The Astrophysical Journal",
+        "pubdate": "2020-05-00",
+        "title": "Close Binary Companions to APOGEE DR16 Stars: 20,000 Binary-star Systems Across the Color-Magnitude Diagram",
+        "url": "http://adsabs.harvard.edu/abs/2020ApJ...895....2P",
+        "volume": "895",
+        "year": "2020"
+    },
+    {
         "arxiv": "2005.09387",
         "authors": [
             "Angus, Ruth",
@@ -124,7 +163,7 @@
             "Speagle, Joshua S.",
             "Johnson, Benjamin D."
         ],
-        "citations": 5,
+        "citations": 6,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab800c",
         "page": null,
@@ -316,44 +355,6 @@
         "pubdate": "2020-01-00",
         "title": "VizieR Online Data Catalog: RR Lyrae members of the Pal 5 stellar stream (Price-Whelan+, 2019)",
         "url": "http://adsabs.harvard.edu/abs/2020yCat..51580223P",
-        "volume": null,
-        "year": "2020"
-    },
-    {
-        "arxiv": "2002.00014",
-        "authors": [
-            "Price-Whelan, Adrian M.",
-            "Hogg, David W.",
-            "Rix, Hans-Walter",
-            "Beaton, Rachael L.",
-            "Lewis, Hannah",
-            "Nidever, David L.",
-            "Almeida, Andr\u00e9s",
-            "Barba, Rodolfo",
-            "Beers, Timothy C.",
-            "Carlberg, Joleen K.",
-            "De Lee, Nathan",
-            "Fern\u00e1ndez-Trincado, Jos\u00e9 G.",
-            "Frinchaboy, Peter M.",
-            "Garc\u00eda-Hern\u00e1ndez, D. A.",
-            "Green, Paul J.",
-            "Hasselquist, Sten",
-            "Longa-Pe\u00f1a, Pen\u00e9lope",
-            "Majewski, Steven R.",
-            "Nitschelm, Christian",
-            "Sobeck, Jennifer",
-            "Stassun, Keivan G.",
-            "Stringfellow, Guy S.",
-            "Troup, Nicholas W."
-        ],
-        "citations": 8,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2020-01-00",
-        "title": "Close Binary Companions to APOGEE DR16 Stars: 20,000 Binary-star Systems Across the Color-Magnitude Diagram",
-        "url": "http://adsabs.harvard.edu/abs/2020arXiv200200014P",
         "volume": null,
         "year": "2020"
     },
@@ -1557,7 +1558,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 45,
+        "citations": 46,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -2691,7 +2692,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -2939,7 +2940,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 960,
+        "citations": 972,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3179,7 +3180,7 @@
         "authors": [
             "Price-Whelan, Adrian"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.1228136",
         "page": null,
@@ -3278,7 +3279,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 29,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -3351,7 +3352,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 56,
+        "citations": 57,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -3406,7 +3407,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 38,
+        "citations": 39,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -3533,7 +3534,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 854,
+        "citations": 859,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3676,7 +3677,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 64,
+        "citations": 66,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -4187,7 +4188,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 33,
+        "citations": 46,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4747,7 +4748,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1274,
+        "citations": 1277,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4964,7 +4965,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 952,
+        "citations": 953,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5383,7 +5384,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2937,
+        "citations": 2950,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5654,7 +5655,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1159,
+        "citations": 1160,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6444,7 +6445,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 225,
+        "citations": 227,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
