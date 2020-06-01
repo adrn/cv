@@ -1,5 +1,23 @@
 [
     {
+        "arxiv": "2005.14199",
+        "authors": [
+            "Hogg, David W.",
+            "Price-Whelan, Adrian M.",
+            "Leistedt, Boris"
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2020-05-00",
+        "title": "Data Analysis Recipes: Products of multivariate Gaussians in Bayesian inferences",
+        "url": "http://adsabs.harvard.edu/abs/2020arXiv200514199H",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": "2002.00014",
         "authors": [
             "Price-Whelan, Adrian M.",
@@ -1479,7 +1497,7 @@
             "Price-Whelan, Adrian M.",
             "Hogg, David W."
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab36ba",
         "page": null,
@@ -1558,7 +1576,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 45,
+        "citations": 46,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -1739,7 +1757,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 28,
+        "citations": 29,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -2940,7 +2958,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 971,
+        "citations": 978,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3028,7 +3046,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 47,
+        "citations": 48,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -3352,7 +3370,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 57,
+        "citations": 59,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -3401,6 +3419,49 @@
         "url": "http://adsabs.harvard.edu/abs/2018AAS...23123709T",
         "volume": "231",
         "year": "2018"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Craig, Matt",
+            "Crawford, Steve",
+            "Seifert, Michael",
+            "Robitaille, Thomas",
+            "Sipocz, Brigitta",
+            "Walawender, Josh",
+            "Vin\u00edcius, Z\u00e9",
+            "Ninan, Joe Philip",
+            "Droettboom, Michael",
+            "Youn, Jiyong",
+            "Tollerud, Erik",
+            "Bray, Erik",
+            "walkerna22",
+            "Reddy Janga, VSN",
+            "stottsco",
+            "G\u00fcnther, Hans Moritz",
+            "Rol, Evert",
+            "Bach, Yoonsoo P.",
+            "Bradley, Larry",
+            "Deil, Christoph",
+            "Price-Whelan, Adrian",
+            "Barbary, Kyle",
+            "Horton, Anthony",
+            "Schoenell, William",
+            "Nathan",
+            "Gasdia, Forrest",
+            "Nelson, Stefan",
+            "Streicher, Ole"
+        ],
+        "citations": 2,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.1069648",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2017-12-02",
+        "title": "Astropy/Ccdproc: V1.3.0.Post1",
+        "url": "http://adsabs.harvard.edu/abs/2017zndo...1069648C",
+        "volume": null,
+        "year": "2017"
     },
     {
         "arxiv": null,
@@ -3534,7 +3595,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 857,
+        "citations": 863,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4296,7 +4357,7 @@
             "K\u00fcpper, Andreas H. W.",
             "Hogg, David W."
         ],
-        "citations": 29,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.1093/mnras/stv2383",
         "page": 1079,
@@ -4748,7 +4809,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1278,
+        "citations": 1283,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4862,7 +4923,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 46,
+        "citations": 39,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -5384,7 +5445,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2952,
+        "citations": 2972,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5655,7 +5716,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1161,
+        "citations": 1165,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -5928,7 +5989,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1001,
+        "citations": 1003,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6230,7 +6291,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1368,
+        "citations": 1371,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6445,7 +6506,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 227,
+        "citations": 228,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -6640,7 +6701,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1031,
+        "citations": 1032,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
