@@ -1,5 +1,43 @@
 [
     {
+        "arxiv": "2004.14350",
+        "authors": [
+            "Caldwell, Nelson",
+            "Bonaca, Ana",
+            "Price-Whelan, Adrian M.",
+            "Sesar, Branimir",
+            "Walker, Matthew G."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-3881/ab8cbf",
+        "page": 287,
+        "pub": "The Astronomical Journal",
+        "pubdate": "2020-06-00",
+        "title": "A Larger Extent for the Ophiuchus Stream",
+        "url": "http://adsabs.harvard.edu/abs/2020AJ....159..287C",
+        "volume": "159",
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Hogg, David W.",
+            "Price-Whelan, Adrian",
+            "Leistedt, Boris"
+        ],
+        "citations": 1,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.3855689",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2020-05-28",
+        "title": "davidwhogg/GaussianProductRefactor: v1",
+        "url": "http://adsabs.harvard.edu/abs/2020zndo...3855689H",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": "2005.14199",
         "authors": [
             "Hogg, David W.",
@@ -45,7 +83,7 @@
             "Stringfellow, Guy S.",
             "Troup, Nicholas W."
         ],
-        "citations": 8,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab8acc",
         "page": 2,
@@ -149,26 +187,6 @@
         "year": "2020"
     },
     {
-        "arxiv": "2004.14350",
-        "authors": [
-            "Caldwell, N.",
-            "Bonaca, A.",
-            "Price-Whelan, A.",
-            "Sesar, B.",
-            "Walker, M."
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2020-04-00",
-        "title": "A Larger Extent for the Ophiuchus Stream",
-        "url": "http://adsabs.harvard.edu/abs/2020arXiv200414350C",
-        "volume": null,
-        "year": "2020"
-    },
-    {
         "arxiv": "2001.07215",
         "authors": [
             "Bonaca, Ana",
@@ -190,6 +208,29 @@
         "title": "High-resolution Spectroscopy of the GD-1 Stellar Stream Localizes the Perturber near the Orbital Plane of Sagittarius",
         "url": "http://adsabs.harvard.edu/abs/2020ApJ...892L..37B",
         "volume": "892",
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Price-Whelan, Adrian",
+            "Sip\u0151cz, Brigitta",
+            "Lenz, Daniel",
+            "Greco, Johnny",
+            "Major, Syrtis",
+            "Koposov, Sergey",
+            "Oh, Semyeong",
+            "Lim, P. L."
+        ],
+        "citations": 1,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.3700827",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2020-03-08",
+        "title": "adrn/gala: v1.1",
+        "url": "http://adsabs.harvard.edu/abs/2020zndo...3700827P",
+        "volume": null,
         "year": "2020"
     },
     {
@@ -916,7 +957,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 33,
+        "citations": 36,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -980,7 +1021,7 @@
             "Blitz, Leo",
             "Hernquist, Lars"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab4659",
         "page": 67,
@@ -1525,7 +1566,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 11,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -1557,7 +1598,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 54,
+        "citations": 55,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -2710,7 +2751,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -2958,7 +2999,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 978,
+        "citations": 989,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3074,7 +3115,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 237,
+        "citations": 245,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -3370,7 +3411,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 59,
+        "citations": 60,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -3595,7 +3636,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 863,
+        "citations": 873,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3738,7 +3779,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 66,
+        "citations": 68,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -3816,7 +3857,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 30,
+        "citations": 31,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -4119,7 +4160,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 12,
+        "citations": 15,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -4249,7 +4290,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 46,
+        "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4809,7 +4850,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1283,
+        "citations": 1286,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -4923,7 +4964,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 39,
+        "citations": 46,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -5026,7 +5067,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 953,
+        "citations": 954,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5279,7 +5320,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 756,
+        "citations": 757,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5445,7 +5486,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 2972,
+        "citations": 2989,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5716,7 +5757,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1165,
+        "citations": 1170,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -5989,7 +6030,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1003,
+        "citations": 1005,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6291,7 +6332,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1371,
+        "citations": 1373,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6506,7 +6547,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 228,
+        "citations": 230,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -6701,7 +6742,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1032,
+        "citations": 1034,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
