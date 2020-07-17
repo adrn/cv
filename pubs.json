@@ -340,7 +340,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 48,
+        "citations": 50,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1043,7 +1043,7 @@
             "Bonaca, Ana",
             "Belokurov, Vasily"
         ],
-        "citations": 10,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab4cef",
         "page": 223,
@@ -1609,7 +1609,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 20,
+        "citations": 18,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -1641,7 +1641,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 60,
+        "citations": 61,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -2842,7 +2842,7 @@
             "Price-Whelan, Adrian M.",
             "Bovy, Jo"
         ],
-        "citations": 20,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aad7bf",
         "page": 145,
@@ -3042,7 +3042,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1061,
+        "citations": 1067,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3148,7 +3148,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 51,
+        "citations": 52,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -3464,7 +3464,7 @@
             "Tanaka, Masayuki",
             "Usuda, Tomonori"
         ],
-        "citations": 13,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.1093/pasj/psx051",
         "page": null,
@@ -3605,7 +3605,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 45,
+        "citations": 43,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -3732,7 +3732,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 922,
+        "citations": 917,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3787,7 +3787,7 @@
             "Price-Whelan, Adrian M.",
             "Johnston, Kathryn V."
         ],
-        "citations": 46,
+        "citations": 45,
         "doctype": "article",
         "doi": "10.1038/s41550-017-0220-3",
         "page": 633,
@@ -3875,7 +3875,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 71,
+        "citations": 70,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -3995,7 +3995,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 87,
+        "citations": 86,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -4206,7 +4206,7 @@
             "Johnston, Kathryn V.",
             "Rix, Hans-Walter"
         ],
-        "citations": 27,
+        "citations": 26,
         "doctype": "article",
         "doi": "10.3847/0004-637X/824/2/104",
         "page": 104,
@@ -4290,7 +4290,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 16,
+        "citations": 14,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -4420,7 +4420,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 48,
+        "citations": 35,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4623,7 +4623,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 59,
+        "citations": 58,
         "doctype": "article",
         "doi": "10.1093/mnras/stv1324",
         "page": 676,
@@ -5197,7 +5197,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 966,
+        "citations": 964,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5450,7 +5450,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 768,
+        "citations": 767,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5616,7 +5616,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3146,
+        "citations": 3153,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5887,7 +5887,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1188,
+        "citations": 1189,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6160,7 +6160,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1014,
+        "citations": 1013,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6462,7 +6462,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1390,
+        "citations": 1392,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6677,7 +6677,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 237,
+        "citations": 238,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -6872,7 +6872,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1040,
+        "citations": 1041,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
