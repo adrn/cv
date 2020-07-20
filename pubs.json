@@ -1,5 +1,41 @@
 [
     {
+        "arxiv": "2007.09059",
+        "authors": [
+            "Mazzola, Christine N.",
+            "Badenes, Carles",
+            "Moe, Maxwell",
+            "Koposov, Sergey",
+            "Kounkel, Marina",
+            "Kratter, Kaitlin",
+            "Covey, Kevin",
+            "Walker, Matthew G.",
+            "Thompson, Todd A.",
+            "Andrews, Brett",
+            "Freeman, Peter E.",
+            "Anguiano, Borja",
+            "Carlberg, Joleen K.",
+            "De Lee, Nathan M.",
+            "Majewski, Steven",
+            "Nidever, David",
+            "Nitschelm, Christian",
+            "Price-Whelan, Adrian M.",
+            "Roman-Lopes, Alexandre",
+            "Stassun, Keivan G.",
+            "Troup, Nicholas W."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2020-07-00",
+        "title": "The Close Binary Fraction as a Function of Stellar Parameters in APOGEE: A Strong Anti-Correlation With $\\alpha$ Abundances",
+        "url": "http://adsabs.harvard.edu/abs/2020arXiv200709059M",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": "2007.04459",
         "authors": [
             "Oladosu, Ademola",
@@ -340,7 +376,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 50,
+        "citations": 51,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -349,6 +385,28 @@
         "title": "The 16th Data Release of the Sloan Digital Sky Surveys: First Release from the APOGEE-2 Southern Survey and Full Release of eBOSS Spectra",
         "url": "http://adsabs.harvard.edu/abs/2020ApJS..249....3A",
         "volume": "249",
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Garavito Camargo, N.",
+            "Besla, G.",
+            "Johnston, K.",
+            "Weinberg, M.",
+            "Laporte, C.",
+            "Price-Whelan, A.",
+            "Gomez, F. A."
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts #236",
+        "pubdate": "2020-06-00",
+        "title": "The MW's DM halo response to the passage of the Large Magellanic Cloud",
+        "url": "http://adsabs.harvard.edu/abs/2020AAS...23612304G",
+        "volume": "236",
         "year": "2020"
     },
     {
@@ -757,7 +815,7 @@
             "Yasintoda",
             "Murray, Sophie"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "article",
         "doi": "10.21105/joss.01832",
         "page": 1832,
@@ -1751,6 +1809,27 @@
         "pubdate": "2019-07-00",
         "title": "Applying Liouville's Theorem to Gaia Data",
         "url": "http://adsabs.harvard.edu/abs/2019arXiv190700987B",
+        "volume": null,
+        "year": "2019"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Conroy, Charlie",
+            "Hogg, David W.",
+            "Kallivayalil, Nitya",
+            "Price-Whelan, Adrian",
+            "Sohn, Sangmo Tony",
+            "van der Marel, Roeland P."
+        ],
+        "citations": 0,
+        "doctype": "proposal",
+        "doi": null,
+        "page": 15930,
+        "pub": "HST Proposal",
+        "pubdate": "2019-06-00",
+        "title": "Cold Dark Matter and the GD-1 Stellar Stream",
+        "url": "http://adsabs.harvard.edu/abs/2019hst..prop15930C",
         "volume": null,
         "year": "2019"
     },
@@ -2794,7 +2873,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 14,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -3042,7 +3121,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1067,
+        "citations": 1084,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3570,7 +3649,7 @@
             "Nelson, Stefan",
             "Streicher, Ole"
         ],
-        "citations": 3,
+        "citations": 5,
         "doctype": "software",
         "doi": "10.5281/zenodo.1069648",
         "page": null,
@@ -3732,7 +3811,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 917,
+        "citations": 924,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4290,7 +4369,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 14,
+        "citations": 16,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -4420,7 +4499,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 35,
+        "citations": 48,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -4980,7 +5059,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1324,
+        "citations": 1328,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5197,7 +5276,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 964,
+        "citations": 965,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5616,7 +5695,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3153,
+        "citations": 3169,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5887,7 +5966,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1189,
+        "citations": 1196,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6160,7 +6239,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1013,
+        "citations": 1014,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6462,7 +6541,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1392,
+        "citations": 1396,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
