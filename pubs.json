@@ -376,7 +376,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 61,
+        "citations": 63,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -881,7 +881,7 @@
             "Sobeck, Jennifer",
             "Stringfellow, Guy"
         ],
-        "citations": 6,
+        "citations": 7,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab62ad",
         "page": 63,
@@ -1699,7 +1699,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 62,
+        "citations": 64,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1920,7 +1920,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 34,
+        "citations": 35,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -2873,7 +2873,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 16,
+        "citations": 17,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -3121,7 +3121,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1082,
+        "citations": 1093,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3811,7 +3811,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 944,
+        "citations": 953,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -3954,7 +3954,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 70,
+        "citations": 71,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -5059,7 +5059,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1331,
+        "citations": 1332,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5695,7 +5695,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3173,
+        "citations": 3192,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6239,7 +6239,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1014,
+        "citations": 1016,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6541,7 +6541,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1403,
+        "citations": 1404,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6951,7 +6951,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1042,
+        "citations": 1043,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
