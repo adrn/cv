@@ -1,5 +1,32 @@
 [
     {
+        "arxiv": "2005.09387",
+        "authors": [
+            "Angus, Ruth",
+            "Beane, Angus",
+            "Price-Whelan, Adrian M.",
+            "Newton, Elisabeth",
+            "Curtis, Jason L.",
+            "Berger, Travis",
+            "van Saders, Jennifer",
+            "Kiman, Rocio",
+            "Foreman-Mackey, Daniel",
+            "Lu, Yuxi Lucy",
+            "Anderson, Lauren",
+            "Faherty, Jacqueline K."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-3881/ab91b2",
+        "page": 90,
+        "pub": "The Astronomical Journal",
+        "pubdate": "2020-08-00",
+        "title": "Exploring the Evolution of Stellar Rotation Using Galactic Kinematics",
+        "url": "http://adsabs.harvard.edu/abs/2020AJ....160...90A",
+        "volume": "160",
+        "year": "2020"
+    },
+    {
         "arxiv": "2007.09059",
         "authors": [
             "Mazzola, Christine N.",
@@ -522,33 +549,6 @@
         "title": "Close Binary Companions to APOGEE DR16 Stars: 20,000 Binary-star Systems Across the Color-Magnitude Diagram",
         "url": "http://adsabs.harvard.edu/abs/2020ApJ...895....2P",
         "volume": "895",
-        "year": "2020"
-    },
-    {
-        "arxiv": "2005.09387",
-        "authors": [
-            "Angus, Ruth",
-            "Beane, Angus",
-            "Price-Whelan, Adrian M.",
-            "Newton, Elisabeth",
-            "Curtis, Jason L.",
-            "Berger, Travis",
-            "van Saders, Jennifer",
-            "Kiman, Rocio",
-            "Foreman-Mackey, Daniel",
-            "Lu, Yuxi",
-            "Anderson, Lauren",
-            "Faherty, Jacqueline K."
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2020-05-00",
-        "title": "Exploring the evolution of stellar rotation using Galactic kinematics",
-        "url": "http://adsabs.harvard.edu/abs/2020arXiv200509387A",
-        "volume": null,
         "year": "2020"
     },
     {
@@ -1920,7 +1920,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 36,
+        "citations": 37,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -2901,7 +2901,7 @@
             "Strauss, M. A.",
             "Tanaka, M."
         ],
-        "citations": 18,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae0f0",
         "page": 103,
@@ -3121,7 +3121,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1102,
+        "citations": 1109,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -5059,7 +5059,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1340,
+        "citations": 1341,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5276,7 +5276,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 979,
+        "citations": 980,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5529,7 +5529,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 769,
+        "citations": 771,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5695,7 +5695,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3223,
+        "citations": 3232,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5966,7 +5966,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1221,
+        "citations": 1222,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6239,7 +6239,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1017,
+        "citations": 1018,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
