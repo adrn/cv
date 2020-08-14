@@ -15,7 +15,7 @@
             "Anderson, Lauren",
             "Faherty, Jacqueline K."
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab91b2",
         "page": 90,
@@ -403,7 +403,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 69,
+        "citations": 72,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -881,7 +881,7 @@
             "Sobeck, Jennifer",
             "Stringfellow, Guy"
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab62ad",
         "page": 63,
@@ -1667,7 +1667,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 18,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -1888,7 +1888,7 @@
             "Price-Whelan, Adrian",
             "Rossi, Elena Maria"
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab1c5d",
         "page": 17,
@@ -2736,7 +2736,7 @@
             "Price-Whelan, Adrian M.",
             "Goodman, Jeremy"
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae264",
         "page": 5,
@@ -2921,7 +2921,7 @@
             "Price-Whelan, Adrian M.",
             "Bovy, Jo"
         ],
-        "citations": 19,
+        "citations": 20,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aad7bf",
         "page": 145,
@@ -3121,7 +3121,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1109,
+        "citations": 1121,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3255,7 +3255,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 311,
+        "citations": 318,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -3379,7 +3379,7 @@
             "Roman-Lopes, Alexandre",
             "Zamora, Olga"
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aac38c",
         "page": null,
@@ -3811,7 +3811,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 962,
+        "citations": 964,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4032,7 +4032,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 32,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -4702,7 +4702,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 59,
+        "citations": 60,
         "doctype": "article",
         "doi": "10.1093/mnras/stv1324",
         "page": 676,
@@ -5695,7 +5695,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3232,
+        "citations": 3252,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
