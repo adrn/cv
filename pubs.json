@@ -1688,7 +1688,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 20,
+        "citations": 21,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -3142,7 +3142,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1163,
+        "citations": 1169,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3276,7 +3276,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 352,
+        "citations": 353,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -3515,7 +3515,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 32,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -4520,7 +4520,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 49,
+        "citations": 35,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -5716,7 +5716,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3339,
+        "citations": 3347,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
