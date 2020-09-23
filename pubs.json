@@ -423,7 +423,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 90,
+        "citations": 91,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1740,7 +1740,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 72,
+        "citations": 73,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1759,7 +1759,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 54,
+        "citations": 53,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -2914,7 +2914,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 17,
+        "citations": 18,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -3162,7 +3162,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1202,
+        "citations": 1208,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3852,7 +3852,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1004,
+        "citations": 1003,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -5736,7 +5736,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3378,
+        "citations": 3386,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -5827,7 +5827,7 @@
             "Sanders, Jeremy",
             "Zuntz, Joe"
         ],
-        "citations": 45,
+        "citations": 46,
         "doctype": "software",
         "doi": null,
         "page": null,
