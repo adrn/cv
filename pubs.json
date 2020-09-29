@@ -1,12 +1,50 @@
 [
     {
+        "arxiv": "2007.09059",
+        "authors": [
+            "Mazzola, Christine N.",
+            "Badenes, Carles",
+            "Moe, Maxwell",
+            "Koposov, Sergey E.",
+            "Kounkel, Marina",
+            "Kratter, Kaitlin",
+            "Covey, Kevin",
+            "Walker, Matthew G.",
+            "Thompson, Todd A.",
+            "Andrews, Brett",
+            "Freeman, Peter E.",
+            "Anguiano, Borja",
+            "Carlberg, Joleen K.",
+            "De Lee, Nathan M.",
+            "Frinchaboy, Peter M.",
+            "Lewis, Hannah M.",
+            "Majewski, Steven",
+            "Nidever, David",
+            "Nitschelm, Christian",
+            "Price-Whelan, Adrian M.",
+            "Roman-Lopes, Alexandre",
+            "Stassun, Keivan G.",
+            "Troup, Nicholas W."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.1093/mnras/staa2859",
+        "page": null,
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "pubdate": "2020-09-00",
+        "title": "The Close Binary Fraction as a Function of Stellar Parameters in APOGEE: A Strong Anti-Correlation With \u03b1 Abundances",
+        "url": "http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2721M",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": "2009.09004",
         "authors": [
             "Valluri, Monica",
             "Price-Whelan, Adrian M.",
             "Snyder, Sarah J."
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -42,44 +80,6 @@
         "title": "Exploring the Evolution of Stellar Rotation Using Galactic Kinematics",
         "url": "http://adsabs.harvard.edu/abs/2020AJ....160...90A",
         "volume": "160",
-        "year": "2020"
-    },
-    {
-        "arxiv": "2007.09059",
-        "authors": [
-            "Mazzola, Christine N.",
-            "Badenes, Carles",
-            "Moe, Maxwell",
-            "Koposov, Sergey E.",
-            "Kounkel, Marina",
-            "Kratter, Kaitlin",
-            "Covey, Kevin",
-            "Walker, Matthew G.",
-            "Thompson, Todd A.",
-            "Andrews, Brett",
-            "Freeman, Peter E.",
-            "Anguiano, Borja",
-            "Carlberg, Joleen K.",
-            "De Lee, Nathan M.",
-            "Frinchaboy, Peter M.",
-            "Lewis, Hannah M.",
-            "Majewski, Steven",
-            "Nidever, David",
-            "Nitschelm, Christian",
-            "Price-Whelan, Adrian M.",
-            "Roman-Lopes, Alexandre",
-            "Stassun, Keivan G.",
-            "Troup, Nicholas W."
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2020-07-00",
-        "title": "The Close Binary Fraction as a Function of Stellar Parameters in APOGEE: A Strong Anti-Correlation With $\\alpha$ Abundances",
-        "url": "http://adsabs.harvard.edu/abs/2020arXiv200709059M",
-        "volume": null,
         "year": "2020"
     },
     {
@@ -423,7 +423,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 91,
+        "citations": 92,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1740,7 +1740,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 75,
+        "citations": 76,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -1961,7 +1961,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 38,
+        "citations": 39,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -2220,7 +2220,7 @@
             "Oh, Semyeong",
             "Lim, P. L."
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.2638307",
         "page": null,
@@ -3162,7 +3162,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1211,
+        "citations": 1220,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3709,7 +3709,7 @@
             "Major, Syrtis",
             "Oh, Semyeong"
         ],
-        "citations": 1,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.1004642",
         "page": null,
@@ -3852,7 +3852,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1003,
+        "citations": 1013,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4115,7 +4115,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 90,
+        "citations": 91,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -4284,7 +4284,7 @@
             "Zhu, Guangtun",
             "Zonca, Andrea"
         ],
-        "citations": 14,
+        "citations": 15,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -4410,7 +4410,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 16,
+        "citations": 14,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -4540,7 +4540,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 49,
+        "citations": 35,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -5100,7 +5100,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1376,
+        "citations": 1379,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5214,7 +5214,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 46,
+        "citations": 39,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -5317,7 +5317,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 991,
+        "citations": 992,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5570,7 +5570,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 778,
+        "citations": 779,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5736,7 +5736,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3397,
+        "citations": 3408,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6797,7 +6797,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 249,
+        "citations": 250,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
