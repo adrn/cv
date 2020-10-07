@@ -22,9 +22,9 @@ after_success: |
         git checkout --orphan gh-pages
         git rm -rf .
         mkdir pdf
-        mv cv.pdf pdf/cv.pdf
+        mv PriceWhelan-cv.pdf pdf/PriceWhelan-cv.pdf
         touch .nojekyll
-        git add -f pdf/cv.pdf .nojekyll
+        git add -f pdf/PriceWhelan-cv.pdf .nojekyll
         git -c user.name='travis' -c user.email='travis' commit -m "current pdf"
         git push -q -f https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG gh-pages
     fi
