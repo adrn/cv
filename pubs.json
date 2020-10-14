@@ -1,5 +1,39 @@
 [
     {
+        "arxiv": "2010.05102",
+        "authors": [
+            "Katz, Daniel S.",
+            "Malik, Sudhir",
+            "Neubauer, Mark S.",
+            "Stewart, Graeme A.",
+            "Assamagan, K\u00e9t\u00e9vi A.",
+            "Becker, Erin A.",
+            "Chue Hong, Neil P.",
+            "Cosden, Ian A.",
+            "Meehan, Samuel",
+            "Moyse, Edward J. W.",
+            "Price-Whelan, Adrian M.",
+            "Sexton-Kennedy, Elizabeth",
+            "Oan Evans, Meirin",
+            "Feickert, Matthew",
+            "Lange, Clemens",
+            "Lieret, Kilian",
+            "Quick, Rob",
+            "S\u00e1nchez Pineda, Arturo",
+            "Tunnell, Christopher"
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2020-10-00",
+        "title": "Software Sustainability &amp; High Energy Physics",
+        "url": "http://adsabs.harvard.edu/abs/2020arXiv201005102K",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": "2010.00816",
         "authors": [
             "Garavito-Camargo, Nicolas",
@@ -19,6 +53,26 @@
         "pubdate": "2020-10-00",
         "title": "Quantifying the impact of the Large Magellanic Cloud on the structure of the Milky Way's dark matter halo using Basis Function Expansions",
         "url": "http://adsabs.harvard.edu/abs/2020arXiv201000816G",
+        "volume": null,
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Caldwell, N.",
+            "Bonaca, A.",
+            "Price-Whelan, A. M.",
+            "Sesar, B.",
+            "Walker, M. G."
+        ],
+        "citations": 0,
+        "doctype": "catalog",
+        "doi": null,
+        "page": null,
+        "pub": "VizieR Online Data Catalog",
+        "pubdate": "2020-09-00",
+        "title": "VizieR Online Data Catalog: Stellar parameters in Ophiuchus Stream with MMT (Caldwell+, 2020)",
+        "url": "http://adsabs.harvard.edu/abs/2020yCat..51590287C",
         "volume": null,
         "year": "2020"
     },
@@ -446,7 +500,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 102,
+        "citations": 103,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1018,7 +1072,7 @@
         "pubdate": "2020-01-00",
         "title": "A recent star formation event far into the Milky Way halo: discovery and characterization",
         "url": "http://adsabs.harvard.edu/abs/2020AAS...23541501P",
-        "volume": null,
+        "volume": "235",
         "year": "2020"
     },
     {
@@ -1042,11 +1096,11 @@
         "doctype": "abstract",
         "doi": null,
         "page": null,
-        "pub": "American Astronomical Society Meeting Abstracts",
+        "pub": "American Astronomical Society Meeting Abstracts #235",
         "pubdate": "2020-01-00",
         "title": "Constructing Orbits: Multiple Methods for Recovering Periods",
         "url": "http://adsabs.harvard.edu/abs/2020AAS...23517036D",
-        "volume": null,
+        "volume": "235",
         "year": "2020"
     },
     {
@@ -1067,11 +1121,11 @@
         "doctype": "abstract",
         "doi": null,
         "page": null,
-        "pub": "American Astronomical Society Meeting Abstracts",
+        "pub": "American Astronomical Society Meeting Abstracts #235",
         "pubdate": "2020-01-00",
         "title": "Dwarf Galaxy Accretion in the Milky Way: Viewing Dwarf Galaxy Accretion through the Eyes of Large Surveys",
         "url": "http://adsabs.harvard.edu/abs/2020AAS...23515504H",
-        "volume": null,
+        "volume": "235",
         "year": "2020"
     },
     {
@@ -1206,7 +1260,7 @@
             "Blitz, Leo",
             "Hernquist, Lars"
         ],
-        "citations": 6,
+        "citations": 7,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab4659",
         "page": 67,
@@ -1783,7 +1837,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 78,
+        "citations": 77,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -3205,7 +3259,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1259,
+        "citations": 1264,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3339,7 +3393,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 456,
+        "citations": 457,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -3895,7 +3949,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1027,
+        "citations": 1030,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4064,7 +4118,7 @@
         "pubdate": "2017-06-00",
         "title": "Using tidal streams to investigate the rotation of the Milky Way's dark matter halo",
         "url": "http://adsabs.harvard.edu/abs/2017DDA....4820103V",
-        "volume": null,
+        "volume": "48",
         "year": "2017"
     },
     {
@@ -4439,12 +4493,12 @@
             "Pitkin, Matt",
             "Zabalza, Victor",
             "Ryan, Geoffrey",
-            "Emily",
+            "Rice, Emily",
             "Smith, Michael",
             "Ashton, Gregory",
             "Cruz, Kelle",
             "Kerzendorf, Wolfgang",
-            "Caswell, Thomas A",
+            "Caswell, Thomas A.",
             "Hoyer, Stephan",
             "Barbary, Kyle",
             "Czekala, Ian",
@@ -4456,9 +4510,9 @@
         "citations": 14,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
-        "page": null,
-        "pub": "Zenodo",
-        "pubdate": "2016-05-26",
+        "page": 53155,
+        "pub": "Zenodo Software Release",
+        "pubdate": "2016-05-00",
         "title": "corner.py: corner.py v2.0.0",
         "url": "http://adsabs.harvard.edu/abs/2016zndo.....53155F",
         "volume": null,
@@ -5143,7 +5197,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1387,
+        "citations": 1388,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5251,7 +5305,7 @@
             "Foreman-Mackey, Dan",
             "Price-Whelan, Adrian",
             "Ryan, Geoffrey",
-            "Emily",
+            "Rice, Emily",
             "Smith, Michael",
             "Barbary, Kyle",
             "Hogg, David W.",
@@ -5260,34 +5314,11 @@
         "citations": 39,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
-        "page": null,
-        "pub": "Zenodo",
-        "pubdate": "2014-07-24",
-        "title": "triangle.py v0.1.1",
+        "page": 11020,
+        "pub": "Zenodo Software Release",
+        "pubdate": "2014-07-00",
+        "title": "triangle.py: triangle.py v0.1.1",
         "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020F",
-        "volume": null,
-        "year": "2014"
-    },
-    {
-        "arxiv": null,
-        "authors": [
-            "Foreman-Mackey, Dan",
-            "Price-Whelan, Adrian",
-            "Ryan, Geoffrey",
-            "Emily",
-            "Smith, Michael",
-            "Barbary, Kyle",
-            "Hogg, David W.",
-            "Brewer, Brendon J."
-        ],
-        "citations": 4,
-        "doctype": "software",
-        "doi": "10.5281/zenodo.10598",
-        "page": null,
-        "pub": "Zenodo",
-        "pubdate": "2014-06-19",
-        "title": "A citable release",
-        "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
         "volume": null,
         "year": "2014"
     },
@@ -5360,7 +5391,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1000,
+        "citations": 1001,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5369,6 +5400,29 @@
         "title": "The clustering of galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: baryon acoustic oscillations in the Data Releases 10 and 11 Galaxy samples",
         "url": "http://adsabs.harvard.edu/abs/2014MNRAS.441...24A",
         "volume": "441",
+        "year": "2014"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Foreman-Mackey, Dan",
+            "Price-Whelan, Adrian",
+            "Ryan, Geoffrey",
+            "Rice, Emily",
+            "Smith, Michael",
+            "Barbary, Kyle",
+            "Hogg, David W.",
+            "Brewer, Brendon J."
+        ],
+        "citations": 4,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.10598",
+        "page": 10598,
+        "pub": "Zenodo Software Release",
+        "pubdate": "2014-06-00",
+        "title": "triangle.py: triangle.py v0.1",
+        "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
+        "volume": null,
         "year": "2014"
     },
     {
@@ -5613,7 +5667,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 781,
+        "citations": 782,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5779,7 +5833,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3462,
+        "citations": 3475,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6050,7 +6104,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1242,
+        "citations": 1246,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6625,7 +6679,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1432,
+        "citations": 1434,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -7035,7 +7089,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1052,
+        "citations": 1053,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
