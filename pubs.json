@@ -28,7 +28,7 @@
         "page": null,
         "pub": "arXiv e-prints",
         "pubdate": "2020-10-00",
-        "title": "Software Sustainability &amp; High Energy Physics",
+        "title": "Software Sustainability & High Energy Physics",
         "url": "http://adsabs.harvard.edu/abs/2020arXiv201005102K",
         "volume": null,
         "year": "2020"
@@ -500,7 +500,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 103,
+        "citations": 104,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -3259,7 +3259,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1264,
+        "citations": 1271,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3393,7 +3393,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 457,
+        "citations": 459,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -3949,7 +3949,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1030,
+        "citations": 1035,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4637,7 +4637,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 49,
+        "citations": 35,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -5197,7 +5197,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1388,
+        "citations": 1391,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5391,7 +5391,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1001,
+        "citations": 1004,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5667,7 +5667,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 782,
+        "citations": 783,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5833,7 +5833,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3475,
+        "citations": 3487,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6104,7 +6104,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1246,
+        "citations": 1248,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6377,7 +6377,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1030,
+        "citations": 1031,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -6679,7 +6679,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1434,
+        "citations": 1437,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -7089,7 +7089,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1053,
+        "citations": 1054,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
