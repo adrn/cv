@@ -28,7 +28,7 @@
         "page": null,
         "pub": "arXiv e-prints",
         "pubdate": "2020-10-00",
-        "title": "Software Sustainability & High Energy Physics",
+        "title": "Software Sustainability &amp; High Energy Physics",
         "url": "http://adsabs.harvard.edu/abs/2020arXiv201005102K",
         "volume": null,
         "year": "2020"
@@ -53,26 +53,6 @@
         "pubdate": "2020-10-00",
         "title": "Quantifying the impact of the Large Magellanic Cloud on the structure of the Milky Way's dark matter halo using Basis Function Expansions",
         "url": "http://adsabs.harvard.edu/abs/2020arXiv201000816G",
-        "volume": null,
-        "year": "2020"
-    },
-    {
-        "arxiv": null,
-        "authors": [
-            "Caldwell, N.",
-            "Bonaca, A.",
-            "Price-Whelan, A. M.",
-            "Sesar, B.",
-            "Walker, M. G."
-        ],
-        "citations": 0,
-        "doctype": "catalog",
-        "doi": null,
-        "page": null,
-        "pub": "VizieR Online Data Catalog",
-        "pubdate": "2020-09-00",
-        "title": "VizieR Online Data Catalog: Stellar parameters in Ophiuchus Stream with MMT (Caldwell+, 2020)",
-        "url": "http://adsabs.harvard.edu/abs/2020yCat..51590287C",
         "volume": null,
         "year": "2020"
     },
@@ -103,14 +83,34 @@
             "Stassun, Keivan G.",
             "Troup, Nicholas W."
         ],
-        "citations": 1,
+        "citations": 0,
         "doctype": "article",
         "doi": "10.1093/mnras/staa2859",
-        "page": null,
+        "page": 1607,
         "pub": "Monthly Notices of the Royal Astronomical Society",
         "pubdate": "2020-09-00",
-        "title": "The Close Binary Fraction as a Function of Stellar Parameters in APOGEE: A Strong Anti-Correlation With \u03b1 Abundances",
-        "url": "http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2721M",
+        "title": "The close binary fraction as a function of stellar parameters in APOGEE: a strong anticorrelation with \u03b1 abundances",
+        "url": "http://adsabs.harvard.edu/abs/2020MNRAS.499.1607M",
+        "volume": "499",
+        "year": "2020"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Caldwell, N.",
+            "Bonaca, A.",
+            "Price-Whelan, A. M.",
+            "Sesar, B.",
+            "Walker, M. G."
+        ],
+        "citations": 0,
+        "doctype": "catalog",
+        "doi": null,
+        "page": null,
+        "pub": "VizieR Online Data Catalog",
+        "pubdate": "2020-09-00",
+        "title": "VizieR Online Data Catalog: Stellar parameters in Ophiuchus Stream with MMT (Caldwell+, 2020)",
+        "url": "http://adsabs.harvard.edu/abs/2020yCat..51590287C",
         "volume": null,
         "year": "2020"
     },
@@ -157,6 +157,44 @@
         "title": "Exploring the Evolution of Stellar Rotation Using Galactic Kinematics",
         "url": "http://adsabs.harvard.edu/abs/2020AJ....160...90A",
         "volume": "160",
+        "year": "2020"
+    },
+    {
+        "arxiv": "2007.09059",
+        "authors": [
+            "Mazzola, Christine N.",
+            "Badenes, Carles",
+            "Moe, Maxwell",
+            "Koposov, Sergey E.",
+            "Kounkel, Marina",
+            "Kratter, Kaitlin",
+            "Covey, Kevin",
+            "Walker, Matthew G.",
+            "Thompson, Todd A.",
+            "Andrews, Brett",
+            "Freeman, Peter E.",
+            "Anguiano, Borja",
+            "Carlberg, Joleen K.",
+            "De Lee, Nathan M.",
+            "Frinchaboy, Peter M.",
+            "Lewis, Hannah M.",
+            "Majewski, Steven",
+            "Nidever, David",
+            "Nitschelm, Christian",
+            "Price-Whelan, Adrian M.",
+            "Roman-Lopes, Alexandre",
+            "Stassun, Keivan G.",
+            "Troup, Nicholas W."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2020-07-00",
+        "title": "The Close Binary Fraction as a Function of Stellar Parameters in APOGEE: A Strong Anti-Correlation With $\\alpha$ Abundances",
+        "url": "http://adsabs.harvard.edu/abs/2020arXiv200709059M",
+        "volume": null,
         "year": "2020"
     },
     {
@@ -500,7 +538,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 104,
+        "citations": 105,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -637,7 +675,7 @@
             "Stringfellow, Guy S.",
             "Troup, Nicholas W."
         ],
-        "citations": 18,
+        "citations": 19,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab8acc",
         "page": 2,
@@ -1280,7 +1318,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 22,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2707,7 +2745,7 @@
             "Ting, Yuan-Sen",
             "Venn, Kim"
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -3259,7 +3297,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1271,
+        "citations": 1283,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3632,7 +3670,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 33,
+        "citations": 34,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -3949,7 +3987,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1035,
+        "citations": 1041,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4212,7 +4250,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 91,
+        "citations": 92,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -5391,7 +5429,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1004,
+        "citations": 1005,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -5667,7 +5705,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 783,
+        "citations": 785,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -5833,7 +5871,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3487,
+        "citations": 3500,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6104,7 +6142,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1248,
+        "citations": 1249,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6679,7 +6717,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1437,
+        "citations": 1438,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -6894,7 +6932,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 252,
+        "citations": 253,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
