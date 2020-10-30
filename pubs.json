@@ -500,7 +500,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 108,
+        "citations": 109,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -2017,7 +2017,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 54,
+        "citations": 55,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -3420,7 +3420,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1308,
+        "citations": 1315,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -4585,7 +4585,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 94,
+        "citations": 95,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -5010,7 +5010,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 63,
+        "citations": 35,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -5570,7 +5570,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1397,
+        "citations": 1400,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5684,7 +5684,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 70,
+        "citations": 39,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -5707,7 +5707,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 7,
+        "citations": 4,
         "doctype": "software",
         "doi": "10.5281/zenodo.10598",
         "page": null,
@@ -6206,7 +6206,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3539,
+        "citations": 3545,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6477,7 +6477,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1254,
+        "citations": 1256,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
