@@ -1,5 +1,25 @@
 [
     {
+        "arxiv": "2006.12501",
+        "authors": [
+            "Shipp, Nora",
+            "Price-Whelan, Adrian M.",
+            "Tavangar, Kiyan",
+            "Mateu, Cecilia",
+            "Drlica-Wagner, Alex"
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-3881/abbd3a",
+        "page": 244,
+        "pub": "The Astronomical Journal",
+        "pubdate": "2020-11-00",
+        "title": "Discovery of Extended Tidal Tails around the Globular Cluster Palomar 13",
+        "url": "http://adsabs.harvard.edu/abs/2020AJ....160..244S",
+        "volume": "160",
+        "year": "2020"
+    },
+    {
         "arxiv": "2010.05102",
         "authors": [
             "Katz, Daniel S.",
@@ -500,7 +520,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 111,
+        "citations": 116,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -531,26 +551,6 @@
         "title": "The MW's DM halo response to the passage of the Large Magellanic Cloud",
         "url": "http://adsabs.harvard.edu/abs/2020AAS...23612304G",
         "volume": "236",
-        "year": "2020"
-    },
-    {
-        "arxiv": "2006.12501",
-        "authors": [
-            "Shipp, Nora",
-            "Price-Whelan, Adrian",
-            "Tavangar, Kiyan",
-            "Mateu, Cecilia",
-            "Drlica-Wagner, Alex"
-        ],
-        "citations": 1,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2020-06-00",
-        "title": "Discovery of Extended Tidal Tails around the Globular Cluster Palomar 13",
-        "url": "http://adsabs.harvard.edu/abs/2020arXiv200612501S",
-        "volume": null,
         "year": "2020"
     },
     {
@@ -637,7 +637,7 @@
             "Stringfellow, Guy S.",
             "Troup, Nicholas W."
         ],
-        "citations": 19,
+        "citations": 20,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab8acc",
         "page": 2,
@@ -867,7 +867,7 @@
             "Speagle, Joshua S.",
             "Johnson, Benjamin D."
         ],
-        "citations": 6,
+        "citations": 7,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab800c",
         "page": null,
@@ -930,7 +930,7 @@
             "Oh, Semyeong",
             "Lim, P. L."
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "software",
         "doi": "10.5281/zenodo.3700827",
         "page": null,
@@ -1966,7 +1966,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -1998,7 +1998,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 79,
+        "citations": 80,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -3265,7 +3265,7 @@
             "Scopatz, Anthony",
             "Mohammed, AQNOUCH"
         ],
-        "citations": 6,
+        "citations": 4,
         "doctype": "software",
         "doi": "10.5281/zenodo.1436565",
         "page": null,
@@ -3420,7 +3420,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1341,
+        "citations": 1355,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3876,7 +3876,7 @@
             "Gee, Wilfred T.",
             "Jeschke, Eric"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aaa47e",
         "page": 128,
@@ -4076,7 +4076,7 @@
             "Nelson, Stefan",
             "Streicher, Ole"
         ],
-        "citations": 9,
+        "citations": 7,
         "doctype": "software",
         "doi": "10.5281/zenodo.1069648",
         "page": null,
@@ -4268,7 +4268,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1053,
+        "citations": 1050,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4880,7 +4880,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 14,
+        "citations": 16,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -5684,7 +5684,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 39,
+        "citations": 46,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -5787,7 +5787,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1014,
+        "citations": 1013,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -6040,7 +6040,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 788,
+        "citations": 789,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -6206,7 +6206,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3581,
+        "citations": 3592,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -7052,7 +7052,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1443,
+        "citations": 1444,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -7267,7 +7267,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 254,
+        "citations": 255,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
