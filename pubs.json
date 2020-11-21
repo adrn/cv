@@ -1481,7 +1481,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 27,
+        "citations": 28,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2227,7 +2227,7 @@
             "Price-Whelan, Adrian",
             "Rossi, Elena Maria"
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab1c5d",
         "page": 17,
@@ -3460,7 +3460,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1380,
+        "citations": 1390,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -5050,7 +5050,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 48,
+        "citations": 34,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -5610,7 +5610,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1413,
+        "citations": 1415,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5724,7 +5724,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 46,
+        "citations": 39,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -6246,7 +6246,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3632,
+        "citations": 3645,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
