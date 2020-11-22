@@ -20,6 +20,33 @@
         "year": "2020"
     },
     {
+        "arxiv": null,
+        "authors": [
+            "Angus, R.",
+            "Beane, A.",
+            "Price-Whelan, A. M.",
+            "Newton, E.",
+            "Curtis, J. L.",
+            "Berger, T.",
+            "van Saders, J.",
+            "Kiman, R.",
+            "Foreman-Mackey, D.",
+            "Lu, Y.",
+            "Anderson, L.",
+            "Faherty, J. K."
+        ],
+        "citations": 0,
+        "doctype": "catalog",
+        "doi": null,
+        "page": null,
+        "pub": "VizieR Online Data Catalog",
+        "pubdate": "2020-10-00",
+        "title": "VizieR Online Data Catalog: Stellar parameters for 13196 Kepler dwarfs (Angus+, 2020)",
+        "url": "http://adsabs.harvard.edu/abs/2020yCat..51600090A",
+        "volume": null,
+        "year": "2020"
+    },
+    {
         "arxiv": "2010.05102",
         "authors": [
             "Katz, Daniel S.",
@@ -560,7 +587,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 122,
+        "citations": 123,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1225,7 +1252,7 @@
             "Schlegel, David J.",
             "Valdes, Francisco"
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab5afe",
         "page": 70,
@@ -1376,7 +1403,7 @@
             "Oh, Semyeong",
             "Evans, N. Wyn"
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab52fc",
         "page": 115,
@@ -2038,7 +2065,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 81,
+        "citations": 82,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -2227,7 +2254,7 @@
             "Price-Whelan, Adrian",
             "Rossi, Elena Maria"
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab1c5d",
         "page": 17,
@@ -3460,7 +3487,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1390,
+        "citations": 1401,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3612,7 +3639,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 498,
+        "citations": 499,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -4181,7 +4208,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 52,
+        "citations": 53,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -5610,7 +5637,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1415,
+        "citations": 1420,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5827,7 +5854,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1018,
+        "citations": 1017,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -6246,7 +6273,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3645,
+        "citations": 3657,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6517,7 +6544,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1262,
+        "citations": 1263,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -7092,7 +7119,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1446,
+        "citations": 1447,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
