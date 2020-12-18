@@ -139,7 +139,7 @@
             "Weinberg, Martin D.",
             "Gomez, Facundo A."
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -634,7 +634,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 139,
+        "citations": 141,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1066,7 +1066,7 @@
             "Price-Whelan, Adrian M.",
             "Shimwell, Timothy W."
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab5b99",
         "page": null,
@@ -1555,7 +1555,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 32,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2982,7 +2982,7 @@
             "Ting, Yuan-Sen",
             "Venn, Kim"
         ],
-        "citations": 2,
+        "citations": 1,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -3534,7 +3534,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1472,
+        "citations": 1473,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3686,7 +3686,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 517,
+        "citations": 526,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -4056,7 +4056,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 23,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaa4b6",
         "page": 47,
@@ -4382,7 +4382,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1090,
+        "citations": 1092,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4508,7 +4508,7 @@
             "Sharma, Sanjib",
             "Sesar, Branimir"
         ],
-        "citations": 25,
+        "citations": 26,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa7a0d",
         "page": 74,
@@ -4544,7 +4544,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 80,
+        "citations": 81,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -4994,7 +4994,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 17,
+        "citations": 15,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -5124,7 +5124,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 48,
+        "citations": 34,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -5327,7 +5327,7 @@
             "Laporte, Chervin F. P.",
             "Sesar, Branimir"
         ],
-        "citations": 66,
+        "citations": 67,
         "doctype": "article",
         "doi": "10.1093/mnras/stv1324",
         "page": 676,
@@ -5684,7 +5684,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1429,
+        "citations": 1430,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -6320,7 +6320,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3747,
+        "citations": 3764,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6591,7 +6591,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1268,
+        "citations": 1267,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6864,7 +6864,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1039,
+        "citations": 1040,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
