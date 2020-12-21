@@ -634,7 +634,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 144,
+        "citations": 145,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -676,7 +676,7 @@
             "Sesar, Branimir",
             "Walker, Matthew G."
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab8cbf",
         "page": 287,
@@ -981,7 +981,7 @@
             "Speagle, Joshua S.",
             "Johnson, Benjamin D."
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab800c",
         "page": null,
@@ -1299,7 +1299,7 @@
             "Schlegel, David J.",
             "Valdes, Francisco"
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab5afe",
         "page": 70,
@@ -2052,7 +2052,7 @@
             "Price-Whelan, Adrian M.",
             "Hogg, David W."
         ],
-        "citations": 15,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab36ba",
         "page": null,
@@ -2131,7 +2131,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 61,
+        "citations": 62,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -3286,7 +3286,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 20,
+        "citations": 21,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -3314,7 +3314,7 @@
             "Strauss, M. A.",
             "Tanaka, M."
         ],
-        "citations": 22,
+        "citations": 23,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae0f0",
         "page": 103,
@@ -3534,7 +3534,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1477,
+        "citations": 1487,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3658,7 +3658,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 56,
+        "citations": 57,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -4255,7 +4255,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 56,
+        "citations": 58,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -4382,7 +4382,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1093,
+        "citations": 1095,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4437,7 +4437,7 @@
             "Price-Whelan, Adrian M.",
             "Johnston, Kathryn V."
         ],
-        "citations": 50,
+        "citations": 51,
         "doctype": "article",
         "doi": "10.1038/s41550-017-0220-3",
         "page": 633,
@@ -5365,7 +5365,7 @@
             "Waters, Christopher",
             "Wyse, Rosemary F. G."
         ],
-        "citations": 23,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.1088/0004-637X/809/1/59",
         "page": 59,
@@ -5684,7 +5684,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1430,
+        "citations": 1432,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -6154,7 +6154,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 792,
+        "citations": 793,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -6320,7 +6320,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3766,
+        "citations": 3780,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -7166,7 +7166,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1453,
+        "citations": 1454,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -7576,7 +7576,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1064,
+        "citations": 1066,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
