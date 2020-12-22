@@ -234,3 +234,8 @@ if __name__ == '__main__':
 
     with open("pubs_firstauthor.tex", "w") as f:
         f.write("\n\n".join(first))
+
+    # # Now get highlighted papers
+    # with open("highlighted.json", "r") as f:
+    #     highlight = json.loads(f.read())
+    # refs, unrefs, first = get_paper_items(papers)
