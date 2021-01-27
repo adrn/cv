@@ -42,6 +42,44 @@
         "year": "2021"
     },
     {
+        "arxiv": "2007.09059",
+        "authors": [
+            "Mazzola, Christine N.",
+            "Badenes, Carles",
+            "Moe, Maxwell",
+            "Koposov, Sergey E.",
+            "Kounkel, Marina",
+            "Kratter, Kaitlin",
+            "Covey, Kevin",
+            "Walker, Matthew G.",
+            "Thompson, Todd A.",
+            "Andrews, Brett",
+            "Freeman, Peter E.",
+            "Anguiano, Borja",
+            "Carlberg, Joleen K.",
+            "De Lee, Nathan M.",
+            "Frinchaboy, Peter M.",
+            "Lewis, Hannah M.",
+            "Majewski, Steven",
+            "Nidever, David",
+            "Nitschelm, Christian",
+            "Price-Whelan, Adrian M.",
+            "Roman-Lopes, Alexandre",
+            "Stassun, Keivan G.",
+            "Troup, Nicholas W."
+        ],
+        "citations": 2,
+        "doctype": "article",
+        "doi": "10.1093/mnras/staa2859",
+        "page": 1607,
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "pubdate": "2020-12-00",
+        "title": "The close binary fraction as a function of stellar parameters in APOGEE: a strong anticorrelation with \u03b1 abundances",
+        "url": "http://adsabs.harvard.edu/abs/2020MNRAS.499.1607M",
+        "volume": "499",
+        "year": "2020"
+    },
+    {
         "arxiv": "2012.00015",
         "authors": [
             "Price-Whelan, Adrian M.",
@@ -173,44 +211,6 @@
         "year": "2020"
     },
     {
-        "arxiv": "2007.09059",
-        "authors": [
-            "Mazzola, Christine N.",
-            "Badenes, Carles",
-            "Moe, Maxwell",
-            "Koposov, Sergey E.",
-            "Kounkel, Marina",
-            "Kratter, Kaitlin",
-            "Covey, Kevin",
-            "Walker, Matthew G.",
-            "Thompson, Todd A.",
-            "Andrews, Brett",
-            "Freeman, Peter E.",
-            "Anguiano, Borja",
-            "Carlberg, Joleen K.",
-            "De Lee, Nathan M.",
-            "Frinchaboy, Peter M.",
-            "Lewis, Hannah M.",
-            "Majewski, Steven",
-            "Nidever, David",
-            "Nitschelm, Christian",
-            "Price-Whelan, Adrian M.",
-            "Roman-Lopes, Alexandre",
-            "Stassun, Keivan G.",
-            "Troup, Nicholas W."
-        ],
-        "citations": 2,
-        "doctype": "article",
-        "doi": "10.1093/mnras/staa2859",
-        "page": 1607,
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "pubdate": "2020-09-00",
-        "title": "The close binary fraction as a function of stellar parameters in APOGEE: a strong anticorrelation with \u03b1 abundances",
-        "url": "http://adsabs.harvard.edu/abs/2020MNRAS.499.1607M",
-        "volume": "499",
-        "year": "2020"
-    },
-    {
         "arxiv": null,
         "authors": [
             "Caldwell, N.",
@@ -264,7 +264,7 @@
             "Anderson, Lauren",
             "Faherty, Jacqueline K."
         ],
-        "citations": 9,
+        "citations": 10,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab91b2",
         "page": 90,
@@ -656,7 +656,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 162,
+        "citations": 163,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1472,7 +1472,7 @@
             "Oh, Semyeong",
             "Evans, N. Wyn"
         ],
-        "citations": 5,
+        "citations": 6,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab52fc",
         "page": 115,
@@ -1577,7 +1577,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 36,
+        "citations": 37,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2102,7 +2102,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 26,
+        "citations": 27,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -2153,7 +2153,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 62,
+        "citations": 63,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -2909,7 +2909,7 @@
             "Willot, Chris",
             "Withington, Kanoa"
         ],
-        "citations": 24,
+        "citations": 25,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -3572,7 +3572,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1539,
+        "citations": 1551,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3655,7 +3655,7 @@
             "Mechev, Alexandar",
             "jumeroag"
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "software",
         "doi": "10.5281/zenodo.1343299",
         "page": null,
@@ -3724,7 +3724,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 559,
+        "citations": 560,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -4293,7 +4293,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 59,
+        "citations": 60,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -4420,7 +4420,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1116,
+        "citations": 1121,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -4660,7 +4660,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 38,
+        "citations": 40,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -5032,7 +5032,7 @@
             "Brewer, Brendon J.",
             "Hogg, David W."
         ],
-        "citations": 15,
+        "citations": 17,
         "doctype": "software",
         "doi": "10.5281/zenodo.53155",
         "page": null,
@@ -5836,7 +5836,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 39,
+        "citations": 46,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -6192,7 +6192,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 793,
+        "citations": 794,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -6358,7 +6358,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 3875,
+        "citations": 3886,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6449,7 +6449,7 @@
             "Sanders, Jeremy",
             "Zuntz, Joe"
         ],
-        "citations": 52,
+        "citations": 53,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -6629,7 +6629,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1279,
+        "citations": 1281,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -6902,7 +6902,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1046,
+        "citations": 1047,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -7399,7 +7399,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 52,
+        "citations": 51,
         "doctype": "erratum",
         "doi": "10.1088/0067-0049/195/2/26",
         "page": 26,
@@ -7419,7 +7419,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 268,
+        "citations": 267,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -7614,7 +7614,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1068,
+        "citations": 1067,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
