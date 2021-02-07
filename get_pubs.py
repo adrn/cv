@@ -2,14 +2,15 @@ import json
 import ads
 
 
-def get_all_papers(author):
+def get_all_papers(author, **kwargs):
     papers = ads.SearchQuery(author=author,
                              sort="date",
                              max_pages=128,
                              fl=["id", "title", "author", "doi", "year",
                                  "pubdate", "pub", "volume", "page",
                                  "identifier", "doctype", "citation_count",
-                                 "bibcode"])
+                                 "bibcode"],
+                             **kwargs)
 
     all_dicts = []
     for paper in papers:
