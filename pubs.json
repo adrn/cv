@@ -760,7 +760,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 188,
+        "citations": 190,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1399,7 +1399,7 @@
             "Sobeck, Jennifer",
             "Stringfellow, Guy"
         ],
-        "citations": 19,
+        "citations": 20,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab62ad",
         "page": 63,
@@ -1681,7 +1681,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 39,
+        "citations": 40,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2238,7 +2238,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 90,
+        "citations": 91,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -3428,7 +3428,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 22,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -3676,7 +3676,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1649,
+        "citations": 1661,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -3828,7 +3828,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 600,
+        "citations": 614,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -4397,7 +4397,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 61,
+        "citations": 64,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -4524,7 +4524,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1155,
+        "citations": 1163,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -5266,7 +5266,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 34,
+        "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -5826,7 +5826,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1468,
+        "citations": 1467,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -5940,7 +5940,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 40,
+        "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -6296,7 +6296,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 796,
+        "citations": 798,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -6462,7 +6462,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 4061,
+        "citations": 4085,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6482,7 +6482,7 @@
             "Price-Whelan, A. M.",
             "Bogdanov, S."
         ],
-        "citations": 34,
+        "citations": 35,
         "doctype": "circular",
         "doi": null,
         "page": 1,
@@ -7503,7 +7503,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 52,
+        "citations": 51,
         "doctype": "erratum",
         "doi": "10.1088/0067-0049/195/2/26",
         "page": 26,
@@ -7523,7 +7523,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 271,
+        "citations": 272,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -7718,7 +7718,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1077,
+        "citations": 1078,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
