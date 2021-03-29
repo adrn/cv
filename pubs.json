@@ -1,5 +1,54 @@
 [
     {
+        "arxiv": null,
+        "authors": [
+            "Miller, Annaliese",
+            "Kounkel, Marina",
+            "Boggio, Chase",
+            "Covey, Kevin",
+            "Price-Whelan, Adrian M."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.1088/1538-3873/abeaf7",
+        "page": 44201,
+        "pub": "Publications of the Astronomical Society of the Pacific",
+        "pubdate": "2021-04-00",
+        "title": "Orbital and Stellar Parameters for 2M06464003+0109157: A Double-lined Eclipsing Binary of Spotted, Sub-solar Twins",
+        "url": "http://adsabs.harvard.edu/abs/2021PASP..133d4201M",
+        "volume": "133",
+        "year": "2021"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Price-Whelan, Adrian M.",
+            "Hogg, David W.",
+            "Johnston, Kathryn V.",
+            "Ness, Melissa K.",
+            "Rix, Hans-Walter",
+            "Beaton, Rachael L.",
+            "Brownstein, Joel R.",
+            "Garc\u00eda-Hern\u00e1ndez, D. A.",
+            "Hasselquist, Sten",
+            "Hayes, Christian R.",
+            "Lane, Richard R.",
+            "Shetrone, Matthew",
+            "Sobeck, Jennifer",
+            "Zasowski, Gail"
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-4357/abe1b7",
+        "page": 17,
+        "pub": "The Astrophysical Journal",
+        "pubdate": "2021-03-00",
+        "title": "Orbital Torus Imaging: Using Element Abundances to Map Orbits and Mass in the Milky Way",
+        "url": "http://adsabs.harvard.edu/abs/2021ApJ...910...17P",
+        "volume": "910",
+        "year": "2021"
+    },
+    {
         "arxiv": "2103.10488",
         "authors": [
             "Miller, Annaliese",
@@ -1373,7 +1422,7 @@
             "Speagle, Joshua S.",
             "Johnson, Benjamin D."
         ],
-        "citations": 14,
+        "citations": 15,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab800c",
         "page": null,
@@ -2523,7 +2572,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 70,
+        "citations": 71,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -3942,7 +3991,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1690,
+        "citations": 1692,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -4790,7 +4839,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1183,
+        "citations": 1189,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -6309,7 +6358,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1043,
+        "citations": 1046,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -6728,7 +6777,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 4156,
+        "citations": 4157,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -6999,7 +7048,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1298,
+        "citations": 1299,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -7272,7 +7321,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1056,
+        "citations": 1057,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -7574,7 +7623,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1483,
+        "citations": 1484,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
