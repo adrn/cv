@@ -1,6 +1,6 @@
 [
     {
-        "arxiv": null,
+        "arxiv": "2103.10488",
         "authors": [
             "Miller, Annaliese",
             "Kounkel, Marina",
@@ -20,7 +20,7 @@
         "year": "2021"
     },
     {
-        "arxiv": null,
+        "arxiv": "2012.00015",
         "authors": [
             "Price-Whelan, Adrian M.",
             "Hogg, David W.",
@@ -46,26 +46,6 @@
         "title": "Orbital Torus Imaging: Using Element Abundances to Map Orbits and Mass in the Milky Way",
         "url": "http://adsabs.harvard.edu/abs/2021ApJ...910...17P",
         "volume": "910",
-        "year": "2021"
-    },
-    {
-        "arxiv": "2103.10488",
-        "authors": [
-            "Miller, Annaliese",
-            "Kounkel, Marina",
-            "Boggio, Chase",
-            "Covey, Kevin",
-            "Price-Whelan, Adrian M."
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2021-03-00",
-        "title": "Orbital and stellar parameters for 2M06464003+0109157: a double-lined eclipsing binary of spotted, sub-solar twins",
-        "url": "http://adsabs.harvard.edu/abs/2021arXiv210310488M",
-        "volume": null,
         "year": "2021"
     },
     {
@@ -283,33 +263,6 @@
         "title": "The close binary fraction as a function of stellar parameters in APOGEE: a strong anticorrelation with \u03b1 abundances",
         "url": "http://adsabs.harvard.edu/abs/2020MNRAS.499.1607M",
         "volume": "499",
-        "year": "2020"
-    },
-    {
-        "arxiv": "2012.00015",
-        "authors": [
-            "Price-Whelan, Adrian M.",
-            "Hogg, David W.",
-            "Johnston, Kathryn V.",
-            "Ness, Melissa K.",
-            "Rix, Hans-Walter",
-            "Beaton, Rachael L.",
-            "Brownstein, Joel R.",
-            "An\u00edbal Garc\u00eda-Hern\u00e1ndez, Domingo",
-            "Hasselquist, Sten",
-            "Hayes, Christian R.",
-            "Lane, Richard R.",
-            "Zasowski, Gail"
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2020-11-00",
-        "title": "Orbital Torus Imaging: Using Element Abundances to Map Orbits and Mass in the Milky Way",
-        "url": "http://adsabs.harvard.edu/abs/2020arXiv201200015P",
-        "volume": null,
         "year": "2020"
     },
     {
@@ -3743,7 +3696,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 24,
+        "citations": 23,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -5581,7 +5534,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 34,
+        "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -6141,7 +6094,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1478,
+        "citations": 1477,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -7818,7 +7771,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 52,
+        "citations": 51,
         "doctype": "erratum",
         "doi": "10.1088/0067-0049/195/2/26",
         "page": 26,
@@ -7838,7 +7791,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 273,
+        "citations": 272,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -8033,7 +7986,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1081,
+        "citations": 1079,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
