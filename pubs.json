@@ -1,5 +1,60 @@
 [
     {
+        "arxiv": "2101.07809",
+        "authors": [
+            "Putman, Mary E.",
+            "Zheng, Yong",
+            "Price-Whelan, Adrian M.",
+            "Grcevich, Jana",
+            "Johnson, Amalya C.",
+            "Tollerud, Erik",
+            "Peek, Joshua E. G."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-4357/abe391",
+        "page": 53,
+        "pub": "The Astrophysical Journal",
+        "pubdate": "2021-05-00",
+        "title": "The Gas Content and Stripping of Local Group Dwarf Galaxies",
+        "url": "http://adsabs.harvard.edu/abs/2021ApJ...913...53P",
+        "volume": "913",
+        "year": "2021"
+    },
+    {
+        "arxiv": "2103.07488",
+        "authors": [
+            "Sheffield, Allyson A.",
+            "Subrahimovic, Aidan Z.",
+            "Refat, Mohammad",
+            "Beaton, Rachael L.",
+            "Hasselquist, Sten",
+            "Hayes, Christian R.",
+            "Price-Whelan, Adrian M.",
+            "Horta, Danny",
+            "Majewski, Steven R.",
+            "Cunha, Katia",
+            "Smith, Verne V.",
+            "Fern\u00e1ndez-Trincado, Jos\u00e9 G.",
+            "Sobeck, Jennifer S.",
+            "Mu\u00f1oz, Ricardo R.",
+            "Garc\u00eda-Hern\u00e0ndez, D. A.",
+            "Lane, Richard R.",
+            "Nitschelm, Christian",
+            "Roman-Lopes, Alexandre"
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-4357/abee93",
+        "page": 39,
+        "pub": "The Astrophysical Journal",
+        "pubdate": "2021-05-00",
+        "title": "Chemodynamically Characterizing the Jhelum Stellar Stream with APOGEE-2",
+        "url": "http://adsabs.harvard.edu/abs/2021ApJ...913...39S",
+        "volume": "913",
+        "year": "2021"
+    },
+    {
         "arxiv": "2105.10505",
         "authors": [
             "Grunblatt, Samuel K.",
@@ -280,6 +335,51 @@
         "year": "2021"
     },
     {
+        "arxiv": null,
+        "authors": [
+            "Craig, Matt",
+            "Crawford, Steve",
+            "Seifert, Michael",
+            "Robitaille, Thomas",
+            "Sip\u0151cz, Brigitta",
+            "Walawender, Josh",
+            "Crawford, Steve",
+            "Vin\u00edcius, Z\u00e9",
+            "Ninan, Joe Philip",
+            "Droettboom, Michael",
+            "Youn, Jiyong",
+            "Tollerud, Erik",
+            "Bray, E. M.",
+            "Bach, Yoonsoo P.",
+            "Stottsco",
+            "Reddy Janga, VSN",
+            "Walkerna22",
+            "G\u00fcnther, Hans Moritz",
+            "Rol, Evert",
+            "Jaime, A.",
+            "Bradley, Larry",
+            "Yash-10",
+            "Price-Whelan, Adrian",
+            "Deil, Christoph",
+            "Ryon, Jenna",
+            "Lee, Kelvin",
+            "Barbary, Kyle",
+            "Weiner, Benjamin",
+            "Campagnolo, Julio",
+            "Cara, Mihai"
+        ],
+        "citations": 1,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.4588034",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2021-03-07",
+        "title": "astropy/ccdproc: 2.1.0 (re-relase for Zenodo)",
+        "url": "http://adsabs.harvard.edu/abs/2021zndo...4588034C",
+        "volume": null,
+        "year": "2021"
+    },
+    {
         "arxiv": "2012.00015",
         "authors": [
             "Price-Whelan, Adrian M.",
@@ -297,7 +397,7 @@
             "Sobeck, Jennifer",
             "Zasowski, Gail"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "article",
         "doi": "10.3847/1538-4357/abe1b7",
         "page": 17,
@@ -306,39 +406,6 @@
         "title": "Orbital Torus Imaging: Using Element Abundances to Map Orbits and Mass in the Milky Way",
         "url": "http://adsabs.harvard.edu/abs/2021ApJ...910...17P",
         "volume": "910",
-        "year": "2021"
-    },
-    {
-        "arxiv": "2103.07488",
-        "authors": [
-            "Sheffield, Allyson A.",
-            "Subrahimovic, Aidan Z.",
-            "Refat, Mohammad",
-            "Beaton, Rachael L.",
-            "Hasselquist, Sten",
-            "Hayes, Christian R.",
-            "Price-Whelan, Adrian. M.",
-            "Horta, Danny",
-            "Majewski, Steven R.",
-            "Cunha, Katia",
-            "Smith, Verne V.",
-            "Fernandez-Trincado, Jose G.",
-            "Sobeck, Jennifer S.",
-            "Munoz, Ricardo R.",
-            "Garcia-Hernandez, D. A.",
-            "Lane, Richard R.",
-            "Nitschelm, Christian",
-            "Roman-Lopes, Alexandre"
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2021-03-00",
-        "title": "Chemodynamically Characterizing the Jhelum Stellar Stream with APOGEE-2",
-        "url": "http://adsabs.harvard.edu/abs/2021arXiv210307488S",
-        "volume": null,
         "year": "2021"
     },
     {
@@ -647,28 +714,6 @@
         "year": "2021"
     },
     {
-        "arxiv": "2101.07809",
-        "authors": [
-            "Putman, Mary E.",
-            "Zheng, Yong",
-            "Price-Whelan, Adrian M.",
-            "Grcevich, Jana",
-            "Johnson, Amalya C.",
-            "Tollerud, Erik",
-            "Peek, Joshua E. G."
-        ],
-        "citations": 6,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2021-01-00",
-        "title": "The Gas Content and Stripping of Local Group Dwarf Galaxies",
-        "url": "http://adsabs.harvard.edu/abs/2021arXiv210107809P",
-        "volume": null,
-        "year": "2021"
-    },
-    {
         "arxiv": "2007.09059",
         "authors": [
             "Mazzola, Christine N.",
@@ -824,7 +869,7 @@
             "Weinberg, Martin D.",
             "Gomez, Facundo A."
         ],
-        "citations": 7,
+        "citations": 8,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1430,7 +1475,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 239,
+        "citations": 248,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1798,7 +1843,7 @@
             "Speagle, Joshua S.",
             "Johnson, Benjamin D."
         ],
-        "citations": 16,
+        "citations": 17,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab800c",
         "page": null,
@@ -1861,7 +1906,7 @@
             "Oh, Semyeong",
             "Lim, P. L."
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.3700827",
         "page": null,
@@ -2289,7 +2334,7 @@
             "Koposov, Sergey E.",
             "Belokurov, Vasily"
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab4bdd",
         "page": 19,
@@ -2372,7 +2417,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 50,
+        "citations": 52,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2948,7 +2993,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 77,
+        "citations": 78,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -4367,7 +4412,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1806,
+        "citations": 1822,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -4519,7 +4564,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 727,
+        "citations": 735,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -4724,7 +4769,7 @@
         "authors": [
             "Price-Whelan, Adrian"
         ],
-        "citations": 6,
+        "citations": 7,
         "doctype": "software",
         "doi": "10.5281/zenodo.1228136",
         "page": null,
@@ -5088,7 +5133,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 70,
+        "citations": 71,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -5215,7 +5260,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1242,
+        "citations": 1246,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -5455,7 +5500,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 45,
+        "citations": 46,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -5743,7 +5788,7 @@
             "Johnston, Kathryn V.",
             "Rix, Hans-Walter"
         ],
-        "citations": 28,
+        "citations": 29,
         "doctype": "article",
         "doi": "10.3847/0004-637X/824/2/104",
         "page": 104,
@@ -6065,7 +6110,7 @@
             "K\u00fcpper, Andreas H. W.",
             "Hogg, David W."
         ],
-        "citations": 38,
+        "citations": 39,
         "doctype": "article",
         "doi": "10.1093/mnras/stv2383",
         "page": 1079,
@@ -6517,7 +6562,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1513,
+        "citations": 1519,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -6631,7 +6676,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 40,
+        "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -6987,7 +7032,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 809,
+        "citations": 810,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -7153,7 +7198,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 4365,
+        "citations": 4389,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -7424,7 +7469,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1317,
+        "citations": 1319,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -7697,7 +7742,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1069,
+        "citations": 1070,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -7999,7 +8044,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1508,
+        "citations": 1509,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -8214,7 +8259,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 278,
+        "citations": 279,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -8409,7 +8454,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1085,
+        "citations": 1087,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
