@@ -1,5 +1,29 @@
 [
     {
+        "arxiv": "2106.07653",
+        "authors": [
+            "Rix, Hans-Walter",
+            "Hogg, David W.",
+            "Boubert, Douglas",
+            "Brown, Anthony G. A.",
+            "Casey, Andrew",
+            "Drimmel, Ronald",
+            "Everall, Andrew",
+            "Fouesneau, Morgan",
+            "Price-Whelan, Adrian M."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2021-06-00",
+        "title": "Selection Functions in Astronomical Data Modeling, with the Space Density of White Dwarfs as Worked Example",
+        "url": "http://adsabs.harvard.edu/abs/2021arXiv210607653R",
+        "volume": null,
+        "year": "2021"
+    },
+    {
         "arxiv": null,
         "authors": [
             "Price-Whelan, A."
@@ -38,6 +62,28 @@
         "year": "2021"
     },
     {
+        "arxiv": null,
+        "authors": [
+            "Price-Whelan, A. M.",
+            "Nidever, D. L.",
+            "Choi, Y.",
+            "Schlafly, E. F.",
+            "Morton, T.",
+            "Koposov, S. E.",
+            "Belokurov, V."
+        ],
+        "citations": 0,
+        "doctype": "catalog",
+        "doi": null,
+        "page": null,
+        "pub": "VizieR Online Data Catalog",
+        "pubdate": "2021-05-00",
+        "title": "VizieR Online Data Catalog: DECam phot. of Gaia stars in Price-Whelan 1 (Price-Whelan+, 2019)",
+        "url": "http://adsabs.harvard.edu/abs/2021yCat..18870019P",
+        "volume": null,
+        "year": "2021"
+    },
+    {
         "arxiv": "2101.07809",
         "authors": [
             "Putman, Mary E.",
@@ -48,7 +94,7 @@
             "Tollerud, Erik",
             "Peek, Joshua E. G."
         ],
-        "citations": 6,
+        "citations": 7,
         "doctype": "article",
         "doi": "10.3847/1538-4357/abe391",
         "page": 53,
@@ -907,7 +953,7 @@
             "Weinberg, Martin D.",
             "Gomez, Facundo A."
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1513,7 +1559,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 254,
+        "citations": 257,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -1555,7 +1601,7 @@
             "Sesar, Branimir",
             "Walker, Matthew G."
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab8cbf",
         "page": 287,
@@ -1651,7 +1697,7 @@
             "Stringfellow, Guy S.",
             "Troup, Nicholas W."
         ],
-        "citations": 31,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab8acc",
         "page": 2,
@@ -2173,7 +2219,7 @@
             "Sobeck, Jennifer",
             "Stringfellow, Guy"
         ],
-        "citations": 28,
+        "citations": 29,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab62ad",
         "page": 63,
@@ -2435,7 +2481,7 @@
             "Blitz, Leo",
             "Hernquist, Lars"
         ],
-        "citations": 9,
+        "citations": 10,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab4659",
         "page": 67,
@@ -2455,7 +2501,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 53,
+        "citations": 57,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -2980,7 +3026,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 31,
+        "citations": 33,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -3012,7 +3058,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 101,
+        "citations": 104,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -3031,7 +3077,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 79,
+        "citations": 80,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -3233,7 +3279,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 49,
+        "citations": 50,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -3787,7 +3833,7 @@
             "Willot, Chris",
             "Withington, Kanoa"
         ],
-        "citations": 29,
+        "citations": 30,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -4230,7 +4276,7 @@
             "Strauss, M. A.",
             "Tanaka, M."
         ],
-        "citations": 25,
+        "citations": 26,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aae0f0",
         "page": 103,
@@ -4450,7 +4496,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1842,
+        "citations": 1885,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -4574,7 +4620,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 62,
+        "citations": 63,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -4602,7 +4648,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 752,
+        "citations": 753,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -4951,7 +4997,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 35,
+        "citations": 36,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -5024,7 +5070,7 @@
             "Medezinski, Elinor",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 80,
+        "citations": 81,
         "doctype": "article",
         "doi": "10.1093/pasj/psx135",
         "page": null,
@@ -5298,7 +5344,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1255,
+        "citations": 1266,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -5460,7 +5506,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 91,
+        "citations": 92,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -5538,7 +5584,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 46,
+        "citations": 47,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -5615,7 +5661,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 112,
+        "citations": 113,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -6600,7 +6646,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1525,
+        "citations": 1531,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -6714,7 +6760,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 47,
+        "citations": 40,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -6817,7 +6863,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1062,
+        "citations": 1066,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -7070,7 +7116,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 810,
+        "citations": 812,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -7236,7 +7282,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 4425,
+        "citations": 4470,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -7327,7 +7373,7 @@
             "Sanders, Jeremy",
             "Zuntz, Joe"
         ],
-        "citations": 55,
+        "citations": 56,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -7507,7 +7553,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1323,
+        "citations": 1329,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -7780,7 +7826,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1070,
+        "citations": 1072,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -8082,7 +8128,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1511,
+        "citations": 1514,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -8277,7 +8323,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 52,
+        "citations": 51,
         "doctype": "erratum",
         "doi": "10.1088/0067-0049/195/2/26",
         "page": 26,
@@ -8297,7 +8343,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 280,
+        "citations": 279,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
