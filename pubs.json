@@ -19,7 +19,7 @@
             "Price-Whelan, Adrian",
             "Savel, Arjun"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "article",
         "doi": "10.21105/joss.03285",
         "page": 3285,
@@ -4315,7 +4315,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 1939,
+        "citations": 1942,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -5163,7 +5163,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1282,
+        "citations": 1280,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -5905,7 +5905,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 47,
+        "citations": 35,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -6465,7 +6465,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1536,
+        "citations": 1538,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -6935,7 +6935,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 813,
+        "citations": 814,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -7101,7 +7101,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 4538,
+        "citations": 4539,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -7645,7 +7645,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1075,
+        "citations": 1076,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -7668,7 +7668,7 @@
             "Price-Whelan, Alexa",
             "Dietrich, Lars E. P."
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.1073/pnas.1213901109",
         "page": 19420,
@@ -8393,7 +8393,7 @@
             "Price-Whelan, Alexa",
             "Newman, Dianne K."
         ],
-        "citations": 39,
+        "citations": 46,
         "doctype": "article",
         "doi": "10.1126/science.1160619",
         "page": 1203,
