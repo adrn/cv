@@ -13,6 +13,7 @@ jobs:
         with:
           run: |
             apk add make
+            apk add ttf-font-awesome
             make
 
       - name: Remove gitignore so PDF is added and deployed
