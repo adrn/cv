@@ -18,14 +18,16 @@ jobs:
             apk add make
             make
 
-      - name: Remove gitignore so PDF is added and deployed
+      - name: Rearrange files
         run: |
           rm .gitignore
           touch .nojekyll
+          mkdir pdf
+          mv *.pdf pdf/
 
       - name: Deploy PDF
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./pdf
           force_orphan: true
