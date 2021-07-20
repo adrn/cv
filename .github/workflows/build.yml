@@ -1,5 +1,10 @@
 name: Build Latex CV
-on: [push]
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 10 * * 1"  # Mondays @ 6AM Eastern
 jobs:
   build_latex:
     runs-on: ubuntu-latest
