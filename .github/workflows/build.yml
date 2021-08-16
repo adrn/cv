@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 5 * * *"  # every day at 1 AM Eastern
+    - cron: "0 5 * * 1"  # every day at 1 AM Eastern
 jobs:
   build_latex:
     runs-on: ubuntu-latest
