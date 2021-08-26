@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 5 * * *"  # every day at 1 AM Eastern
+    - cron: "0 5 * * 1"  # every day at 1 AM Eastern
 jobs:
   build_latex:
     runs-on: ubuntu-latest
@@ -33,6 +33,6 @@ jobs:
       - name: Deploy PDF
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./pdf
           force_orphan: true
