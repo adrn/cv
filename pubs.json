@@ -1,5 +1,28 @@
 [
     {
+        "arxiv": "2010.00816",
+        "authors": [
+            "Garavito-Camargo, Nicol\u00e1s",
+            "Besla, Gurtina",
+            "Laporte, Chervin F. P.",
+            "Price-Whelan, Adrian M.",
+            "Cunningham, Emily C.",
+            "Johnston, Kathryn V.",
+            "Weinberg, Martin",
+            "G\u00f3mez, Facundo A."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-4357/ac0b44",
+        "page": 109,
+        "pub": "The Astrophysical Journal",
+        "pubdate": "2021-10-00",
+        "title": "Quantifying the Impact of the Large Magellanic Cloud on the Structure of the Milky Way's Dark Matter Halo Using Basis Function Expansions",
+        "url": "http://adsabs.harvard.edu/abs/2021ApJ...919..109G",
+        "volume": "919",
+        "year": "2021"
+    },
+    {
         "arxiv": "2106.07653",
         "authors": [
             "Rix, Hans-Walter",
@@ -21,6 +44,22 @@
         "title": "Selection Functions in Astronomical Data Modeling, with the Space Density of White Dwarfs as a Worked Example",
         "url": "http://adsabs.harvard.edu/abs/2021AJ....162..142R",
         "volume": "162",
+        "year": "2021"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Price-Whelan, Adrian"
+        ],
+        "citations": 0,
+        "doctype": "software",
+        "doi": null,
+        "page": null,
+        "pub": "Astrophysics Source Code Library",
+        "pubdate": "2021-09-00",
+        "title": "pyia: Python package for working with Gaia data",
+        "url": "http://adsabs.harvard.edu/abs/2021ascl.soft09008P",
+        "volume": null,
         "year": "2021"
     },
     {
@@ -61,6 +100,7 @@
             "Smith, Verne V.",
             "Holtzman, Jon A.",
             "Minniti, Dante",
+            "Lacerna, Ivan",
             "Shetrone, Matthew",
             "J\u00f6nsson, Henrik",
             "Cioni, Maria-Rosa L.",
@@ -624,7 +664,7 @@
         "doctype": "inproceedings",
         "doi": "10.5281/zenodo.5126586",
         "page": 66,
-        "pub": "Posters from the TESS Science Conference II (TSC2",
+        "pub": "Posters from the TESS Science Conference II (TSC2)",
         "pubdate": "2021-07-00",
         "title": "Determining the Detectability of a Planet Transiting a Star of Extragalactic Origin",
         "url": "http://adsabs.harvard.edu/abs/2021tsc2.confE..66Y",
@@ -746,7 +786,7 @@
             "Price-Whelan, Adrian",
             "Savel, Arjun"
         ],
-        "citations": 9,
+        "citations": 10,
         "doctype": "article",
         "doi": "10.21105/joss.03285",
         "page": 3285,
@@ -1823,7 +1863,7 @@
             "Stassun, Keivan G.",
             "Troup, Nicholas W."
         ],
-        "citations": 7,
+        "citations": 8,
         "doctype": "article",
         "doi": "10.1093/mnras/staa2859",
         "page": 1607,
@@ -1941,29 +1981,6 @@
         "year": "2020"
     },
     {
-        "arxiv": "2010.00816",
-        "authors": [
-            "Garavito-Camargo, Nicolas",
-            "Besla, Gurtina",
-            "Laporte, Chervin F. P.",
-            "Price-Whelan, Adrian M.",
-            "Cunningham, Emily C.",
-            "Johnston, Kathryn V.",
-            "Weinberg, Martin D.",
-            "Gomez, Facundo A."
-        ],
-        "citations": 14,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2020-10-00",
-        "title": "Quantifying the impact of the Large Magellanic Cloud on the structure of the Milky Way's dark matter halo using Basis Function Expansions",
-        "url": "http://adsabs.harvard.edu/abs/2020arXiv201000816G",
-        "volume": null,
-        "year": "2020"
-    },
-    {
         "arxiv": null,
         "authors": [
             "Caldwell, N.",
@@ -1999,7 +2016,7 @@
             "Anderson, Lauren",
             "Faherty, Jacqueline K."
         ],
-        "citations": 15,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab91b2",
         "page": 90,
@@ -2206,7 +2223,7 @@
             "Kerzendorf, Wolfgang",
             "Cruz, Kelle"
         ],
-        "citations": 3,
+        "citations": 4,
         "doctype": "software",
         "doi": "10.5281/zenodo.3937526",
         "page": null,
@@ -2558,7 +2575,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 338,
+        "citations": 343,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -3375,7 +3392,7 @@
             "Oh, Semyeong",
             "Evans, N. Wyn"
         ],
-        "citations": 7,
+        "citations": 8,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab52fc",
         "page": 115,
@@ -3397,7 +3414,7 @@
             "Koposov, Sergey E.",
             "Belokurov, Vasily"
         ],
-        "citations": 14,
+        "citations": 15,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab4bdd",
         "page": 19,
@@ -4005,7 +4022,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 39,
+        "citations": 40,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -4037,7 +4054,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 116,
+        "citations": 117,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -4537,7 +4554,7 @@
         "doctype": "inproceedings",
         "doi": null,
         "page": 22,
-        "pub": "Kavli Institute for Theoretical Physics Conference: In the Balance: Stasis and Disequilibrium in the Milky Way",
+        "pub": "KITP Conference: In the Balance: Stasis and Disequilibrium in the Milky Way",
         "pubdate": "2019-04-00",
         "title": "A detailed look at the GD-1 stellar stream: density and stellar population",
         "url": "http://adsabs.harvard.edu/abs/2019ibsd.confE..22P",
@@ -5475,7 +5492,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 2183,
+        "citations": 2199,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -6307,7 +6324,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1359,
+        "citations": 1365,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -6624,7 +6641,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 118,
+        "citations": 119,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -7003,12 +7020,12 @@
             "Pitkin, Matt",
             "Zabalza, Victor",
             "Ryan, Geoffrey",
-            "Emily",
+            "Rice, Emily",
             "Smith, Michael",
             "Ashton, Gregory",
             "Cruz, Kelle",
             "Kerzendorf, Wolfgang",
-            "Caswell, Thomas A",
+            "Caswell, Thomas A.",
             "Hoyer, Stephan",
             "Barbary, Kyle",
             "Czekala, Ian",
@@ -7018,10 +7035,10 @@
         "citations": 34,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
-        "page": null,
-        "pub": "Zenodo",
-        "pubdate": "2016-02-11",
-        "title": "Corner.Py: Corner.Py V1.0.2",
+        "page": 45906,
+        "pub": "Zenodo Software Release",
+        "pubdate": "2016-02-00",
+        "title": "corner.py: corner.py v1.0.2",
         "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906F",
         "volume": null,
         "year": "2016"
@@ -7168,7 +7185,7 @@
         "doctype": "article",
         "doi": "10.1128/AEM.02628-15",
         "page": 8414,
-        "pub": "Applied Environmental Microbiology",
+        "pub": "Applied and Environmental Microbiology",
         "pubdate": "2015-12-00",
         "title": "Facultative Control of Matrix Production Optimizes Competitive Fitness in Pseudomonas aeruginosa PA14 Biofilm Models",
         "url": "http://adsabs.harvard.edu/abs/2015ApEnM..81.8414M",
@@ -7600,7 +7617,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1582,
+        "citations": 1588,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -7619,10 +7636,10 @@
         "citations": 2,
         "doctype": "software",
         "doi": "10.5281/zenodo.18787",
-        "page": null,
-        "pub": "Zenodo",
-        "pubdate": "2015-06-10",
-        "title": "Superfreq",
+        "page": 18787,
+        "pub": "Zenodo Software Release",
+        "pubdate": "2015-06-00",
+        "title": "SuperFreq",
         "url": "http://adsabs.harvard.edu/abs/2015zndo.....18787P",
         "volume": null,
         "year": "2015"
@@ -7708,7 +7725,7 @@
             "Foreman-Mackey, Dan",
             "Price-Whelan, Adrian",
             "Ryan, Geoffrey",
-            "Emily",
+            "Rice, Emily",
             "Smith, Michael",
             "Barbary, Kyle",
             "Hogg, David W.",
@@ -7717,10 +7734,10 @@
         "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
-        "page": null,
-        "pub": "Zenodo",
-        "pubdate": "2014-07-24",
-        "title": "triangle.py v0.1.1",
+        "page": 11020,
+        "pub": "Zenodo Software Release",
+        "pubdate": "2014-07-00",
+        "title": "triangle.py: triangle.py v0.1.1",
         "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020F",
         "volume": null,
         "year": "2014"
@@ -8070,7 +8087,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 826,
+        "citations": 827,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -8236,7 +8253,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 4906,
+        "citations": 4926,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -8507,7 +8524,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1366,
+        "citations": 1367,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -8780,7 +8797,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1086,
+        "citations": 1087,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
