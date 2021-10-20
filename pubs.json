@@ -31,7 +31,7 @@
             "Pan, Kaike",
             "Bizyaev, Dmitry"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac1798",
         "page": 184,
@@ -2575,7 +2575,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 353,
+        "citations": 356,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -3497,7 +3497,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 63,
+        "citations": 64,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -5244,7 +5244,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 33,
+        "citations": 32,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -5492,7 +5492,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 2251,
+        "citations": 2249,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -7617,7 +7617,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1597,
+        "citations": 1599,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -8253,7 +8253,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 5006,
+        "citations": 5002,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -8524,7 +8524,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1376,
+        "citations": 1378,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -9509,7 +9509,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1102,
+        "citations": 1101,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
