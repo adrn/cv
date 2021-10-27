@@ -54,7 +54,7 @@
             "Weinberg, Martin",
             "G\u00f3mez, Facundo A."
         ],
-        "citations": 15,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ac0b44",
         "page": 109,
@@ -237,7 +237,7 @@
             "Weinberger, Alycia",
             "Zoccali, Manuela"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -312,7 +312,7 @@
             "Yan, Renbin",
             "Zamora, Olga"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -786,7 +786,7 @@
             "Price-Whelan, Adrian",
             "Savel, Arjun"
         ],
-        "citations": 12,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.21105/joss.03285",
         "page": 3285,
@@ -1208,6 +1208,48 @@
         "title": "Orbital and Stellar Parameters for 2M06464003+0109157: A Double-lined Eclipsing Binary of Spotted, Sub-solar Twins",
         "url": "http://adsabs.harvard.edu/abs/2021PASP..133d4201M",
         "volume": "133",
+        "year": "2021"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Foreman-Mackey, Dan",
+            "Price-Whelan, Adrian",
+            "Vousden, Will",
+            "Ryan, Geoffrey",
+            "Pitkin, Matt",
+            "Zabalza, V\u00edctor",
+            "Jsheyl",
+            "Smith, Arfon",
+            "Ashton, Gregory",
+            "Singer, Leo",
+            "Smith, Michael",
+            "Rice, Emily",
+            "Nitz, Alex",
+            "Brewer, Brendon J.",
+            "Sip\u0151cz, Brigitta",
+            "Hogg, David W.",
+            "Gentry, Eric",
+            "Rein, Hanno",
+            "Madan, Hennadii",
+            "Czekala, Ian",
+            "Tocknell, James",
+            "Barbary, Kyle",
+            "Prechelt, Remy",
+            "Hoyer, Stephan",
+            "Caswell, Thomas A",
+            "Kerzendorf, Wolfgang",
+            "Cruz, Kelle"
+        ],
+        "citations": 1,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.4592454",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2021-03-09",
+        "title": "dfm/corner.py: corner.py v.2.2.1",
+        "url": "http://adsabs.harvard.edu/abs/2021zndo...4592454F",
+        "volume": null,
         "year": "2021"
     },
     {
@@ -2575,7 +2617,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 359,
+        "citations": 362,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -4054,7 +4096,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 121,
+        "citations": 122,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -5492,7 +5534,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 2245,
+        "citations": 2266,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -5644,7 +5686,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 894,
+        "citations": 895,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -6324,7 +6366,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1390,
+        "citations": 1401,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -6423,7 +6465,7 @@
             "Major, Syrtis",
             "Oh, Semyeong"
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "software",
         "doi": "10.5281/zenodo.833339",
         "page": null,
@@ -7032,7 +7074,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 48,
+        "citations": 49,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -7617,7 +7659,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1599,
+        "citations": 1600,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -8253,7 +8295,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 5011,
+        "citations": 5036,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -8524,7 +8566,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1380,
+        "citations": 1383,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -8797,7 +8839,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1090,
+        "citations": 1091,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -9099,7 +9141,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1558,
+        "citations": 1561,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -9314,7 +9356,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 292,
+        "citations": 293,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -9509,7 +9551,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1101,
+        "citations": 1103,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
