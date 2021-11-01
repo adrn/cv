@@ -3,6 +3,21 @@ import json
 import re
 from utf8totex import utf8totex
 
+# To appear in CV as highlighted papers:
+SELECTED_PAPERS = [
+    '10.3847/1538-4357/abe1b7',   # Orbital Torus Imaging
+    '10.3847/1538-4357/ab8acc',   # DR16 APOGEE binaries
+    '10.3847/1538-4357/ab4bdd',   # PW1
+    '10.3847/1538-4357/ab4bdd',   # Pal 5 RRL
+    '10.3847/2041-8213/aad7b5',   # GD-1 DR2
+    '10.3847/1538-3881/aac387',   # DR14 APOGEE binaries
+    '10.21105/joss.00388',        # Gala
+    '10.3847/1538-4357/aa5e50',   # The Joker
+    '10.1093/mnras/stv2383',      # Chaos+Streams
+    '10.1093/mnras/stv1324',      # TriAnd
+    '10.1088/0004-637X/794/1/4',  # Rewinder
+]
+
 _JOURNAL_MAP = {
     "ArXiv e-prints": "ArXiv",
     "The Astronomical Journal": "\\aj",
@@ -129,6 +144,7 @@ def get_paper_items(papers):
     refereeds = []
     preprints = []
     first_authors = []
+    selected = []  # appears in CV
 
     for paper in papers:
         authors = parse_authors(paper)
@@ -186,14 +202,18 @@ def get_paper_items(papers):
         if "price-whelan" in paper["authors"][0].lower():
             first_authors.append(entry)
 
+        if (paper['arxiv'] in SELECTED_PAPERS
+                or paper['doi'] in SELECTED_PAPERS):
+            selected.append(entry)
+
     # Now go through and add the \item and numbers:
-    for corpus in [preprints, refereeds, first_authors]:
+    for corpus in [preprints, refereeds, first_authors, selected]:
         for i, item in enumerate(corpus):
             num = len(corpus) - i
             corpus[i] = ("\\item[{\\color{deemph}\\scriptsize" +
                          str(num) + "}]" + item)
 
-    return refereeds, preprints, first_authors
+    return refereeds, preprints, first_authors, selected
 
 
 if __name__ == '__main__':
@@ -206,7 +226,7 @@ if __name__ == '__main__':
         pubs = json.loads(f.read())
 
     papers = filter_papers(pubs)
-    refs, unrefs, first = get_paper_items(papers)
+    refs, unrefs, first, selected = get_paper_items(papers)
 
     # Compute citation stats
     nref = len(refs)
@@ -215,8 +235,8 @@ if __name__ == '__main__':
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
 
-    summary = (("refereed: {1} --- first author: {2} --- citations: {3} --- "
-               "h-index: {4} (\\textit{{{0}}})")
+    summary = (("Refereed: {1} --- First author: {2} --- Citations: {3} --- "
+               "h-index: {4}  (\\textit{{{0}}})")
                .format(date.today(), nref, nfirst, ncitations, hindex))
 
     print("-"*32)
@@ -234,6 +254,9 @@ if __name__ == '__main__':
 
     with open("pubs_firstauthor.tex", "w") as f:
         f.write("\n\n".join(first))
+
+    with open("pubs_selected.tex", "w") as f:
+        f.write("\n\n".join(selected))
 
     # # Now get highlighted papers
     # with open("highlighted.json", "r") as f:
