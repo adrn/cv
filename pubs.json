@@ -1,5 +1,27 @@
 [
     {
+        "arxiv": "2112.03295",
+        "authors": [
+            "Eilers, Anna-Christina",
+            "Hogg, David W.",
+            "Rix, Hans-Walter",
+            "Ness, Melissa K.",
+            "Price-Whelan, Adrian M.",
+            "Meszaros, Szabolcs",
+            "Nitschelm, Christian"
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2021-12-00",
+        "title": "Stellar Abundance Maps of the Milky Way Disk",
+        "url": "http://adsabs.harvard.edu/abs/2021arXiv211203295E",
+        "volume": null,
+        "year": "2021"
+    },
+    {
         "arxiv": "2112.02026",
         "authors": [
             "Abdurro'uf",
@@ -452,7 +474,7 @@
             "Pan, Kaike",
             "Bizyaev, Dmitry"
         ],
-        "citations": 1,
+        "citations": 4,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac1798",
         "page": 184,
@@ -537,7 +559,7 @@
             "Cunningham, Emily C.",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -597,7 +619,7 @@
             "Villanova, Sandro",
             "Vincenzo, Fiorenzo"
         ],
-        "citations": 3,
+        "citations": 5,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -658,7 +680,7 @@
             "Weinberger, Alycia",
             "Zoccali, Manuela"
         ],
-        "citations": 4,
+        "citations": 6,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -733,7 +755,7 @@
             "Yan, Renbin",
             "Zamora, Olga"
         ],
-        "citations": 3,
+        "citations": 5,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1626,7 +1648,7 @@
             "Price-Whelan, Adrian M.",
             "Snyder, Sarah J."
         ],
-        "citations": 3,
+        "citations": 4,
         "doctype": "article",
         "doi": "10.3847/1538-4357/abe534",
         "page": 150,
@@ -1804,7 +1826,7 @@
             "Sobeck, Jennifer",
             "Zasowski, Gail"
         ],
-        "citations": 3,
+        "citations": 4,
         "doctype": "article",
         "doi": "10.3847/1538-4357/abe1b7",
         "page": 17,
@@ -2373,7 +2395,7 @@
             "Stassun, Keivan G.",
             "Troup, Nicholas W."
         ],
-        "citations": 11,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.1093/mnras/staa2859",
         "page": 1607,
@@ -2393,7 +2415,7 @@
             "Mateu, Cecilia",
             "Drlica-Wagner, Alex"
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.3847/1538-3881/abbd3a",
         "page": 244,
@@ -3085,7 +3107,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 398,
+        "citations": 406,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -3223,7 +3245,7 @@
             "Stringfellow, Guy S.",
             "Troup, Nicholas W."
         ],
-        "citations": 45,
+        "citations": 48,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab8acc",
         "page": 2,
@@ -3725,7 +3747,7 @@
             "Sobeck, Jennifer",
             "Stringfellow, Guy"
         ],
-        "citations": 30,
+        "citations": 31,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab62ad",
         "page": 63,
@@ -3751,7 +3773,7 @@
             "Schlegel, David J.",
             "Valdes, Francisco"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab5afe",
         "page": 70,
@@ -4007,7 +4029,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 71,
+        "citations": 72,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -4532,7 +4554,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 41,
+        "citations": 42,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -5802,7 +5824,7 @@
             "Price-Whelan, Adrian M.",
             "Bovy, Jo"
         ],
-        "citations": 24,
+        "citations": 25,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aad7bf",
         "page": 145,
@@ -6002,7 +6024,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 2373,
+        "citations": 2379,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -6154,7 +6176,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 959,
+        "citations": 978,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -6487,7 +6509,7 @@
             "Spergel, David N.",
             "Myles, Justin"
         ],
-        "citations": 42,
+        "citations": 44,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aaab4d",
         "page": 138,
@@ -6707,7 +6729,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 87,
+        "citations": 88,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -6834,7 +6856,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1445,
+        "citations": 1449,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -6996,7 +7018,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 103,
+        "citations": 104,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -7074,7 +7096,7 @@
             "Foreman-Mackey, Daniel",
             "Rix, Hans-Walter"
         ],
-        "citations": 57,
+        "citations": 60,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aa5e50",
         "page": 20,
@@ -8111,7 +8133,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1627,
+        "citations": 1630,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -8305,7 +8327,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1108,
+        "citations": 1107,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -8581,7 +8603,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 837,
+        "citations": 838,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -8747,7 +8769,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 5225,
+        "citations": 5245,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -9018,7 +9040,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1402,
+        "citations": 1403,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -9291,7 +9313,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1099,
+        "citations": 1101,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -9593,7 +9615,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1574,
+        "citations": 1575,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -9808,7 +9830,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 301,
+        "citations": 303,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
@@ -10003,7 +10025,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1113,
+        "citations": 1114,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
