@@ -478,7 +478,7 @@
             "Zheng, Zheng",
             "Zhu, Kai"
         ],
-        "citations": 37,
+        "citations": 38,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ac4414",
         "page": 35,
@@ -1245,7 +1245,7 @@
             "Villanova, Sandro",
             "Vincenzo, Fiorenzo"
         ],
-        "citations": 12,
+        "citations": 13,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ac25f9",
         "page": 172,
@@ -3598,7 +3598,7 @@
             "Mateu, Cecilia",
             "Drlica-Wagner, Alex"
         ],
-        "citations": 13,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.3847/1538-3881/abbd3a",
         "page": 244,
@@ -4331,7 +4331,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 527,
+        "citations": 529,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -4997,7 +4997,7 @@
             "Schlegel, David J.",
             "Valdes, Francisco"
         ],
-        "citations": 29,
+        "citations": 30,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab5afe",
         "page": 70,
@@ -5148,7 +5148,7 @@
             "Oh, Semyeong",
             "Evans, N. Wyn"
         ],
-        "citations": 10,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab52fc",
         "page": 115,
@@ -5253,7 +5253,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 94,
+        "citations": 95,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -5810,7 +5810,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 159,
+        "citations": 160,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -5829,7 +5829,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 115,
+        "citations": 116,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -6031,7 +6031,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 73,
+        "citations": 74,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -7248,7 +7248,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 3524,
+        "citations": 3530,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -7372,7 +7372,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 80,
+        "citations": 81,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -7953,7 +7953,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 100,
+        "citations": 101,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -8397,7 +8397,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 146,
+        "citations": 147,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -9471,7 +9471,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 47,
+        "citations": 40,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -9993,7 +9993,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 5948,
+        "citations": 5954,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -10839,7 +10839,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1635,
+        "citations": 1636,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
