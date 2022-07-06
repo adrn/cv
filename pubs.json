@@ -1,5 +1,91 @@
 [
     {
+        "arxiv": "2205.08901",
+        "authors": [
+            "Angus, Ruth",
+            "Price-Whelan, Adrian M.",
+            "Zinn, Joel C.",
+            "Bedell, Megan",
+            "Lu, Yuxi (Lucy)",
+            "Foreman-Mackey, Daniel"
+        ],
+        "citations": 1,
+        "doctype": "article",
+        "doi": "10.3847/1538-3881/ac6fea",
+        "page": 25,
+        "pub": "The Astronomical Journal",
+        "pubdate": "2022-07-00",
+        "title": "The 3D Galactocentric Velocities of Kepler Stars: Marginalizing Over Missing Radial Velocities",
+        "url": "http://adsabs.harvard.edu/abs/2022AJ....164...25A",
+        "volume": "164",
+        "year": "2022"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Yoshida, Stephanie",
+            "Grunblatt, Samuel",
+            "Price-Whelan, Adrian"
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts",
+        "pubdate": "2022-06-00",
+        "title": "Determining the Detectability of Planets Transiting Stars of Extragalactic Origin",
+        "url": "http://adsabs.harvard.edu/abs/2022AAS...24033902Y",
+        "volume": "54",
+        "year": "2022"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Oeur, Micah",
+            "Price-Whelan, Adrian",
+            "Loebman, Sarah",
+            "Wetzel, Andrew",
+            "Sanderson, Robyn",
+            "Arora, Arpit"
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts",
+        "pubdate": "2022-06-00",
+        "title": "Orbital Torus Imaging on FIRE",
+        "url": "http://adsabs.harvard.edu/abs/2022AAS...24040705O",
+        "volume": "54",
+        "year": "2022"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Myers, Natalie",
+            "Frinchaboy, Peter",
+            "Donor, John",
+            "Cunha, Katia",
+            "Spoo, Taylor",
+            "Price-Whelan, Adrian",
+            "Majewski, Steven",
+            "Beaton, Rachael",
+            "Zasowski, Gail",
+            "O'Connell, Julia",
+            "Ray, Amy"
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "American Astronomical Society Meeting Abstracts",
+        "pubdate": "2022-06-00",
+        "title": "OCCAM VI: Assembling the open cluster \"Avengers\" of Galactic Evolution",
+        "url": "http://adsabs.harvard.edu/abs/2022AAS...24020104M",
+        "volume": "54",
+        "year": "2022"
+    },
+    {
         "arxiv": "2206.14220",
         "authors": [
             "The Astropy Collaboration",
@@ -304,7 +390,7 @@
             "Price-Whelan, Adrian M.",
             "Burdge, Kevin"
         ],
-        "citations": 7,
+        "citations": 8,
         "doctype": "article",
         "doi": "10.1093/mnras/stac815",
         "page": 5620,
@@ -442,28 +528,6 @@
         "pubdate": "2022-05-00",
         "title": "Mapping Dark Matter with Extragalactic Stellar Streams: the Case of Centaurus A",
         "url": "http://adsabs.harvard.edu/abs/2022arXiv220512277P",
-        "volume": null,
-        "year": "2022"
-    },
-    {
-        "arxiv": "2205.08901",
-        "authors": [
-            "Angus, Ruth",
-            "Price-Whelan, Adrian M.",
-            "Zinn, Joel C.",
-            "Bedell, Megan",
-            "Yuxi",
-            "Lu",
-            "Foreman-Mackey, Daniel"
-        ],
-        "citations": 1,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2022-05-00",
-        "title": "The 3D Galactocentric velocities of Kepler stars: marginalizing over missing RVs",
-        "url": "http://adsabs.harvard.edu/abs/2022arXiv220508901A",
         "volume": null,
         "year": "2022"
     },
@@ -834,7 +898,7 @@
             "Zheng, Zheng",
             "Zhu, Kai"
         ],
-        "citations": 64,
+        "citations": 65,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ac4414",
         "page": 35,
@@ -1803,7 +1867,7 @@
             "Pan, Kaike",
             "Bizyaev, Dmitry"
         ],
-        "citations": 17,
+        "citations": 18,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac1798",
         "page": 184,
@@ -2266,7 +2330,7 @@
             "Price-Whelan, Adrian M.",
             "Savel, Arjun B."
         ],
-        "citations": 64,
+        "citations": 65,
         "doctype": "software",
         "doi": "10.5281/zenodo.1998447",
         "page": null,
@@ -2402,7 +2466,7 @@
             "Barbary, Kyle",
             "Weiner, Benjamin"
         ],
-        "citations": 2,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.4883632",
         "page": null,
@@ -3934,7 +3998,7 @@
             "I, Vishnunarayan K",
             "\u0160umak, Jani"
         ],
-        "citations": 2,
+        "citations": 1,
         "doctype": "software",
         "doi": "10.5281/zenodo.4279480",
         "page": null,
@@ -6134,7 +6198,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 50,
+        "citations": 51,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -7356,7 +7420,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 36,
+        "citations": 37,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -7604,7 +7668,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 3676,
+        "citations": 3683,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -7945,7 +8009,7 @@
             "Major, Syrtis",
             "Oh, Semyeong"
         ],
-        "citations": 5,
+        "citations": 3,
         "doctype": "software",
         "doi": "10.5281/zenodo.1227457",
         "page": null,
@@ -8436,7 +8500,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1615,
+        "citations": 1620,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -8753,7 +8817,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 150,
+        "citations": 151,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -9144,7 +9208,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 35,
+        "citations": 50,
         "doctype": "software",
         "doi": "10.5281/zenodo.45906",
         "page": null,
@@ -9827,7 +9891,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 40,
+        "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -9930,7 +9994,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1131,
+        "citations": 1133,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -10349,7 +10413,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 6123,
+        "citations": 6128,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -10620,7 +10684,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1498,
+        "citations": 1499,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -10893,7 +10957,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1133,
+        "citations": 1134,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -11195,7 +11259,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1649,
+        "citations": 1650,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
