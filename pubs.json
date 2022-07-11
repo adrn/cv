@@ -390,7 +390,7 @@
             "Price-Whelan, Adrian M.",
             "Burdge, Kevin"
         ],
-        "citations": 8,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.1093/mnras/stac815",
         "page": 5620,
@@ -520,7 +520,7 @@
             "Hunt, Jason A. S.",
             "Crnojevic, Denija"
         ],
-        "citations": 0,
+        "citations": 1,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -898,7 +898,7 @@
             "Zheng, Zheng",
             "Zhu, Kai"
         ],
-        "citations": 65,
+        "citations": 66,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ac4414",
         "page": 35,
@@ -1357,6 +1357,25 @@
         "title": "The Homogeneity of the Star-forming Environment of the Milky Way Disk over Time",
         "url": "http://adsabs.harvard.edu/abs/2022ApJ...926..144N",
         "volume": "926",
+        "year": "2022"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Darragh-Ford, Elise",
+            "Johnston, Kathryn",
+            "Price-Whelan, Adrian",
+            "Hunt, Jason"
+        ],
+        "citations": 0,
+        "doctype": "abstract",
+        "doi": null,
+        "page": null,
+        "pub": "APS April Meeting Abstracts",
+        "pubdate": "2022-00-00",
+        "title": "Snails Across Scales: characterizing phase-space spirals in N-body simulations",
+        "url": "http://adsabs.harvard.edu/abs/2022APS..APRS17046D",
+        "volume": "2022",
         "year": "2022"
     },
     {
@@ -3588,7 +3607,7 @@
             "Price-Whelan, Adrian M.",
             "Weinberg, Martin D."
         ],
-        "citations": 7,
+        "citations": 8,
         "doctype": "article",
         "doi": "10.1093/mnras/staa3687",
         "page": 1791,
@@ -6249,7 +6268,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 117,
+        "citations": 118,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -7668,7 +7687,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 3683,
+        "citations": 3686,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -7792,7 +7811,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 81,
+        "citations": 82,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -8500,7 +8519,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1620,
+        "citations": 1621,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -8555,7 +8574,7 @@
             "Price-Whelan, Adrian M.",
             "Johnston, Kathryn V."
         ],
-        "citations": 73,
+        "citations": 74,
         "doctype": "article",
         "doi": "10.1038/s41550-017-0220-3",
         "page": 633,
@@ -9316,7 +9335,7 @@
             "K\u00fcpper, Andreas H. W.",
             "Hogg, David W."
         ],
-        "citations": 50,
+        "citations": 51,
         "doctype": "article",
         "doi": "10.1093/mnras/stv2383",
         "page": 1079,
@@ -9777,7 +9796,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1742,
+        "citations": 1744,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -9812,7 +9831,7 @@
             "Johnston, Kathryn V.",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 60,
+        "citations": 61,
         "doctype": "article",
         "doi": "10.1088/0004-637X/799/1/28",
         "page": 28,
@@ -9868,7 +9887,7 @@
             "Johnston, Kathryn V.",
             "Hendel, David"
         ],
-        "citations": 45,
+        "citations": 46,
         "doctype": "article",
         "doi": "10.1088/0004-637X/794/1/4",
         "page": 4,
@@ -10413,7 +10432,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 6128,
+        "citations": 6132,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
