@@ -1,5 +1,42 @@
 [
     {
+        "arxiv": "2206.13650",
+        "authors": [
+            "Myers, Natalie",
+            "Donor, John",
+            "Spoo, Taylor",
+            "Frinchaboy, Peter M.",
+            "Cunha, Katia",
+            "Price-Whelan, Adrian M.",
+            "Majewski, Steven R.",
+            "Beaton, Rachael L.",
+            "Zasowski, Gail",
+            "O'Connell, Julia",
+            "Ray, Amy E.",
+            "Bizyaev, Dmitry",
+            "Chiappini, Cristina",
+            "Garc\u00eda-Hern\u00e1ndez, D. A.",
+            "Geisler, Doug",
+            "J\u00f6nsson, Henrik",
+            "Lane, Richard R.",
+            "Longa-Pe\u00f1a, Pen\u00e9lope",
+            "Minchev, Ivan",
+            "Minniti, Dante",
+            "Nitschelm, Christian",
+            "Roman-Lopes, A."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-3881/ac7ce5",
+        "page": 85,
+        "pub": "The Astronomical Journal",
+        "pubdate": "2022-09-00",
+        "title": "The Open Cluster Chemical Abundances and Mapping Survey. VI. Galactic Chemical Gradient Analysis from APOGEE DR17",
+        "url": "http://adsabs.harvard.edu/abs/2022AJ....164...85M",
+        "volume": "164",
+        "year": "2022"
+    },
+    {
         "arxiv": "2208.02781",
         "authors": [
             "Breivik, Katelyn",
@@ -430,43 +467,6 @@
         "year": "2022"
     },
     {
-        "arxiv": "2206.13650",
-        "authors": [
-            "Myers, Natalie",
-            "Donor, John",
-            "Spoo, Taylor",
-            "Frinchaboy, Peter M.",
-            "Cunha, Katia",
-            "Price-Whelan, Adrian M.",
-            "Majewski, Steven R.",
-            "Beaton, Rachael L.",
-            "Zasowski, Gail",
-            "O'Connell, Julia",
-            "Ray, Amy E.",
-            "Bizyaev, Dmitry",
-            "Chiappini, Cristina",
-            "Garc\u00eda-Hern\u00e1ndez, D. A.",
-            "Geisler, Doug",
-            "J\u00f6nsson, Henrik",
-            "Lane, Richard R.",
-            "Longa-Pe\u00f1a, Pen\u00e9lope",
-            "Minchev, Ivan",
-            "Minniti, Dante",
-            "Nitschelm, Christian",
-            "Roman-Lopes, A."
-        ],
-        "citations": 0,
-        "doctype": "eprint",
-        "doi": null,
-        "page": null,
-        "pub": "arXiv e-prints",
-        "pubdate": "2022-06-00",
-        "title": "The Open Cluster Chemical Abundances and Mapping Survey: VI. Galactic Chemical Gradient Analysis from APOGEE DR17",
-        "url": "http://adsabs.harvard.edu/abs/2022arXiv220613650M",
-        "volume": null,
-        "year": "2022"
-    },
-    {
         "arxiv": "2206.13556",
         "authors": [
             "Yoshida, Stephanie",
@@ -564,7 +564,7 @@
             "Price-Whelan, Adrian M.",
             "Burdge, Kevin"
         ],
-        "citations": 13,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.1093/mnras/stac815",
         "page": 5620,
@@ -4309,7 +4309,7 @@
             "Koposov, Sergey",
             "Major, Syrtis"
         ],
-        "citations": 19,
+        "citations": 20,
         "doctype": "software",
         "doi": "10.5281/zenodo.4159870",
         "page": null,
@@ -5017,7 +5017,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 587,
+        "citations": 588,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -7686,7 +7686,7 @@
             "Zhu, W.",
             "Zu, Y."
         ],
-        "citations": 39,
+        "citations": 40,
         "doctype": "article",
         "doi": "10.3847/1538-4357/aadd11",
         "page": 133,
@@ -7934,7 +7934,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 3858,
+        "citations": 3863,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -8766,7 +8766,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1647,
+        "citations": 1650,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -10157,7 +10157,7 @@
             "Hogg, David W.",
             "Brewer, Brendon J."
         ],
-        "citations": 40,
+        "citations": 47,
         "doctype": "software",
         "doi": "10.5281/zenodo.11020",
         "page": null,
@@ -10679,7 +10679,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 6292,
+        "citations": 6297,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
