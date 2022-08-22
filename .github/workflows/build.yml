@@ -29,8 +29,8 @@ jobs:
           run: |
             apk add make
             make getpubs
-	    make pubstex
-	    make
+            make pubstex
+            make
 
       - name: Rearrange files
         run: |
