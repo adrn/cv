@@ -37,6 +37,35 @@
         "year": "2022"
     },
     {
+        "arxiv": "2208.09335",
+        "authors": [
+            "Cantat-Gaudin, Tristan",
+            "Fouesneau, Morgan",
+            "Rix, Hans-Walter",
+            "Brown, Anthony G. A.",
+            "Castro-Ginard, Alfred",
+            "Drimmel, Ronald",
+            "Hogg, David W.",
+            "Casey, Andrew R.",
+            "Khanna, Shourya",
+            "Oh, Semyeong",
+            "Price Whelan, Adrian M.",
+            "Belokurov, Vasily",
+            "Saydjari, Andrew K.",
+            "Green, Gregory M."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2022-08-00",
+        "title": "An empirical model of the Gaia DR3 selection function",
+        "url": "http://adsabs.harvard.edu/abs/2022arXiv220809335C",
+        "volume": null,
+        "year": "2022"
+    },
+    {
         "arxiv": "2208.02781",
         "authors": [
             "Breivik, Katelyn",
@@ -455,7 +484,7 @@
             "ZHANG, Chen",
             "Zonca, Andrea"
         ],
-        "citations": 4,
+        "citations": 5,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -564,7 +593,7 @@
             "Price-Whelan, Adrian M.",
             "Burdge, Kevin"
         ],
-        "citations": 12,
+        "citations": 11,
         "doctype": "article",
         "doi": "10.1093/mnras/stac815",
         "page": 5620,
@@ -1072,7 +1101,7 @@
             "Zheng, Zheng",
             "Zhu, Kai"
         ],
-        "citations": 87,
+        "citations": 90,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ac4414",
         "page": 35,
@@ -1931,7 +1960,7 @@
             "Villanova, Sandro",
             "Vincenzo, Fiorenzo"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ac25f9",
         "page": 172,
@@ -2014,7 +2043,7 @@
             "Weinberger, Alycia J.",
             "Zoccali, Manuela"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac2cbc",
         "page": 303,
@@ -2090,7 +2119,7 @@
             "Yan, Renbin",
             "Zamora, Olga"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac260c",
         "page": 302,
@@ -2133,7 +2162,7 @@
             "Pan, Kaike",
             "Bizyaev, Dmitry"
         ],
-        "citations": 21,
+        "citations": 22,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac1798",
         "page": 184,
@@ -2596,7 +2625,7 @@
             "Price-Whelan, Adrian M.",
             "Savel, Arjun B."
         ],
-        "citations": 68,
+        "citations": 69,
         "doctype": "software",
         "doi": "10.5281/zenodo.1998447",
         "page": null,
@@ -2649,7 +2678,7 @@
             "Price-Whelan, Adrian",
             "Savel, Arjun"
         ],
-        "citations": 45,
+        "citations": 47,
         "doctype": "article",
         "doi": "10.21105/joss.03285",
         "page": 3285,
@@ -2948,7 +2977,7 @@
             "Brandt, Timothy D",
             "Barclay, Tom"
         ],
-        "citations": 3,
+        "citations": 2,
         "doctype": "software",
         "doi": "10.5281/zenodo.4737444",
         "page": null,
@@ -3322,6 +3351,32 @@
         "pubdate": "2021-03-27",
         "title": "SunPy",
         "url": "http://adsabs.harvard.edu/abs/2021zndo...4641821M",
+        "volume": null,
+        "year": "2021"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Foreman-Mackey, Dan",
+            "Savel, Arjun",
+            "Luger, Rodrigo",
+            "Czekala, Ian",
+            "Agol, Eric",
+            "Price-Whelan, Adrian",
+            "Hedges, Christina",
+            "Emilygilbert",
+            "Bouma, Luke",
+            "Brandt, Timothy D",
+            "Barclay, Tom"
+        ],
+        "citations": 1,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.4604868",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2021-03-15",
+        "title": "exoplanet-dev/exoplanet: exoplanet v0.4.5",
+        "url": "http://adsabs.harvard.edu/abs/2021zndo...4604868F",
         "volume": null,
         "year": "2021"
     },
@@ -3854,7 +3909,7 @@
             "Price-Whelan, Adrian M.",
             "Weinberg, Martin D."
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.1093/mnras/staa3687",
         "page": 1791,
@@ -4222,7 +4277,7 @@
             "Stassun, Keivan G.",
             "Troup, Nicholas W."
         ],
-        "citations": 22,
+        "citations": 23,
         "doctype": "article",
         "doi": "10.1093/mnras/staa2859",
         "page": 1607,
@@ -4284,7 +4339,7 @@
             "Mateu, Cecilia",
             "Drlica-Wagner, Alex"
         ],
-        "citations": 15,
+        "citations": 16,
         "doctype": "article",
         "doi": "10.3847/1538-3881/abbd3a",
         "page": 244,
@@ -4417,7 +4472,7 @@
             "Anderson, Lauren",
             "Faherty, Jacqueline K."
         ],
-        "citations": 23,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab91b2",
         "page": 90,
@@ -5017,7 +5072,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 588,
+        "citations": 592,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -5098,7 +5153,7 @@
             "Price-Whelan, Adrian",
             "Barclay, Tom"
         ],
-        "citations": 6,
+        "citations": 5,
         "doctype": "software",
         "doi": "10.5281/zenodo.3785072",
         "page": null,
@@ -5450,7 +5505,7 @@
             "Price-Whelan, Adrian M.",
             "Shimwell, Timothy W."
         ],
-        "citations": 7,
+        "citations": 8,
         "doctype": "article",
         "doi": "10.3847/2041-8213/ab5b99",
         "page": null,
@@ -5877,7 +5932,7 @@
             "Bonaca, Ana",
             "Belokurov, Vasily"
         ],
-        "citations": 23,
+        "citations": 24,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab4cef",
         "page": 223,
@@ -6496,7 +6551,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 178,
+        "citations": 179,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -6515,7 +6570,7 @@
             "Price-Whelan, Adrian M.",
             "Conroy, Charlie"
         ],
-        "citations": 121,
+        "citations": 122,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab2873",
         "page": 38,
@@ -6717,7 +6772,7 @@
             "Navarro, J. F.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 81,
+        "citations": 82,
         "doctype": "article",
         "doi": "10.1093/mnras/stz457",
         "page": 4726,
@@ -7934,7 +7989,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 3863,
+        "citations": 3886,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -8058,7 +8113,7 @@
             "Price-Whelan, Adrian M.",
             "Bonaca, Ana"
         ],
-        "citations": 86,
+        "citations": 87,
         "doctype": "article",
         "doi": "10.3847/2041-8213/aad7b5",
         "page": null,
@@ -8086,7 +8141,7 @@
             "Sobeck, Jennifer",
             "Zamora, Olga"
         ],
-        "citations": 469,
+        "citations": 473,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aac387",
         "page": 18,
@@ -8255,7 +8310,7 @@
         "authors": [
             "Price-Whelan, Adrian"
         ],
-        "citations": 13,
+        "citations": 14,
         "doctype": "software",
         "doi": "10.5281/zenodo.1228136",
         "page": null,
@@ -8574,7 +8629,7 @@
             "Nelson, Stefan",
             "Streicher, Ole"
         ],
-        "citations": 27,
+        "citations": 28,
         "doctype": "software",
         "doi": "10.5281/zenodo.1069648",
         "page": null,
@@ -8639,7 +8694,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 111,
+        "citations": 112,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -8766,7 +8821,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1650,
+        "citations": 1658,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -8821,7 +8876,7 @@
             "Price-Whelan, Adrian M.",
             "Johnston, Kathryn V."
         ],
-        "citations": 74,
+        "citations": 75,
         "doctype": "article",
         "doi": "10.1038/s41550-017-0220-3",
         "page": 633,
@@ -8928,7 +8983,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 124,
+        "citations": 125,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -9607,7 +9662,7 @@
             "Xavier, Joao B.",
             "Dietrich, Lars E. P."
         ],
-        "citations": 7,
+        "citations": 9,
         "doctype": "article",
         "doi": "10.1128/AEM.02628-15",
         "page": 8414,
@@ -10043,7 +10098,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1766,
+        "citations": 1768,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -10513,7 +10568,7 @@
             "Zheng, Zheng",
             "Zhu, Guangtun"
         ],
-        "citations": 859,
+        "citations": 860,
         "doctype": "article",
         "doi": "10.1088/0067-0049/211/2/17",
         "page": 17,
@@ -10679,7 +10734,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 6297,
+        "citations": 6324,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -10950,7 +11005,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1511,
+        "citations": 1519,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -11223,7 +11278,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1140,
+        "citations": 1143,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -11525,7 +11580,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1662,
+        "citations": 1667,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -11740,7 +11795,7 @@
             "Weaver, Benjamin A.",
             "Price-Whelan, Adrian"
         ],
-        "citations": 337,
+        "citations": 339,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/1/31",
         "page": 31,
