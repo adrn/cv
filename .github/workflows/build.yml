@@ -28,7 +28,6 @@ jobs:
 
       - name: Compile LaTeX document
         run: |
-          python get_pubs.py
           make getpubs
           make pubstex
           make
