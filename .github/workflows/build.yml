@@ -31,6 +31,8 @@ jobs:
           make getpubs
           make pubstex
           make
+        env:
+          ADS_DEV_KEY: ${{ secrets.ADS_DEV_KEY }}
 
       - name: Rearrange files
         run: |
