@@ -1,5 +1,49 @@
 [
     {
+        "arxiv": "2205.13547",
+        "authors": [
+            "Dillamore, Adam M.",
+            "Belokurov, Vasily",
+            "Evans, N. Wyn",
+            "Price-Whelan, Adrian M."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.1093/mnras/stac2311",
+        "page": 1685,
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "pubdate": "2022-10-00",
+        "title": "The impact of a massive Sagittarius dSph on GD-1-like streams",
+        "url": "http://adsabs.harvard.edu/abs/2022MNRAS.516.1685D",
+        "volume": "516",
+        "year": "2022"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Anguiano, Borja",
+            "Majewski, Steven R.",
+            "Stassun, Keivan G.",
+            "Badenes, Carles",
+            "Daher, Christine Mazzola",
+            "Dixon, Don",
+            "Allende Prieto, Carlos",
+            "Schneider, Donald P.",
+            "Price-Whelan, Adrian M.",
+            "Beaton, Rachael L."
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.3847/1538-3881/ac8357",
+        "page": 126,
+        "pub": "The Astronomical Journal",
+        "pubdate": "2022-10-00",
+        "title": "White Dwarf Binaries across the H-R Diagram",
+        "url": "http://adsabs.harvard.edu/abs/2022AJ....164..126A",
+        "volume": "164",
+        "year": "2022"
+    },
+    {
         "arxiv": "2206.13556",
         "authors": [
             "Yoshida, Stephanie",
@@ -15,6 +59,33 @@
         "title": "Constraining the Planet Occurrence Rate around Halo Stars of Potentially Extragalactic Origin",
         "url": "http://adsabs.harvard.edu/abs/2022AJ....164..119Y",
         "volume": "164",
+        "year": "2022"
+    },
+    {
+        "arxiv": "2209.02722",
+        "authors": [
+            "Rix, Hans-Walter",
+            "Chandra, Vedant",
+            "Andrae, Ren\u00e9",
+            "Price-Whelan, Adrian M.",
+            "Weinberg, David H.",
+            "Conroy, Charlie",
+            "Fouesneau, Morgan",
+            "Hogg, David W.",
+            "De Angeli, Francesca",
+            "Naidu, Rohan P.",
+            "Xiang, Maosheng",
+            "Ruz-Mieres, Daniela"
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2022-09-00",
+        "title": "The Poor Old Heart of the Milky Way",
+        "url": "http://adsabs.harvard.edu/abs/2022arXiv220902722R",
+        "volume": null,
         "year": "2022"
     },
     {
@@ -52,25 +123,6 @@
         "title": "The Open Cluster Chemical Abundances and Mapping Survey. VI. Galactic Chemical Gradient Analysis from APOGEE DR17",
         "url": "http://adsabs.harvard.edu/abs/2022AJ....164...85M",
         "volume": "164",
-        "year": "2022"
-    },
-    {
-        "arxiv": "2205.13547",
-        "authors": [
-            "Dillamore, Adam M.",
-            "Belokurov, Vasily",
-            "Evans, N. Wyn",
-            "Price-Whelan, Adrian M."
-        ],
-        "citations": 1,
-        "doctype": "article",
-        "doi": "10.1093/mnras/stac2311",
-        "page": null,
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "pubdate": "2022-08-00",
-        "title": "The impact of a massive Sagittarius dSph on GD-1-like streams",
-        "url": "http://adsabs.harvard.edu/abs/2022MNRAS.tmp.2193D",
-        "volume": null,
         "year": "2022"
     },
     {
@@ -625,6 +677,25 @@
         "year": "2022"
     },
     {
+        "arxiv": "2205.13547",
+        "authors": [
+            "Dillamore, Adam M.",
+            "Belokurov, Vasily",
+            "Evans, N. Wyn",
+            "Price-Whelan, Adrian M."
+        ],
+        "citations": 0,
+        "doctype": "eprint",
+        "doi": null,
+        "page": null,
+        "pub": "arXiv e-prints",
+        "pubdate": "2022-05-00",
+        "title": "The impact of a massive Sagittarius dSph on GD-1-like streams",
+        "url": "http://adsabs.harvard.edu/abs/2022arXiv220513547D",
+        "volume": null,
+        "year": "2022"
+    },
+    {
         "arxiv": null,
         "authors": [
             "Oeur, Micah",
@@ -1102,7 +1173,7 @@
             "Zheng, Zheng",
             "Zhu, Kai"
         ],
-        "citations": 99,
+        "citations": 102,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ac4414",
         "page": 35,
@@ -1399,7 +1470,7 @@
             "M\u00e9sz\u00e1ros, Szabolcs",
             "Nitschelm, Christian"
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ac54ad",
         "page": 23,
@@ -1457,7 +1528,7 @@
             "Widmark, Axel",
             "Yu, Hai-Bo"
         ],
-        "citations": 7,
+        "citations": 10,
         "doctype": "eprint",
         "doi": null,
         "page": null,
@@ -1927,7 +1998,7 @@
             "Villanova, Sandro",
             "Vincenzo, Fiorenzo"
         ],
-        "citations": 24,
+        "citations": 26,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ac25f9",
         "page": 172,
@@ -2010,7 +2081,7 @@
             "Weinberger, Alycia J.",
             "Zoccali, Manuela"
         ],
-        "citations": 22,
+        "citations": 23,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac2cbc",
         "page": 303,
@@ -2086,7 +2157,7 @@
             "Yan, Renbin",
             "Zamora, Olga"
         ],
-        "citations": 22,
+        "citations": 23,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac260c",
         "page": 302,
@@ -2176,7 +2247,7 @@
             "Fouesneau, Morgan",
             "Price-Whelan, Adrian M."
         ],
-        "citations": 13,
+        "citations": 14,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ac0c13",
         "page": 142,
@@ -5039,7 +5110,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 602,
+        "citations": 606,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -5961,7 +6032,7 @@
             "Price-Whelan, Adrian M.",
             "Starkenburg, Tjitske K."
         ],
-        "citations": 112,
+        "citations": 113,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201936738",
         "page": null,
@@ -6486,7 +6557,7 @@
             "Price-Whelan, Adrian M.",
             "Schlaufman, Kevin C."
         ],
-        "citations": 53,
+        "citations": 54,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ab27bf",
         "page": 125,
@@ -6518,7 +6589,7 @@
             "Sohn, S. T.",
             "Orphan Aspen Treasury Collaboration"
         ],
-        "citations": 179,
+        "citations": 180,
         "doctype": "article",
         "doi": "10.1093/mnras/stz1371",
         "page": 2685,
@@ -7956,7 +8027,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 3950,
+        "citations": 3976,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -8661,7 +8732,7 @@
         "authors": [
             "Price-Whelan, Adrian M."
         ],
-        "citations": 113,
+        "citations": 114,
         "doctype": "article",
         "doi": "10.21105/joss.00388",
         "page": 388,
@@ -8788,7 +8859,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1665,
+        "citations": 1668,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -9105,7 +9176,7 @@
             "Laher, R. R.",
             "M\u00e1rka, S."
         ],
-        "citations": 155,
+        "citations": 156,
         "doctype": "article",
         "doi": "10.1093/mnras/stw1838",
         "page": 2145,
@@ -10065,7 +10136,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1774,
+        "citations": 1775,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -10282,7 +10353,7 @@
             "Zehavi, Idit",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1140,
+        "citations": 1141,
         "doctype": "article",
         "doi": "10.1093/mnras/stu523",
         "page": 24,
@@ -10701,7 +10772,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 6391,
+        "citations": 6417,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -10972,7 +11043,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1524,
+        "citations": 1523,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -11245,7 +11316,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1147,
+        "citations": 1148,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -11547,7 +11618,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1672,
+        "citations": 1673,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -11957,7 +12028,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1154,
+        "citations": 1156,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
