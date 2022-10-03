@@ -1,5 +1,24 @@
 [
     {
+        "arxiv": "2206.06125",
+        "authors": [
+            "Hunt, Jason A. S.",
+            "Price-Whelan, Adrian M.",
+            "Johnston, Kathryn V.",
+            "Darragh-Ford, Elise"
+        ],
+        "citations": 0,
+        "doctype": "article",
+        "doi": "10.1093/mnrasl/slac082",
+        "page": null,
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "pubdate": "2022-10-00",
+        "title": "Multiple phase spirals suggest multiple origins in Gaia DR3",
+        "url": "http://adsabs.harvard.edu/abs/2022MNRAS.516L...7H",
+        "volume": "516",
+        "year": "2022"
+    },
+    {
         "arxiv": "2205.13547",
         "authors": [
             "Dillamore, Adam M.",
@@ -266,7 +285,7 @@
             "Zonca, Andrea",
             "Astropy Project Contributors"
         ],
-        "citations": 10,
+        "citations": 12,
         "doctype": "article",
         "doi": "10.3847/1538-4357/ac7c74",
         "page": 167,
@@ -456,25 +475,6 @@
         "year": "2022"
     },
     {
-        "arxiv": "2206.06125",
-        "authors": [
-            "Hunt, Jason A. S.",
-            "Price-Whelan, Adrian M.",
-            "Johnston, Kathryn V.",
-            "Darragh-Ford, Elise"
-        ],
-        "citations": 3,
-        "doctype": "article",
-        "doi": "10.1093/mnrasl/slac082",
-        "page": null,
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "pubdate": "2022-07-00",
-        "title": "Multiple phase spirals suggest multiple origins in Gaia DR3",
-        "url": "http://adsabs.harvard.edu/abs/2022MNRAS.tmpL..78H",
-        "volume": null,
-        "year": "2022"
-    },
-    {
         "arxiv": "2205.08901",
         "authors": [
             "Angus, Ruth",
@@ -640,7 +640,7 @@
             "Price-Whelan, Adrian M.",
             "Burdge, Kevin"
         ],
-        "citations": 14,
+        "citations": 15,
         "doctype": "article",
         "doi": "10.1093/mnras/stac815",
         "page": 5620,
@@ -1129,7 +1129,7 @@
             "Zheng, Zheng",
             "Zhu, Kai"
         ],
-        "citations": 108,
+        "citations": 110,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ac4414",
         "page": 35,
@@ -1327,7 +1327,7 @@
             "Murray, Sophie A.",
             "Nakul-Shahdadpuri"
         ],
-        "citations": 1,
+        "citations": 2,
         "doctype": "software",
         "doi": "10.5281/zenodo.591887",
         "page": null,
@@ -2619,7 +2619,38 @@
             "Price-Whelan, Adrian M.",
             "Savel, Arjun B."
         ],
-        "citations": 70,
+        "citations": 1,
+        "doctype": "software",
+        "doi": "10.5281/zenodo.5834934",
+        "page": null,
+        "pub": "Zenodo",
+        "pubdate": "2021-06-21",
+        "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data & other astronomical time series",
+        "url": "http://adsabs.harvard.edu/abs/2021zndo...5834934F",
+        "volume": null,
+        "year": "2021"
+    },
+    {
+        "arxiv": null,
+        "authors": [
+            "Foreman-Mackey, Daniel",
+            "Luger, Rodrigo",
+            "Agol, Eric",
+            "Barclay, Thomas",
+            "Bouma, Luke G.",
+            "Brandt, Timothy D.",
+            "Czekala, Ian",
+            "David, Trevor J.",
+            "Dong, Jiayin",
+            "Gilbert, Emily A.",
+            "Gordon, Tyler A.",
+            "Hedges, Christina",
+            "Hey, Daniel R.",
+            "Morris, Brett M.",
+            "Price-Whelan, Adrian M.",
+            "Savel, Arjun B."
+        ],
+        "citations": 71,
         "doctype": "software",
         "doi": "10.5281/zenodo.1998447",
         "page": null,
@@ -2672,7 +2703,7 @@
             "Price-Whelan, Adrian",
             "Savel, Arjun"
         ],
-        "citations": 49,
+        "citations": 50,
         "doctype": "article",
         "doi": "10.21105/joss.03285",
         "page": 3285,
@@ -4466,7 +4497,7 @@
             "Anderson, Lauren",
             "Faherty, Jacqueline K."
         ],
-        "citations": 24,
+        "citations": 25,
         "doctype": "article",
         "doi": "10.3847/1538-3881/ab91b2",
         "page": 90,
@@ -5066,7 +5097,7 @@
             "Zhu, Guangtun",
             "Zou, Hu"
         ],
-        "citations": 616,
+        "citations": 622,
         "doctype": "article",
         "doi": "10.3847/1538-4365/ab929e",
         "page": 3,
@@ -7983,7 +8014,7 @@
             "Zabalza, V.",
             "Astropy Contributors"
         ],
-        "citations": 3968,
+        "citations": 3985,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aabc4f",
         "page": 123,
@@ -8815,7 +8846,7 @@
             "Zhai, Zhongxu",
             "Zhao, Gong-Bo"
         ],
-        "citations": 1685,
+        "citations": 1694,
         "doctype": "article",
         "doi": "10.1093/mnras/stx721",
         "page": 2617,
@@ -8977,7 +9008,7 @@
             "Morton, Timothy D.",
             "Spergel, David N."
         ],
-        "citations": 126,
+        "citations": 127,
         "doctype": "article",
         "doi": "10.3847/1538-3881/aa6ffd",
         "page": 257,
@@ -10092,7 +10123,7 @@
             "Zou, Hu",
             "Zhu, Guangtun"
         ],
-        "citations": 1780,
+        "citations": 1785,
         "doctype": "article",
         "doi": "10.1088/0067-0049/219/1/12",
         "page": 12,
@@ -10728,7 +10759,7 @@
             "Servillat, Mathieu",
             "Streicher, Ole"
         ],
-        "citations": 6493,
+        "citations": 6508,
         "doctype": "article",
         "doi": "10.1051/0004-6361/201322068",
         "page": null,
@@ -10795,7 +10826,7 @@
             "Woillez, Julien",
             "Zabalza, Victor"
         ],
-        "citations": 11,
+        "citations": 12,
         "doctype": "software",
         "doi": null,
         "page": null,
@@ -10999,7 +11030,7 @@
             "Zhao, Gong-Bo",
             "Zheng, Zheng"
         ],
-        "citations": 1530,
+        "citations": 1532,
         "doctype": "article",
         "doi": "10.1088/0004-6256/145/1/10",
         "page": 10,
@@ -11272,7 +11303,7 @@
             "Zhu, Guangtun",
             "Zinn, Joel C."
         ],
-        "citations": 1154,
+        "citations": 1155,
         "doctype": "article",
         "doi": "10.1088/0067-0049/203/2/21",
         "page": 21,
@@ -11574,7 +11605,7 @@
             "Zehavi, Idit",
             "Zhao, Bo"
         ],
-        "citations": 1676,
+        "citations": 1679,
         "doctype": "article",
         "doi": "10.1088/0004-6256/142/3/72",
         "page": 72,
@@ -11984,7 +12015,7 @@
             "Yeche, Christophe",
             "Zehavi, Idit"
         ],
-        "citations": 1159,
+        "citations": 1160,
         "doctype": "article",
         "doi": "10.1088/0067-0049/193/2/29",
         "page": 29,
