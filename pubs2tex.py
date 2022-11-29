@@ -5,9 +5,12 @@ from utf8totex import utf8totex
 
 # To appear in CV as highlighted papers:
 SELECTED_PAPERS = [
+    '10.3847/1538-4357/ac7c74',   # Astropy 2022
+    '10.1093/mnrasl/slac082',     # Hunt multiple phase spirals
+    '10.3847/1538-4357/ac47f7',   # Gandhi snails
     '10.3847/1538-4357/abe1b7',   # Orbital Torus Imaging
     '10.3847/1538-4357/ab8acc',   # DR16 APOGEE binaries
-    '10.3847/1538-4357/ab4bdd',   # PW1
+    # '10.3847/1538-4357/ab4bdd',   # PW1
     '10.3847/1538-4357/ab4bdd',   # Pal 5 RRL
     '10.3847/2041-8213/aad7b5',   # GD-1 DR2
     '10.3847/1538-3881/aac387',   # DR14 APOGEE binaries
