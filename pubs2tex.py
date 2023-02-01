@@ -243,16 +243,19 @@ if __name__ == '__main__':
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
 
-    summary = (("Refereed: {1} --- First author: {2} --- Citations: {3} --- "
-               "h-index: {4}  (\\textit{{{0}}})")
-               .format(date.today(), nref, nfirst, ncitations, hindex))
+    summary = (
+        r"\textbf{Refereed:} " + f"{nref} articles ({nfirst} first author)\n"
+        r"\textbf{Citations} " + f"{ncitations}\n"
+        r"\textbf{h-index:} " + f"{hindex}\n"
+        f"(as of \\textit{{{date.today()}}})"
+    )
 
     print("-"*32)
     print("Summary:")
     print(summary)
 
     with open("summary.tex", "w") as f:
-        f.write(summary)
+        f.write(summary.replace("\n", "\\\\"))
 
     with open("pubs_ref.tex", "w") as f:
         f.write("\n\n".join(refs))
