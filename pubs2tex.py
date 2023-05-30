@@ -1,29 +1,32 @@
-from datetime import date
 import json
 import re
+from datetime import date
+
 from utf8totex import utf8totex
 
 # To appear in CV as highlighted papers:
 SELECTED_PAPERS = [
-    '10.3847/1538-4357/ac7c74',   # Astropy 2022
-    '10.1093/mnrasl/slac082',     # Hunt multiple phase spirals
-    '10.3847/1538-4357/ac47f7',   # Gandhi snails
-    '10.3847/1538-4357/abe1b7',   # Orbital Torus Imaging
-    '10.3847/1538-4357/ab8acc',   # DR16 APOGEE binaries
+    "10.3847/1538-4357/ac9bfb",  # Cen A stream
+    "10.3847/1538-4357/aca01f",  # Travel velocity timing argument
+    "10.3847/1538-4357/ac7c74",  # Astropy 2022
+    "10.1093/mnrasl/slac082",  # Hunt multiple phase spirals
+    "10.3847/1538-4357/ac47f7",  # Gandhi snails
+    "10.3847/1538-4357/abe1b7",  # Orbital Torus Imaging
+    "10.3847/1538-4357/ab8acc",  # DR16 APOGEE binaries
     # '10.3847/1538-4357/ab4bdd',   # PW1
-    '10.3847/1538-4357/ab4bdd',   # Pal 5 RRL
-    '10.3847/2041-8213/aad7b5',   # GD-1 DR2
-    '10.3847/1538-3881/aac387',   # DR14 APOGEE binaries
-    '10.21105/joss.00388',        # Gala
-    '10.3847/1538-4357/aa5e50',   # The Joker
-    '10.1093/mnras/stv2383',      # Chaos+Streams
-    '10.1093/mnras/stv1324',      # TriAnd
-    '10.1088/0004-637X/794/1/4',  # Rewinder
-    '10.3847/1538-4357/aaab4d',   # Kronos & Krios
-    '10.3847/1538-3881/aa6ffd',   # Comoving Pairs
-    '10.3847/1538-4357/ac0b44',   # Nico LMC impact
-    '10.3847/1538-3881/abbd3a',   # Nora Pal 13
-    '10.3847/1538-4357/ab2873',   # Ana spur
+    "10.3847/1538-4357/ab4bdd",  # Pal 5 RRL
+    "10.3847/2041-8213/aad7b5",  # GD-1 DR2
+    "10.3847/1538-3881/aac387",  # DR14 APOGEE binaries
+    "10.21105/joss.00388",  # Gala
+    "10.3847/1538-4357/aa5e50",  # The Joker
+    "10.1093/mnras/stv2383",  # Chaos+Streams
+    "10.1093/mnras/stv1324",  # TriAnd
+    "10.1088/0004-637X/794/1/4",  # Rewinder
+    # '10.3847/1538-4357/aaab4d',   # Kronos & Krios
+    "10.3847/1538-3881/aa6ffd",  # Comoving Pairs
+    "10.3847/1538-4357/ac0b44",  # Nico LMC impact
+    "10.3847/1538-3881/abbd3a",  # Nora Pal 13
+    "10.3847/1538-4357/ab2873",  # Ana spur
 ]
 
 _JOURNAL_MAP = {
@@ -62,9 +65,9 @@ for k, v in _JOURNAL_MAP.items():
 
 def format_name(name):
     try:
-        last, others = name.split(', ')
-        others = ['{0}.'.format(o[0]) for o in others.split()]
-        name = "{last}, {first}".format(first=' '.join(others), last=last)
+        last, others = name.split(", ")
+        others = ["{0}.".format(o[0]) for o in others.split()]
+        name = "{last}, {first}".format(first=" ".join(others), last=last)
 
     except ValueError:
         print("couldn't format name '{0}'".format(name))
@@ -73,23 +76,23 @@ def format_name(name):
 
 
 def parse_authors(paper_dict, max_authors=4):
-    raw_authors = [utf8totex(x) for x in paper_dict['authors']]
+    raw_authors = [utf8totex(x) for x in paper_dict["authors"]]
 
     show_authors = raw_authors[:max_authors]
 
-    if any(['price-whelan' in x.lower() for x in show_authors]):
+    if any(["price-whelan" in x.lower() for x in show_authors]):
         # Bold my name because it makes the cut to be shown
         names = []
         for name in show_authors:
-            if 'price-whelan' in name.lower():
-                name = '\\textbf{Price-Whelan,~A.~M.}'
+            if "price-whelan" in name.lower():
+                name = "\\textbf{Price-Whelan,~A.~M.}"
             else:
                 name = format_name(name)
             names.append(name)
 
-        author_tex = '; '.join(names)
+        author_tex = "; ".join(names)
 
-        if len(show_authors) < len(raw_authors): # use et al.
+        if len(show_authors) < len(raw_authors):  # use et al.
             author_tex = author_tex + "~\\textit{et al.}"
 
     else:
@@ -108,21 +111,23 @@ def filter_papers(pubs):
             continue
 
         # Skip if the publication is in the skip list:
-        if any([re.match(re.compile(pattr), p['pub'].lower())
-                for pattr in JOURNAL_SKIP]):
+        if any(
+            [re.match(re.compile(pattr), p["pub"].lower()) for pattr in JOURNAL_SKIP]
+        ):
             continue
 
         if p["pub"].lower() != "arxiv e-prints":
-            pub = JOURNAL_MAP.get(p["pub"].strip("0123456789# ").lower(),
-                                  None)
+            pub = JOURNAL_MAP.get(p["pub"].strip("0123456789# ").lower(), None)
 
             if pub is None:
-                print("Journal '{0}' not recognized for paper '{1}' - "
-                      " skipping...".format(p['pub'], p['title']))
+                print(
+                    "Journal '{0}' not recognized for paper '{1}' - "
+                    " skipping...".format(p["pub"], p["title"])
+                )
                 continue
 
         # HACK: hard-coded skip
-        if 'astropy problem' in p['title'].lower():
+        if "astropy problem" in p["title"].lower():
             continue
 
         filtered.append(p)
@@ -136,8 +141,12 @@ def get_ref_unref(papers):
 
     for paper in papers:
         # Skip if the publication is in the skip list:
-        if any([re.match(re.compile(pattr), paper['pub'].lower())
-                for pattr in JOURNAL_SKIP]):
+        if any(
+            [
+                re.match(re.compile(pattr), paper["pub"].lower())
+                for pattr in JOURNAL_SKIP
+            ]
+        ):
             continue
 
         if paper["pub"] not in [None, "ArXiv e-prints", "arXiv e-prints"]:
@@ -159,24 +168,30 @@ def get_paper_items(papers):
         entry = authors
 
         # Skip if the publication is in the skip list:
-        if any([re.match(re.compile(pattr), paper['pub'].lower())
-                for pattr in JOURNAL_SKIP]):
+        if any(
+            [
+                re.match(re.compile(pattr), paper["pub"].lower())
+                for pattr in JOURNAL_SKIP
+            ]
+        ):
             continue
 
         if paper["doi"] is not None:
-            title = "\\doi{{{0}}}{{{1}}}".format(paper["doi"],
-                                                 utf8totex(paper["title"]))
+            title = "\\doi{{{0}}}{{{1}}}".format(
+                paper["doi"], utf8totex(paper["title"])
+            )
         else:
             title = "\\textit{{{0}}}".format(utf8totex(paper["title"]))
         entry += ", " + title
 
-        if paper["pub"] not in [None, "ArXiv e-prints", "arXiv e-prints"]: # HACK
-            pub = JOURNAL_MAP.get(paper["pub"].strip("0123456789# ").lower(),
-                                  None)
+        if paper["pub"] not in [None, "ArXiv e-prints", "arXiv e-prints"]:  # HACK
+            pub = JOURNAL_MAP.get(paper["pub"].strip("0123456789# ").lower(), None)
 
             if pub is None:
-                print("Journal '{0}' not recognized for paper '{1}' - "
-                      " skipping...".format(paper['pub'], paper['title']))
+                print(
+                    "Journal '{0}' not recognized for paper '{1}' - "
+                    " skipping...".format(paper["pub"], paper["title"])
+                )
                 continue
 
             entry += ", " + pub
@@ -191,15 +206,16 @@ def get_paper_items(papers):
         if paper["page"] is not None:
             entry += ", {0}".format(paper["page"])
 
-        if paper['pubdate'] is not None:
-            entry += ", {0}".format(paper['pubdate'].split('-')[0])
+        if paper["pubdate"] is not None:
+            entry += ", {0}".format(paper["pubdate"].split("-")[0])
 
         if paper["arxiv"] is not None:
             entry += " (\\arxiv{{{0}}})".format(paper["arxiv"])
 
         if paper["citations"] > 1:
-            entry += (" [\\href{{{0}}}{{{1} citations}}]"
-                      .format(paper["url"], paper["citations"]))
+            entry += " [\\href{{{0}}}{{{1} citations}}]".format(
+                paper["url"], paper["citations"]
+            )
 
         if is_preprint:
             preprints.append(entry)
@@ -210,25 +226,26 @@ def get_paper_items(papers):
         if "price-whelan" in paper["authors"][0].lower():
             first_authors.append(entry)
 
-        if (paper['arxiv'] in SELECTED_PAPERS
-                or paper['doi'] in SELECTED_PAPERS):
+        if paper["arxiv"] in SELECTED_PAPERS or paper["doi"] in SELECTED_PAPERS:
             selected.append(entry)
 
     # Now go through and add the \item and numbers:
     for corpus in [preprints, refereeds, first_authors, selected]:
         for i, item in enumerate(corpus):
             num = len(corpus) - i
-            corpus[i] = ("\\item[{\\color{deemph}\\scriptsize" +
-                         str(num) + "}]" + item)
+            corpus[i] = "\\item[{\\color{deemph}\\scriptsize" + str(num) + "}]" + item
 
     return refereeds, preprints, first_authors, selected
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     from os import path
-    if not path.exists('pubs.json'):
-        raise FileNotFoundError("File 'pubs.json' not found - run get_pubs.py "
-                                "before running this script.")
+
+    if not path.exists("pubs.json"):
+        raise FileNotFoundError(
+            "File 'pubs.json' not found - run get_pubs.py "
+            "before running this script."
+        )
 
     with open("pubs.json", "r") as f:
         pubs = json.loads(f.read())
@@ -250,7 +267,7 @@ if __name__ == '__main__':
         f"(as of \\textit{{{date.today()}}})"
     )
 
-    print("-"*32)
+    print("-" * 32)
     print("Summary:")
     print(summary)
 
@@ -272,4 +289,5 @@ if __name__ == '__main__':
     # # Now get highlighted papers
     # with open("highlighted.json", "r") as f:
     #     highlight = json.loads(f.read())
+    # refs, unrefs, first = get_paper_items(papers)
     # refs, unrefs, first = get_paper_items(papers)
