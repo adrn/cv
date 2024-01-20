@@ -6,6 +6,7 @@ from utf8totex import utf8totex
 
 # To appear in CV as highlighted papers:
 SELECTED_PAPERS = [
+    "10.1093/mnras/stad3918",  # Radial spirals
     "10.3847/1538-4357/ac9bfb",  # Cen A stream
     "10.3847/1538-4357/aca01f",  # Travel velocity timing argument
     "10.3847/1538-4357/ac7c74",  # Astropy 2022
@@ -24,8 +25,8 @@ SELECTED_PAPERS = [
     "10.1088/0004-637X/794/1/4",  # Rewinder
     # '10.3847/1538-4357/aaab4d',   # Kronos & Krios
     "10.3847/1538-3881/aa6ffd",  # Comoving Pairs
-    "10.3847/1538-4357/ac0b44",  # Nico LMC impact
-    "10.3847/1538-3881/abbd3a",  # Nora Pal 13
+    # "10.3847/1538-4357/ac0b44",  # Nico LMC impact
+    # "10.3847/1538-3881/abbd3a",  # Nora Pal 13
     "10.3847/1538-4357/ab2873",  # Ana spur
 ]
 
