@@ -6,6 +6,9 @@ from utf8totex import utf8totex
 
 # To appear in CV as highlighted papers:
 SELECTED_PAPERS = [
+    "2401.07903",  # OTI 2024 method
+    "2312.07664",  # OTI Horta application
+    "2311.11359",  # LMC VPOS cosmo sims
     "10.1093/mnras/stad3918",  # Radial spirals
     "10.3847/1538-4357/ac9bfb",  # Cen A stream
     "10.3847/1538-4357/aca01f",  # Travel velocity timing argument
@@ -17,11 +20,11 @@ SELECTED_PAPERS = [
     # '10.3847/1538-4357/ab4bdd',   # PW1
     "10.3847/1538-4357/ab4bdd",  # Pal 5 RRL
     "10.3847/2041-8213/aad7b5",  # GD-1 DR2
-    "10.3847/1538-3881/aac387",  # DR14 APOGEE binaries
+    # "10.3847/1538-3881/aac387",  # DR14 APOGEE binaries
     "10.21105/joss.00388",  # Gala
     "10.3847/1538-4357/aa5e50",  # The Joker
     "10.1093/mnras/stv2383",  # Chaos+Streams
-    "10.1093/mnras/stv1324",  # TriAnd
+    # "10.1093/mnras/stv1324",  # TriAnd
     "10.1088/0004-637X/794/1/4",  # Rewinder
     # '10.3847/1538-4357/aaab4d',   # Kronos & Krios
     "10.3847/1538-3881/aa6ffd",  # Comoving Pairs
