@@ -6,16 +6,19 @@ from utf8totex import utf8totex
 
 # To appear in CV as highlighted papers:
 SELECTED_PAPERS = [
+    "2502.01745",  # Lux
+    "2502.13236",  # GD-1 DR3
+    "2405.19410",  # Stellar Streams review
     "2401.07903",  # OTI 2024 method
     "2312.07664",  # OTI Horta application
     "2311.11359",  # LMC VPOS cosmo sims
     "10.1093/mnras/stad3918",  # Radial spirals
-    "10.3847/1538-4357/ac9bfb",  # Cen A stream
-    "10.3847/1538-4357/aca01f",  # Travel velocity timing argument
+    # "10.3847/1538-4357/ac9bfb",  # Cen A stream
+    # "10.3847/1538-4357/aca01f",  # Travel velocity timing argument
     "10.3847/1538-4357/ac7c74",  # Astropy 2022
     "10.1093/mnrasl/slac082",  # Hunt multiple phase spirals
-    "10.3847/1538-4357/ac47f7",  # Gandhi snails
-    "10.3847/1538-4357/abe1b7",  # Orbital Torus Imaging
+    # "10.3847/1538-4357/ac47f7",  # Gandhi snails
+    # "10.3847/1538-4357/abe1b7",  # Orbital Torus Imaging
     "10.3847/1538-4357/ab8acc",  # DR16 APOGEE binaries
     # '10.3847/1538-4357/ab4bdd',   # PW1
     "10.3847/1538-4357/ab4bdd",  # Pal 5 RRL
@@ -46,6 +49,9 @@ _JOURNAL_MAP = {
     "Nature Astronomy": "\\natureast",
     "Publications of the Astronomical Society of the Pacific": "\\pasp",
     "Publications of the Astronomical Society of Japan": "\\pasj",
+    "New Astronomy Reviews": "New Astronomy Reviews",
+    "Research Notes of the American Astronomical Society": "\\rnaas",
+    "Bulletin of the American Astronomical Society": "\\baas",
 }
 
 JOURNAL_SKIP = [
@@ -205,7 +211,7 @@ def get_paper_items(papers):
             is_preprint = True
 
         if paper["volume"] is not None:
-            entry += ", \\textbf{{{0}}}".format(paper["volume"])
+            entry += f", {paper['volume']}"
 
         if paper["page"] is not None:
             entry += ", {0}".format(paper["page"])
