@@ -75,9 +75,22 @@ for k, v in _JOURNAL_MAP.items():
 
 def format_name(name):
     try:
-        last, others = name.split(", ")
-        others = ["{0}.".format(o[0]) for o in others.split()]
-        name = "{last}, {first}".format(first=" ".join(others), last=last)
+        # last, others = name.split(", ")
+        last, first_middle = re.split(r"(?<=[A-Za-z]),\s*", name, maxsplit=1)
+
+        others = []
+        for name in first_middle.split():
+            # Check if the name starts with a LaTeX accent command (like {\\'E})
+            if name.startswith("{\\") and "}" in name:
+                # Find the end of the accent command
+                end_idx = name.find("}")
+                first_char = name[: end_idx + 1]
+            else:
+                # Regular case: just take the first character
+                first_char = name[0]
+            others.append(f"{first_char}.")
+        first = " ".join(others)
+        name = "{last}, {first}".format(first=first, last=last)
 
     except ValueError:
         print("couldn't format name '{0}'".format(name))
@@ -107,7 +120,7 @@ def parse_authors(paper_dict, max_authors=4):
 
     else:
         # Add "incl. APW" after et al., because I'm buried in the author list
-        author_tex = "{0}".format(format_name(show_authors[0]))
+        author_tex = format_name(show_authors[0])
         author_tex += "~\\textit{et al.}~(incl. \\textbf{APW})"
 
     return author_tex
