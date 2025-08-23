@@ -6,13 +6,16 @@ from utf8totex import utf8totex
 
 # To appear in CV as highlighted papers:
 SELECTED_PAPERS = [
-    "2502.01745",  # Lux
-    "2502.13236",  # GD-1 DR3
-    "2405.19410",  # Stellar Streams review
-    "2401.07903",  # OTI 2024 method
-    "2312.07664",  # OTI Horta application
-    "2311.11359",  # LMC VPOS cosmo sims
-    "10.1093/mnras/stad3918",  # Radial spirals
+    "2507.10667",  # SBI MW-LMC (Brooks)
+    "2412.13144",  # Semi-analytic subhalos GD-1 (Adams)
+    "10.3847/1538-4357/adb8e8",  # StreamSculptor
+    "10.3847/1538-3881/adcc20",  # Lux
+    "10.3847/1538-4357/addd1c",  # GD-1 DR3
+    "10.1016/j.newar.2024.101713",  # Stellar Streams review
+    "10.3847/1538-4357/ad969a",  # OTI 2024 method
+    "10.3847/1538-4357/ad16e8",  # OTI Horta application
+    # "2311.11359",  # LMC VPOS cosmo sims
+    # "10.1093/mnras/stad3918",  # Radial spirals
     # "10.3847/1538-4357/ac9bfb",  # Cen A stream
     # "10.3847/1538-4357/aca01f",  # Travel velocity timing argument
     "10.3847/1538-4357/ac7c74",  # Astropy 2022
@@ -266,8 +269,7 @@ if __name__ == "__main__":
 
     if not path.exists("pubs.json"):
         raise FileNotFoundError(
-            "File 'pubs.json' not found - run get_pubs.py "
-            "before running this script."
+            "File 'pubs.json' not found - run get_pubs.py before running this script."
         )
 
     with open("pubs.json", "r") as f:
