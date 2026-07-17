@@ -6,9 +6,13 @@ from utf8totex import utf8totex
 
 # To appear in CV as highlighted papers:
 SELECTED_PAPERS = [
-    "2507.10667",  # SBI MW-LMC (Brooks)
-    "2412.13144",  # Semi-analytic subhalos GD-1 (Adams)
-    "10.3847/1538-4357/adb8e8",  # StreamSculptor
+    "10.21105/joss.07771",  # unxt (Starkman)
+    "10.3847/1538-4357/ae1610",  # StarStream (method; Chen )
+    "10.3847/1538-4357/ae43de",  # OTI circ vel (Horta)
+    "10.3847/1538-4357/ae6776",  # GD-1 substructure (Nibauer)
+    # "2507.10667",  # SBI MW-LMC (Brooks)
+    # "2412.13144",  # Semi-analytic subhalos GD-1 (Adams)
+    # "10.3847/1538-4357/adb8e8",  # StreamSculptor
     "10.3847/1538-3881/adcc20",  # Lux
     "10.3847/1538-4357/addd1c",  # GD-1 DR3
     "10.1016/j.newar.2024.101713",  # Stellar Streams review
@@ -24,7 +28,8 @@ SELECTED_PAPERS = [
     # "10.3847/1538-4357/abe1b7",  # Orbital Torus Imaging
     "10.3847/1538-4357/ab8acc",  # DR16 APOGEE binaries
     # '10.3847/1538-4357/ab4bdd',   # PW1
-    "10.3847/1538-4357/ab4bdd",  # Pal 5 RRL
+    # "10.3847/1538-4357/ab4bdd",  # Pal 5 RRL
+    "10.3847/1538-4357/ab2873",  # GD-1 - spur and gap (Bonaca)
     "10.3847/2041-8213/aad7b5",  # GD-1 DR2
     # "10.3847/1538-3881/aac387",  # DR14 APOGEE binaries
     "10.21105/joss.00388",  # Gala
@@ -36,8 +41,41 @@ SELECTED_PAPERS = [
     "10.3847/1538-3881/aa6ffd",  # Comoving Pairs
     # "10.3847/1538-4357/ac0b44",  # Nico LMC impact
     # "10.3847/1538-3881/abbd3a",  # Nora Pal 13
-    "10.3847/1538-4357/ab2873",  # Ana spur
 ]
+
+# Last names (lowercase) of people I have *directly supervised* as students or
+# postdocs. When one of these people is the FIRST AUTHOR of a paper, their name
+# is underlined in the CV (rendered via the \advisee macro; see preamble.tex).
+# NOTE: matching is on the last name only and is case-insensitive, so watch out
+# for common surnames that might also belong to a non-advisee first author...
+SUPERVISED = [
+    "starkman",  # Nathaniel Starkman
+    "chen",  # StarStream (method)
+    "horta",  # Danny Horta
+    "nibauer",  # Jacob Nibauer
+    "brooks",  # Richard Brooks
+    "adams",  # Duncan Adams
+    "garavito-camargo",  # Nico Garavito-Camargo
+    # Graduate students (from mentoring section):
+    "oh",  # Semyeong Oh
+    "yavetz",  # Tomer Yavetz
+    "shipp",  # Nora Shipp
+    "gandhi",  # Suroor Gandhi
+    "chamberlain",  # Katie Chamberlain
+    "oeur",  # Micah Oeur
+    "tavangar",  # Kiyan Tavangar
+    "Sagear",  # Sheilar Sagear
+]
+SUPERVISED = [x.lower() for x in SUPERVISED]
+
+
+def is_supervised(name):
+    """Return True if `name` (formatted "Last, First ...") belongs to someone I
+    directly supervised, based on a case-insensitive last-name match against
+    SUPERVISED."""
+    last = name.split(",")[0].strip().lower()
+    return last in SUPERVISED
+
 
 _JOURNAL_MAP = {
     "ArXiv e-prints": "ArXiv",
@@ -109,11 +147,14 @@ def parse_authors(paper_dict, max_authors=4):
     if any(["price-whelan" in x.lower() for x in show_authors]):
         # Bold my name because it makes the cut to be shown
         names = []
-        for name in show_authors:
+        for i, name in enumerate(show_authors):
             if "price-whelan" in name.lower():
                 name = "\\textbf{Price-Whelan,~A.~M.}"
             else:
                 name = format_name(name)
+                # Underline the first author if they were directly supervised
+                if i == 0 and is_supervised(show_authors[0]):
+                    name = "\\advisee{{{0}}}".format(name)
             names.append(name)
 
         author_tex = "; ".join(names)
@@ -123,7 +164,11 @@ def parse_authors(paper_dict, max_authors=4):
 
     else:
         # Add "incl. APW" after et al., because I'm buried in the author list
-        author_tex = format_name(show_authors[0])
+        first_author = format_name(show_authors[0])
+        # Underline the first author if they were directly supervised
+        if is_supervised(show_authors[0]):
+            first_author = "\\advisee{{{0}}}".format(first_author)
+        author_tex = first_author
         author_tex += "~\\textit{et al.}~(incl. \\textbf{APW})"
 
     return author_tex
